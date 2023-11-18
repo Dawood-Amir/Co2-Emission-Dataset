@@ -1,0 +1,5573 @@
+,Country,Year,CO2EmissionRate (mt)
+0,Afghanistan,2021,8.35
+1,Albania,2021,4.59
+2,Algeria,2021,173
+3,Angola,2021,24.45
+4,Antigua and Barbuda,2021,0.78
+5,Argentina,2021,189
+6,Armenia,2021,6.77
+7,Aruba,2021,1.27
+8,Australia,2021,367.91
+9,Austria,2021,66.01
+10,Azerbaijan,2021,37.11
+11,Bahamas,2021,4.04
+12,Bahrain,2021,37.49
+13,Bangladesh,2021,106.87
+14,Barbados,2021,1.77
+15,Belarus,2021,58.36
+16,Belgium,2021,95.92
+17,Belize,2021,0.64
+18,Benin,2021,8.63
+19,Bermuda,2021,0.82
+20,Bhutan,2021,1.98
+21,Bolivia,2021,22.43
+22,Bosnia and Herzegovina,2021,15.37
+23,Botswana,2021,7
+24,Brazil,2021,489.86
+25,British Virgin Islands,2021,0.18
+26,Brunei,2021,7.21
+27,Bulgaria,2021,43.64
+28,Burkina Faso,2021,5.29
+29,Burundi,2021,0.71
+30,Cambodia,2021,16.96
+31,Cameroon,2021,10.2
+32,Canada,2021,563.54
+33,Cape Verde,2021,0.92
+34,Cayman Islands,2021,0.86
+35,Central African Republic,2021,0.28
+36,Chad,2021,2.21
+37,Chile,2021,85.7
+38,China,2021,"12,466.32"
+39,Colombia,2021,77.57
+40,Comoros,2021,0.28
+41,Cook Islands,2021,0.11
+42,Costa Rica,2021,8.09
+43,Croatia,2021,18
+44,Cuba,2021,24.61
+45,Cyprus,2021,6.75
+46,Czech Republic,2021,97.69
+47,Democratic Republic of the Congo,2021,3.37
+48,Denmark,2021,27.28
+49,Djibouti,2021,0.61
+50,Dominica,2021,0.19
+51,Dominican Republic,2021,27.73
+52,Ecuador,2021,41.14
+53,Egypt,2021,259.32
+54,El Salvador,2021,8.18
+55,Equatorial Guinea,2021,7
+56,Eritrea,2021,0.84
+57,Estonia,2021,14.91
+58,Eswatini,2021,1.51
+59,Ethiopia,2021,19.21
+60,Falkland Islands,2021,0.05
+61,Faroe Islands,2021,0.002
+62,Fiji,2021,1.73
+63,Finland,2021,38.99
+64,France,2021,302.33
+65,French Guiana,2021,0.84
+66,French Polynesia,2021,0.97
+67,Gabon,2021,5.52
+68,Georgia,2021,11.65
+69,Germany,2021,665.88
+70,Ghana,2021,23.64
+71,Gibraltar,2021,0.67
+72,Greece,2021,53.37
+73,Greenland,2021,0.46
+74,Grenada,2021,0.34
+75,Guadeloupe,2021,1.81
+76,Guatemala,2021,20.19
+77,Guinea,2021,3.44
+78,Guinea-Bissau,2021,0.32
+79,Guyana,2021,2.9
+80,Haiti,2021,3.24
+81,Honduras,2021,9.75
+82,Hong Kong,2021,33.21
+83,Hungary,2021,50.69
+84,Iceland,2021,2.91
+85,India,2021,"2,648.78"
+86,Indonesia,2021,602.59
+87,Iran,2021,710.83
+88,Iraq,2021,177.85
+89,Ireland,2021,35.01
+90,Palestina,2021,59.59
+91,Italy,2021,319.67
+92,Ivory Coast,2021,14.54
+93,Jamaica,2021,8.08
+94,Japan,2021,"1,084.69"
+95,Jordan,2021,24.3
+96,Kazakhstan,2021,211.21
+97,Kenya,2021,22.43
+98,Kiribati,2021,0.08
+99,Kuwait,2021,98.08
+100,Kyrgyzstan,2021,10.78
+101,Laos,2021,20.56
+102,Latvia,2021,7.21
+103,Lebanon,2021,25.77
+104,Liberia,2021,1.44
+105,Libya,2021,63.28
+106,Lithuania,2021,13.82
+107,Luxembourg,2021,8.45
+108,Macau,2021,2.66
+109,Madagascar,2021,5.3
+110,Malawi,2021,1.82
+111,Malaysia,2021,251.56
+112,Maldives,2021,2.21
+113,Mali,2021,5.92
+114,Malta,2021,1.75
+115,Martinique,2021,1.9
+116,Mauritania,2021,4.26
+117,Mauritius,2021,4.13
+118,Mexico,2021,418.35
+119,Moldova,2021,9.55
+120,Mongolia,2021,24.99
+121,Morocco,2021,73.97
+122,Mozambique,2021,8.64
+123,Myanmar,2021,40.05
+124,Namibia,2021,4.07
+125,Nepal,2021,14.31
+126,Netherlands,2021,146.87
+127,New Caledonia,2021,5.7
+128,New Zealand,2021,32.6
+129,Nicaragua,2021,5
+130,Niger,2021,2.47
+131,Nigeria,2021,127.03
+132,North Korea,2021,62.57
+133,North Macedonia,2021,7.51
+134,Norway,2021,42.33
+135,Oman,2021,94.62
+136,Pakistan,2021,219.79
+137,Palau,2021,1.32
+138,Panama,2021,12.51
+139,Papua New Guinea,2021,6.57
+140,Paraguay,2021,8.89
+141,Peru,2021,55.14
+142,Philippines,2021,147.96
+143,Poland,2021,320.77
+144,Portugal,2021,38.68
+145,Qatar,2021,97.69
+146,Réunion,2021,2.58
+147,Romania,2021,78.75
+148,Russia,2021,"1,942.54"
+149,Rwanda,2021,1.24
+150,"Saint Helena, Ascension and Tristan da Cunha",2021,0.02
+151,Saint Kitts and Nevis,2021,0.29
+152,Saint Lucia,2021,0.71
+153,Saint Pierre and Miquelon,2021,0.09
+154,Saint Vincent and the Grenadines,2021,0.23
+155,Samoa,2021,0.36
+156,São Tomé and Príncipe,2021,0.15
+157,Saudi Arabia,2021,586.4
+158,Senegal,2021,11.98
+159,Seychelles,2021,1.05
+160,Sierra Leone,2021,1.01
+161,Singapore,2021,58.18
+162,Slovakia,2021,37.48
+163,Slovenia,2021,14.17
+164,Solomon Islands,2021,0.33
+165,Somalia,2021,0.76
+166,South Africa,2021,435.52
+167,South Korea,2021,626.8
+168,Spain,2021,231.91
+169,Sri Lanka,2021,23.86
+170,Sudan,2021,21.37
+171,Suriname,2021,2.71
+172,Sweden,2021,38.92
+173,Switzerland,2021,35.07
+174,Syria,2021,25.86
+175,Taiwan,2021,288.16
+176,Tajikistan,2021,10.13
+177,Tanzania,2021,13.41
+178,Thailand,2021,269.57
+179,Togo,2021,2.26
+180,Tonga,2021,0.17
+181,Trinidad and Tobago,2021,28.99
+182,Tunisia,2021,31.79
+183,Turkey,2021,449.72
+184,Turkmenistan,2021,83.32
+185,Turks and Caicos Islands,2021,0.25
+186,Uganda,2021,6.82
+187,Ukraine,2021,185.46
+188,United Arab Emirates,2021,193.51
+189,United Kingdom,2021,335.36
+190,United States,2021,"4,752.08"
+191,Uruguay,2021,6.79
+192,Uzbekistan,2021,125.65
+193,Vanuatu,2021,0.22
+194,Venezuela,2021,104.67
+195,Vietnam,2021,321.41
+196,Yemen,2021,12.05
+197,Zambia,2021,7.01
+198,Zimbabwe,2021,12.29
+199,Afghanistan,1990,0.2
+200,Albania,1990,2.3
+201,Algeria,1990,3
+202,Angola,1990,0.4
+203,Antigua and Barbuda,1990,4.9
+204,Argentina,1990,3.5
+205,Armenia,1990,-
+206,Aruba,1990,29.1
+207,Australia,1990,17.2
+208,Austria,1990,7.9
+209,Azerbaijan,1990,-
+210,Bahamas,1990,7.6
+211,Bahrain,1990,24.1
+212,Bangladesh,1990,0.1
+213,Barbados,1990,4.1
+214,Belarus,1990,-
+215,Belgium,1990,10.8
+216,Belize,1990,1.6
+217,Benin,1990,0.1
+218,Bermuda,1990,10
+219,Bhutan,1990,0.2
+220,Bolivia,1990,0.8
+221,Bosnia and Herzegovina,1990,-
+222,Botswana,1990,1.6
+223,Brazil,1990,1.4
+224,British Virgin Islands,1990,4
+225,Brunei,1990,25
+226,Bulgaria,1990,8.7
+227,Burkina Faso,1990,0.1
+228,Burundi,1990,0.1
+229,Cambodia,1990,0
+230,Cameroon,1990,0.1
+231,Canada,1990,16.2
+232,Cape Verde,1990,0.2
+233,Cayman Islands,1990,9.7
+234,Central African Republic,1990,0.1
+235,Chad,1990,0
+236,Chile,1990,2.6
+237,China,1990,2.2
+238,Colombia,1990,1.7
+239,Comoros,1990,0.2
+240,Cook Islands,1990,1.2
+241,Costa Rica,1990,1
+242,Croatia,1990,-
+243,Cuba,1990,3.1
+244,Cyprus,1990,6.8
+245,Czech Republic,1990,-
+246,Democratic Republic of the Congo,1990,0.1
+247,Denmark,1990,9.8
+248,Djibouti,1990,0.7
+249,Dominica,1990,0.9
+250,Dominican Republic,1990,1.3
+251,Ecuador,1990,1.6
+252,Egypt,1990,1.3
+253,El Salvador,1990,0.5
+254,Equatorial Guinea,1990,0.3
+255,Eritrea,1990,-
+256,Estonia,1990,-
+257,Eswatini,1990,0.5
+258,Ethiopia,1990,0.1
+259,Falkland Islands,1990,18.5
+260,Faroe Islands,1990,13.2
+261,Fiji,1990,1.1
+262,Finland,1990,10.2
+263,France,1990,7
+264,French Guiana,1990,7
+265,French Polynesia,1990,3.2
+266,Gabon,1990,5
+267,Georgia,1990,-
+268,Germany,1990,-
+269,Ghana,1990,0.3
+270,Gibraltar,1990,3.4
+271,Greece,1990,7.2
+272,Greenland,1990,10
+273,Grenada,1990,1.3
+274,Guadeloupe,1990,3.3
+275,Guatemala,1990,0.6
+276,Guinea,1990,0.2
+277,Guinea-Bissau,1990,0.2
+278,Guyana,1990,1.6
+279,Haiti,1990,0.1
+280,Honduras,1990,0.5
+281,Hong Kong,1990,4.8
+282,Hungary,1990,6.1
+283,Iceland,1990,8.1
+284,India,1990,0.8
+285,Indonesia,1990,0.8
+286,Iran,1990,4
+287,Iraq,1990,2.9
+288,Ireland,1990,8.6
+289,Palestina,1990,7.8
+290,Italy,1990,7.5
+291,Ivory Coast,1990,0.5
+292,Jamaica,1990,3.4
+293,Japan,1990,9.4
+294,Jordan,1990,3.2
+295,Kazakhstan,1990,-
+296,Kenya,1990,0.2
+297,Kiribati,1990,0.3
+298,Kuwait,1990,19
+299,Kyrgyzstan,1990,-
+300,Laos,1990,0.1
+301,Latvia,1990,-
+302,Lebanon,1990,3.1
+303,Liberia,1990,0.2
+304,Libya,1990,9.2
+305,Lithuania,1990,6
+306,Luxembourg,1990,25.9
+307,Macau,1990,2.8
+308,Madagascar,1990,0.1
+309,Malawi,1990,0.1
+310,Malaysia,1990,3.1
+311,Maldives,1990,0.7
+312,Mali,1990,0
+313,Malta,1990,6
+314,Martinique,1990,5.8
+315,Mauritania,1990,1.3
+316,Mauritius,1990,1.4
+317,Mexico,1990,4.3
+318,Moldova,1990,-
+319,Mongolia,1990,4.5
+320,Morocco,1990,0.9
+321,Mozambique,1990,0.1
+322,Myanmar,1990,0.1
+323,Namibia,1990,0
+324,Nepal,1990,0
+325,Netherlands,1990,11
+326,New Caledonia,1990,9.5
+327,New Zealand,1990,7.1
+328,Nicaragua,1990,0.6
+329,Niger,1990,0.1
+330,Nigeria,1990,0.5
+331,North Korea,1990,12.2
+332,North Macedonia,1990,-
+333,Norway,1990,7.4
+334,Oman,1990,5.6
+335,Pakistan,1990,0.6
+336,Palau,1990,15.7
+337,Panama,1990,1.3
+338,Papua New Guinea,1990,0.5
+339,Paraguay,1990,0.5
+340,Peru,1990,1
+341,Philippines,1990,0.7
+342,Poland,1990,9.1
+343,Portugal,1990,4.4
+344,Qatar,1990,25.2
+345,Réunion,1990,2.4
+346,Romania,1990,6.8
+347,Russia,1990,-
+348,Rwanda,1990,0.1
+349,"Saint Helena, Ascension and Tristan da Cunha",1990,1.3
+350,Saint Kitts and Nevis,1990,1.6
+351,Saint Lucia,1990,1.2
+352,Saint Pierre and Miquelon,1990,14.6
+353,Saint Vincent and the Grenadines,1990,0.8
+354,Samoa,1990,0.8
+355,São Tomé and Príncipe,1990,0.4
+356,Saudi Arabia,1990,13.2
+357,Senegal,1990,0.4
+358,Seychelles,1990,1.6
+359,Sierra Leone,1990,0.1
+360,Singapore,1990,15.6
+361,Slovakia,1990,-
+362,Slovenia,1990,-
+363,Solomon Islands,1990,0.5
+364,Somalia,1990,0
+365,South Africa,1990,9.1
+366,South Korea,1990,5.6
+367,Spain,1990,5.9
+368,Sri Lanka,1990,0.2
+369,Sudan,1990,0.2
+370,Suriname,1990,4.5
+371,Sweden,1990,6
+372,Switzerland,1990,6.4
+373,Syria,1990,2.9
+374,Taiwan,1990,6.2
+375,Tajikistan,1990,-
+376,Tanzania,1990,0.1
+377,Thailand,1990,1.7
+378,Togo,1990,0.2
+379,Tonga,1990,0.8
+380,Trinidad and Tobago,1990,13.9
+381,Tunisia,1990,1.6
+382,Turkey,1990,2.7
+383,Turkmenistan,1990,-
+384,Turks and Caicos Islands,1990,-
+385,Uganda,1990,0
+386,Ukraine,1990,-
+387,United Arab Emirates,1990,29.4
+388,United Kingdom,1990,10
+389,United States,1990,19.1
+390,Uruguay,1990,1.3
+391,Uzbekistan,1990,5.3
+392,Vanuatu,1990,0.5
+393,Venezuela,1990,6.2
+394,Vietnam,1990,0.3
+395,Yemen,1990,0.8
+396,Zambia,1990,0.3
+397,Zimbabwe,1990,1.5
+398,Afghanistan,1991,0.2
+399,Albania,1991,1.2
+400,Algeria,1991,3
+401,Angola,1991,0.4
+402,Antigua and Barbuda,1991,4.7
+403,Argentina,1991,3.6
+404,Armenia,1991,-
+405,Aruba,1991,29.4
+406,Australia,1991,16.6
+407,Austria,1991,8.5
+408,Azerbaijan,1991,-
+409,Bahamas,1991,6.8
+410,Bahrain,1991,22.6
+411,Bangladesh,1991,0.1
+412,Barbados,1991,4.6
+413,Belarus,1991,-
+414,Belgium,1991,11.7
+415,Belize,1991,1.8
+416,Benin,1991,0.2
+417,Bermuda,1991,8.5
+418,Bhutan,1991,0.3
+419,Bolivia,1991,0.8
+420,Bosnia and Herzegovina,1991,-
+421,Botswana,1991,1.5
+422,Brazil,1991,1.4
+423,British Virgin Islands,1991,3.9
+424,Brunei,1991,22
+425,Bulgaria,1991,6.8
+426,Burkina Faso,1991,0.1
+427,Burundi,1991,0.1
+428,Cambodia,1991,0
+429,Cameroon,1991,0.1
+430,Canada,1991,16
+431,Cape Verde,1991,0.3
+432,Cayman Islands,1991,10
+433,Central African Republic,1991,0.1
+434,Chad,1991,0
+435,Chile,1991,2.5
+436,China,1991,2.2
+437,Colombia,1991,1.7
+438,Comoros,1991,0.2
+439,Cook Islands,1991,1.2
+440,Costa Rica,1991,1.1
+441,Croatia,1991,-
+442,Cuba,1991,2.8
+443,Cyprus,1991,6.9
+444,Czech Republic,1991,-
+445,Democratic Republic of the Congo,1991,0.1
+446,Denmark,1991,11.9
+447,Djibouti,1991,0.7
+448,Dominica,1991,0.9
+449,Dominican Republic,1991,1.3
+450,Ecuador,1991,1.6
+451,Egypt,1991,1.3
+452,El Salvador,1991,0.6
+453,Equatorial Guinea,1991,0.5
+454,Eritrea,1991,-
+455,Estonia,1991,-
+456,Eswatini,1991,0.4
+457,Ethiopia,1991,0.1
+458,Falkland Islands,1991,17.9
+459,Faroe Islands,1991,12.7
+460,Fiji,1991,0.9
+461,Finland,1991,11
+462,France,1991,7.5
+463,French Guiana,1991,6.9
+464,French Polynesia,1991,3.2
+465,Gabon,1991,1.5
+466,Georgia,1991,-
+467,Germany,1991,12
+468,Ghana,1991,0.3
+469,Gibraltar,1991,3.7
+470,Greece,1991,6.6
+471,Greenland,1991,9.9
+472,Grenada,1991,1.3
+473,Guadeloupe,1991,3.5
+474,Guatemala,1991,0.6
+475,Guinea,1991,0.2
+476,Guinea-Bissau,1991,0.2
+477,Guyana,1991,1.6
+478,Haiti,1991,0.1
+479,Honduras,1991,0.5
+480,Hong Kong,1991,5
+481,Hungary,1991,6.3
+482,Iceland,1991,7.9
+483,India,1991,0.8
+484,Indonesia,1991,1
+485,Iran,1991,4
+486,Iraq,1991,2.6
+487,Ireland,1991,9.4
+488,Palestina,1991,7.5
+489,Italy,1991,7.6
+490,Ivory Coast,1991,0.4
+491,Jamaica,1991,3.4
+492,Japan,1991,9.4
+493,Jordan,1991,2.8
+494,Kazakhstan,1991,-
+495,Kenya,1991,0.2
+496,Kiribati,1991,0.3
+497,Kuwait,1991,5.1
+498,Kyrgyzstan,1991,-
+499,Laos,1991,0.1
+500,Latvia,1991,-
+501,Lebanon,1991,3.1
+502,Liberia,1991,0.1
+503,Libya,1991,9.5
+504,Lithuania,1991,4.8
+505,Luxembourg,1991,27.6
+506,Macau,1991,2.9
+507,Madagascar,1991,0.1
+508,Malawi,1991,0.1
+509,Malaysia,1991,3.7
+510,Maldives,1991,0.8
+511,Mali,1991,0.1
+512,Malta,1991,6
+513,Martinique,1991,5.1
+514,Mauritania,1991,1.3
+515,Mauritius,1991,1.4
+516,Mexico,1991,4.1
+517,Moldova,1991,-
+518,Mongolia,1991,5.4
+519,Morocco,1991,1
+520,Mozambique,1991,0.1
+521,Myanmar,1991,0.1
+522,Namibia,1991,0.7
+523,Nepal,1991,0
+524,Netherlands,1991,11.5
+525,New Caledonia,1991,10.2
+526,New Zealand,1991,7.2
+527,Nicaragua,1991,0.5
+528,Niger,1991,0.1
+529,Nigeria,1991,0.5
+530,North Korea,1991,12.3
+531,North Macedonia,1991,-
+532,Norway,1991,7.5
+533,Oman,1991,5.7
+534,Pakistan,1991,0.6
+535,Palau,1991,15.4
+536,Panama,1991,1.4
+537,Papua New Guinea,1991,0.5
+538,Paraguay,1991,0.5
+539,Peru,1991,0.9
+540,Philippines,1991,0.7
+541,Poland,1991,9.1
+542,Portugal,1991,4.8
+543,Qatar,1991,36.7
+544,Réunion,1991,2.8
+545,Romania,1991,5.9
+546,Russia,1991,-
+547,Rwanda,1991,0.1
+548,"Saint Helena, Ascension and Tristan da Cunha",1991,1.3
+549,Saint Kitts and Nevis,1991,1.8
+550,Saint Lucia,1991,1.2
+551,Saint Pierre and Miquelon,1991,16.4
+552,Saint Vincent and the Grenadines,1991,0.7
+553,Samoa,1991,0.8
+554,São Tomé and Príncipe,1991,0.4
+555,Saudi Arabia,1991,16
+556,Senegal,1991,0.4
+557,Seychelles,1991,2
+558,Sierra Leone,1991,0.1
+559,Singapore,1991,15.3
+560,Slovakia,1991,-
+561,Slovenia,1991,-
+562,Solomon Islands,1991,0.5
+563,Somalia,1991,0
+564,South Africa,1991,9.2
+565,South Korea,1991,6.1
+566,Spain,1991,6
+567,Sri Lanka,1991,0.2
+568,Sudan,1991,0.2
+569,Suriname,1991,5.1
+570,Sweden,1991,6.4
+571,Switzerland,1991,6.2
+572,Syria,1991,3.3
+573,Taiwan,1991,6.7
+574,Tajikistan,1991,-
+575,Tanzania,1991,0.1
+576,Thailand,1991,2
+577,Togo,1991,0.2
+578,Tonga,1991,1
+579,Trinidad and Tobago,1991,17.1
+580,Tunisia,1991,1.8
+581,Turkey,1991,2.7
+582,Turkmenistan,1991,-
+583,Turks and Caicos Islands,1991,-
+584,Uganda,1991,0
+585,Ukraine,1991,-
+586,United Arab Emirates,1991,30.2
+587,United Kingdom,1991,10.3
+588,United States,1991,18.9
+589,Uruguay,1991,1.5
+590,Uzbekistan,1991,5.4
+591,Vanuatu,1991,0.4
+592,Venezuela,1991,5.7
+593,Vietnam,1991,0.3
+594,Yemen,1991,0.8
+595,Zambia,1991,0.3
+596,Zimbabwe,1991,1.5
+597,Afghanistan,1992,0.1
+598,Albania,1992,0.7
+599,Algeria,1992,3
+600,Angola,1992,0.4
+601,Antigua and Barbuda,1992,4.6
+602,Argentina,1992,3.6
+603,Armenia,1992,1.1
+604,Aruba,1992,25
+605,Australia,1992,16.9
+606,Austria,1992,7.8
+607,Azerbaijan,1992,5.9
+608,Bahamas,1992,6.7
+609,Bahrain,1992,20.1
+610,Bangladesh,1992,0.1
+611,Barbados,1992,3.8
+612,Belarus,1992,9.6
+613,Belgium,1992,11.4
+614,Belize,1992,1.8
+615,Benin,1992,0.2
+616,Bermuda,1992,6.7
+617,Bhutan,1992,0.4
+618,Bolivia,1992,1
+619,Bosnia and Herzegovina,1992,1
+620,Botswana,1992,2.3
+621,Brazil,1992,1.4
+622,British Virgin Islands,1992,4
+623,Brunei,1992,21.4
+624,Bulgaria,1992,6
+625,Burkina Faso,1992,0.1
+626,Burundi,1992,0.1
+627,Cambodia,1992,0
+628,Cameroon,1992,0.3
+629,Canada,1992,16.5
+630,Cape Verde,1992,0.3
+631,Cayman Islands,1992,9.7
+632,Central African Republic,1992,0.1
+633,Chad,1992,0
+634,Chile,1992,2.5
+635,China,1992,2.3
+636,Colombia,1992,1.8
+637,Comoros,1992,0.2
+638,Cook Islands,1992,1.2
+639,Costa Rica,1992,1.2
+640,Croatia,1992,3.7
+641,Cuba,1992,2.9
+642,Cyprus,1992,7.5
+643,Czech Republic,1992,13.5
+644,Democratic Republic of the Congo,1992,0.1
+645,Denmark,1992,10.5
+646,Djibouti,1992,0.7
+647,Dominica,1992,0.9
+648,Dominican Republic,1992,1.5
+649,Ecuador,1992,2.1
+650,Egypt,1992,1.3
+651,El Salvador,1992,0.6
+652,Equatorial Guinea,1992,0.5
+653,Eritrea,1992,-
+654,Estonia,1992,16.4
+655,Eswatini,1992,0.3
+656,Ethiopia,1992,0.1
+657,Falkland Islands,1992,17.2
+658,Faroe Islands,1992,14.4
+659,Fiji,1992,1
+660,Finland,1992,9.8
+661,France,1992,6.9
+662,French Guiana,1992,7
+663,French Polynesia,1992,3.2
+664,Gabon,1992,2.1
+665,Georgia,1992,3.1
+666,Germany,1992,11.5
+667,Ghana,1992,0.3
+668,Gibraltar,1992,3.2
+669,Greece,1992,7.3
+670,Greenland,1992,8.7
+671,Grenada,1992,1.3
+672,Guadeloupe,1992,3.6
+673,Guatemala,1992,0.6
+674,Guinea,1992,0.2
+675,Guinea-Bissau,1992,0.2
+676,Guyana,1992,1.5
+677,Haiti,1992,0.1
+678,Honduras,1992,0.6
+679,Hong Kong,1992,5.7
+680,Hungary,1992,5.8
+681,Iceland,1992,7.3
+682,India,1992,0.9
+683,Indonesia,1992,1.1
+684,Iran,1992,4.2
+685,Iraq,1992,3.2
+686,Ireland,1992,8.8
+687,Palestina,1992,8.4
+688,Italy,1992,7.6
+689,Ivory Coast,1992,0.3
+690,Jamaica,1992,3.4
+691,Japan,1992,9.5
+692,Jordan,1992,3.3
+693,Kazakhstan,1992,15.9
+694,Kenya,1992,0.2
+695,Kiribati,1992,0.3
+696,Kuwait,1992,10
+697,Kyrgyzstan,1992,2.5
+698,Laos,1992,0.1
+699,Latvia,1992,5.1
+700,Lebanon,1992,3.6
+701,Liberia,1992,0.1
+702,Libya,1992,8.9
+703,Lithuania,1992,4.8
+704,Luxembourg,1992,30.2
+705,Macau,1992,2.8
+706,Madagascar,1992,0.1
+707,Malawi,1992,0.1
+708,Malaysia,1992,3.9
+709,Maldives,1992,1.1
+710,Mali,1992,0
+711,Malta,1992,6.1
+712,Martinique,1992,5.6
+713,Mauritania,1992,1.4
+714,Mauritius,1992,1.6
+715,Mexico,1992,4.3
+716,Moldova,1992,4.8
+717,Mongolia,1992,4.9
+718,Morocco,1992,1
+719,Mozambique,1992,0.1
+720,Myanmar,1992,0.1
+721,Namibia,1992,0.7
+722,Nepal,1992,0.1
+723,Netherlands,1992,11.1
+724,New Caledonia,1992,9.9
+725,New Zealand,1992,7.5
+726,Nicaragua,1992,0.6
+727,Niger,1992,0.1
+728,Nigeria,1992,0.6
+729,North Korea,1992,12.3
+730,North Macedonia,1992,5.6
+731,Norway,1992,6.9
+732,Oman,1992,6.1
+733,Pakistan,1992,0.6
+734,Palau,1992,7.3
+735,Panama,1992,1.6
+736,Papua New Guinea,1992,0.5
+737,Paraguay,1992,0.6
+738,Peru,1992,0.9
+739,Philippines,1992,0.8
+740,Poland,1992,8.9
+741,Portugal,1992,5.2
+742,Qatar,1992,54.3
+743,Réunion,1992,2.8
+744,Romania,1992,5.4
+745,Russia,1992,14
+746,Rwanda,1992,0.1
+747,"Saint Helena, Ascension and Tristan da Cunha",1992,1.3
+748,Saint Kitts and Nevis,1992,1.8
+749,Saint Lucia,1992,1.4
+750,Saint Pierre and Miquelon,1992,15.1
+751,Saint Vincent and the Grenadines,1992,0.8
+752,Samoa,1992,0.8
+753,São Tomé and Príncipe,1992,0.4
+754,Saudi Arabia,1992,16.7
+755,Senegal,1992,0.4
+756,Seychelles,1992,2.2
+757,Sierra Leone,1992,0.1
+758,Singapore,1992,15.8
+759,Slovakia,1992,8.6
+760,Slovenia,1992,6.4
+761,Solomon Islands,1992,0.5
+762,Somalia,1992,0
+763,South Africa,1992,8.4
+764,South Korea,1992,6.5
+765,Spain,1992,6.3
+766,Sri Lanka,1992,0.3
+767,Sudan,1992,0.2
+768,Suriname,1992,5
+769,Sweden,1992,6.6
+770,Switzerland,1992,6.3
+771,Syria,1992,3.3
+772,Taiwan,1992,7.2
+773,Tajikistan,1992,1.3
+774,Tanzania,1992,0.1
+775,Thailand,1992,2.2
+776,Togo,1992,0.2
+777,Tonga,1992,0.7
+778,Trinidad and Tobago,1992,17
+779,Tunisia,1992,1.8
+780,Turkey,1992,2.7
+781,Turkmenistan,1992,7.2
+782,Turks and Caicos Islands,1992,-
+783,Uganda,1992,0
+784,Ukraine,1992,11.9
+785,United Arab Emirates,1992,29.5
+786,United Kingdom,1992,10.2
+787,United States,1992,18.6
+788,Uruguay,1992,1.6
+789,Uzbekistan,1992,4.9
+790,Vanuatu,1992,0.4
+791,Venezuela,1992,5.1
+792,Vietnam,1992,0.3
+793,Yemen,1992,1.1
+794,Zambia,1992,0.3
+795,Zimbabwe,1992,1.5
+796,Afghanistan,1993,0.1
+797,Albania,1993,0.7
+798,Algeria,1993,3
+799,Angola,1993,0.5
+800,Antigua and Barbuda,1993,4.8
+801,Argentina,1993,3.5
+802,Armenia,1993,0.9
+803,Aruba,1993,24.3
+804,Australia,1993,17.2
+805,Austria,1993,7.4
+806,Azerbaijan,1993,5.7
+807,Bahamas,1993,6.3
+808,Bahrain,1993,27.8
+809,Bangladesh,1993,0.1
+810,Barbados,1993,4.3
+811,Belarus,1993,7.8
+812,Belgium,1993,10.8
+813,Belize,1993,1.8
+814,Benin,1993,0.2
+815,Bermuda,1993,7.9
+816,Bhutan,1993,0.4
+817,Bolivia,1993,1.1
+818,Bosnia and Herzegovina,1993,0.7
+819,Botswana,1993,2.4
+820,Brazil,1993,1.5
+821,British Virgin Islands,1993,4.1
+822,Brunei,1993,20
+823,Bulgaria,1993,7.9
+824,Burkina Faso,1993,0.1
+825,Burundi,1993,0.1
+826,Cambodia,1993,0
+827,Cameroon,1993,0.3
+828,Canada,1993,16.7
+829,Cape Verde,1993,0.3
+830,Cayman Islands,1993,9.6
+831,Central African Republic,1993,0.1
+832,Chad,1993,0
+833,Chile,1993,2.6
+834,China,1993,2.4
+835,Colombia,1993,1.8
+836,Comoros,1993,0.2
+837,Cook Islands,1993,1.2
+838,Costa Rica,1993,1.2
+839,Croatia,1993,3.7
+840,Cuba,1993,2.7
+841,Cyprus,1993,8
+842,Czech Republic,1993,12.8
+843,Democratic Republic of the Congo,1993,0.1
+844,Denmark,1993,11.5
+845,Djibouti,1993,0.7
+846,Dominica,1993,0.9
+847,Dominican Republic,1993,1.5
+848,Ecuador,1993,2.2
+849,Egypt,1993,1.5
+850,El Salvador,1993,0.7
+851,Equatorial Guinea,1993,0.2
+852,Eritrea,1993,-
+853,Estonia,1993,13.5
+854,Eswatini,1993,0.1
+855,Ethiopia,1993,0.1
+856,Falkland Islands,1993,16.4
+857,Faroe Islands,1993,13.4
+858,Fiji,1993,1
+859,Finland,1993,10.3
+860,France,1993,6.8
+861,French Guiana,1993,6.7
+862,French Polynesia,1993,3.1
+863,Gabon,1993,3.2
+864,Georgia,1993,2
+865,Germany,1993,11.3
+866,Ghana,1993,0.3
+867,Gibraltar,1993,11.7
+868,Greece,1993,7.2
+869,Greenland,1993,9
+870,Grenada,1993,1.5
+871,Guadeloupe,1993,3.7
+872,Guatemala,1993,0.6
+873,Guinea,1993,0.2
+874,Guinea-Bissau,1993,0.3
+875,Guyana,1993,1.5
+876,Haiti,1993,0.1
+877,Honduras,1993,0.5
+878,Hong Kong,1993,5.9
+879,Hungary,1993,5.9
+880,Iceland,1993,7.6
+881,India,1993,0.9
+882,Indonesia,1993,1.2
+883,Iran,1993,3.8
+884,Iraq,1993,3.4
+885,Ireland,1993,8.8
+886,Palestina,1993,8.6
+887,Italy,1993,7.4
+888,Ivory Coast,1993,0.4
+889,Jamaica,1993,3.5
+890,Japan,1993,9.4
+891,Jordan,1993,3.1
+892,Kazakhstan,1993,13.6
+893,Kenya,1993,0.2
+894,Kiribati,1993,0.3
+895,Kuwait,1993,16.9
+896,Kyrgyzstan,1993,1.9
+897,Laos,1993,0.1
+898,Latvia,1993,4.5
+899,Lebanon,1993,3.6
+900,Liberia,1993,0.2
+901,Libya,1993,9.2
+902,Lithuania,1993,4.5
+903,Luxembourg,1993,27.3
+904,Macau,1993,3
+905,Madagascar,1993,0.1
+906,Malawi,1993,0.1
+907,Malaysia,1993,4.7
+908,Maldives,1993,0.9
+909,Mali,1993,0
+910,Malta,1993,7.2
+911,Martinique,1993,5.5
+912,Mauritania,1993,1.4
+913,Mauritius,1993,1.6
+914,Mexico,1993,3.9
+915,Moldova,1993,3.6
+916,Mongolia,1993,4.1
+917,Morocco,1993,1.1
+918,Mozambique,1993,0.1
+919,Myanmar,1993,0.1
+920,Namibia,1993,0.7
+921,Nepal,1993,0.1
+922,Netherlands,1993,11.3
+923,New Caledonia,1993,9.6
+924,New Zealand,1993,7.2
+925,Nicaragua,1993,0.5
+926,Niger,1993,0.1
+927,Nigeria,1993,0.6
+928,North Korea,1993,12.4
+929,North Macedonia,1993,5.3
+930,Norway,1993,7.3
+931,Oman,1993,6.6
+932,Pakistan,1993,0.6
+933,Palau,1993,6.8
+934,Panama,1993,1.6
+935,Papua New Guinea,1993,0.4
+936,Paraguay,1993,0.6
+937,Peru,1993,1
+938,Philippines,1993,0.8
+939,Poland,1993,9.2
+940,Portugal,1993,4.7
+941,Qatar,1993,60.9
+942,Réunion,1993,2.7
+943,Romania,1993,5.3
+944,Russia,1993,12.8
+945,Rwanda,1993,0.1
+946,"Saint Helena, Ascension and Tristan da Cunha",1993,1.3
+947,Saint Kitts and Nevis,1993,2
+948,Saint Lucia,1993,1.6
+949,Saint Pierre and Miquelon,1993,11.6
+950,Saint Vincent and the Grenadines,1993,1
+951,Samoa,1993,0.8
+952,São Tomé and Príncipe,1993,0.4
+953,Saudi Arabia,1993,18
+954,Senegal,1993,0.4
+955,Seychelles,1993,2.2
+956,Sierra Leone,1993,0.1
+957,Singapore,1993,16.7
+958,Slovakia,1993,7.7
+959,Slovenia,1993,6.5
+960,Solomon Islands,1993,0.5
+961,Somalia,1993,0
+962,South Africa,1993,8.7
+963,South Korea,1993,7.1
+964,Spain,1993,5.8
+965,Sri Lanka,1993,0.3
+966,Sudan,1993,0.1
+967,Suriname,1993,5.1
+968,Sweden,1993,6.1
+969,Switzerland,1993,5.9
+970,Syria,1993,3.4
+971,Taiwan,1993,7.7
+972,Tajikistan,1993,0.9
+973,Tanzania,1993,0.1
+974,Thailand,1993,2.4
+975,Togo,1993,0.2
+976,Tonga,1993,0.9
+977,Trinidad and Tobago,1993,13.5
+978,Tunisia,1993,1.9
+979,Turkey,1993,2.8
+980,Turkmenistan,1993,6.9
+981,Turks and Caicos Islands,1993,-
+982,Uganda,1993,0
+983,Ukraine,1993,10.1
+984,United Arab Emirates,1993,31.1
+985,United Kingdom,1993,9.8
+986,United States,1993,19.5
+987,Uruguay,1993,1.4
+988,Uzbekistan,1993,4.4
+989,Vanuatu,1993,0.4
+990,Venezuela,1993,5.9
+991,Vietnam,1993,0.3
+992,Yemen,1993,0.7
+993,Zambia,1993,0.3
+994,Zimbabwe,1993,1.4
+995,Afghanistan,1994,0.1
+996,Albania,1994,0.6
+997,Algeria,1994,3
+998,Angola,1994,0.3
+999,Antigua and Barbuda,1994,4.7
+1000,Argentina,1994,3.6
+1001,Armenia,1994,0.9
+1002,Aruba,1994,23.2
+1003,Australia,1994,17.1
+1004,Austria,1994,7.3
+1005,Azerbaijan,1994,5.5
+1006,Bahamas,1994,6.1
+1007,Bahrain,1994,27.2
+1008,Bangladesh,1994,0.2
+1009,Barbados,1994,2.9
+1010,Belarus,1994,7
+1011,Belgium,1994,11.2
+1012,Belize,1994,1.7
+1013,Benin,1994,0.2
+1014,Bermuda,1994,7.7
+1015,Bhutan,1994,0.4
+1016,Bolivia,1994,1.2
+1017,Bosnia and Herzegovina,1994,0.8
+1018,Botswana,1994,2.3
+1019,Brazil,1994,1.5
+1020,British Virgin Islands,1994,4.5
+1021,Brunei,1994,18.8
+1022,Bulgaria,1994,6.4
+1023,Burkina Faso,1994,0.1
+1024,Burundi,1994,0.1
+1025,Cambodia,1994,0
+1026,Cameroon,1994,0.3
+1027,Canada,1994,15.7
+1028,Cape Verde,1994,0.3
+1029,Cayman Islands,1994,9.2
+1030,Central African Republic,1994,0.1
+1031,Chad,1994,0
+1032,Chile,1994,2.8
+1033,China,1994,2.6
+1034,Colombia,1994,1.9
+1035,Comoros,1994,0.2
+1036,Cook Islands,1994,1.2
+1037,Costa Rica,1994,1.6
+1038,Croatia,1994,3.8
+1039,Cuba,1994,3
+1040,Cyprus,1994,8.1
+1041,Czech Republic,1994,12.3
+1042,Democratic Republic of the Congo,1994,0.1
+1043,Denmark,1994,11.7
+1044,Djibouti,1994,0.7
+1045,Dominica,1994,1
+1046,Dominican Republic,1994,1.6
+1047,Ecuador,1994,1.2
+1048,Egypt,1994,1.4
+1049,El Salvador,1994,0.8
+1050,Equatorial Guinea,1994,0.1
+1051,Eritrea,1994,0.1
+1052,Estonia,1994,13.8
+1053,Eswatini,1994,0.5
+1054,Ethiopia,1994,0.1
+1055,Falkland Islands,1994,15.7
+1056,Faroe Islands,1994,11.9
+1057,Fiji,1994,1.1
+1058,Finland,1994,11.7
+1059,France,1994,6.4
+1060,French Guiana,1994,6.7
+1061,French Polynesia,1994,2.7
+1062,Gabon,1994,3.2
+1063,Georgia,1994,1.3
+1064,Germany,1994,11.1
+1065,Ghana,1994,0.3
+1066,Gibraltar,1994,14
+1067,Greece,1994,7.4
+1068,Greenland,1994,9.1
+1069,Grenada,1994,1.7
+1070,Guadeloupe,1994,3.7
+1071,Guatemala,1994,0.7
+1072,Guinea,1994,0.2
+1073,Guinea-Bissau,1994,0.2
+1074,Guyana,1994,1.9
+1075,Haiti,1994,0
+1076,Honduras,1994,0.6
+1077,Hong Kong,1994,5.1
+1078,Hungary,1994,5.7
+1079,Iceland,1994,7.6
+1080,India,1994,0.9
+1081,Indonesia,1994,1.2
+1082,Iran,1994,4.8
+1083,Iraq,1994,3.7
+1084,Ireland,1994,9.1
+1085,Palestina,1994,9
+1086,Italy,1994,7.2
+1087,Ivory Coast,1994,0.4
+1088,Jamaica,1994,3.5
+1089,Japan,1994,9.9
+1090,Jordan,1994,3.3
+1091,Kazakhstan,1994,12.4
+1092,Kenya,1994,0.2
+1093,Kiribati,1994,0.3
+1094,Kuwait,1994,20.8
+1095,Kyrgyzstan,1994,1.3
+1096,Laos,1994,0.1
+1097,Latvia,1994,4.3
+1098,Lebanon,1994,3.8
+1099,Liberia,1994,0.2
+1100,Libya,1994,8.9
+1101,Lithuania,1994,4.4
+1102,Luxembourg,1994,25.4
+1103,Macau,1994,3.2
+1104,Madagascar,1994,0.1
+1105,Malawi,1994,0.1
+1106,Malaysia,1994,4.7
+1107,Maldives,1994,0.9
+1108,Mali,1994,0
+1109,Malta,1994,7.1
+1110,Martinique,1994,5.6
+1111,Mauritania,1994,1.4
+1112,Mauritius,1994,1.5
+1113,Mexico,1994,4.1
+1114,Moldova,1994,2.8
+1115,Mongolia,1994,3.5
+1116,Morocco,1994,1.1
+1117,Mozambique,1994,0.1
+1118,Myanmar,1994,0.1
+1119,Namibia,1994,0.8
+1120,Nepal,1994,0.1
+1121,Netherlands,1994,11.3
+1122,New Caledonia,1994,9.1
+1123,New Zealand,1994,7.2
+1124,Nicaragua,1994,0.6
+1125,Niger,1994,0.1
+1126,Nigeria,1994,0.4
+1127,North Korea,1994,12.1
+1128,North Macedonia,1994,5.4
+1129,Norway,1994,6.7
+1130,Oman,1994,7.2
+1131,Pakistan,1994,0.7
+1132,Palau,1994,6.6
+1133,Panama,1994,1.8
+1134,Papua New Guinea,1994,0.5
+1135,Paraguay,1994,0.7
+1136,Peru,1994,1
+1137,Philippines,1994,0.8
+1138,Poland,1994,8.7
+1139,Portugal,1994,4.9
+1140,Qatar,1994,58.7
+1141,Réunion,1994,3
+1142,Romania,1994,5.1
+1143,Russia,1994,10.9
+1144,Rwanda,1994,0.1
+1145,"Saint Helena, Ascension and Tristan da Cunha",1994,1.3
+1146,Saint Kitts and Nevis,1994,2.1
+1147,Saint Lucia,1994,1.8
+1148,Saint Pierre and Miquelon,1994,11.1
+1149,Saint Vincent and the Grenadines,1994,1.1
+1150,Samoa,1994,0.7
+1151,São Tomé and Príncipe,1994,0.4
+1152,Saudi Arabia,1994,17.4
+1153,Senegal,1994,0.5
+1154,Seychelles,1994,2.5
+1155,Sierra Leone,1994,0.1
+1156,Singapore,1994,19.4
+1157,Slovakia,1994,7.6
+1158,Slovenia,1994,5.5
+1159,Solomon Islands,1994,0.4
+1160,Somalia,1994,0
+1161,South Africa,1994,8.9
+1162,South Korea,1994,7.7
+1163,Spain,1994,6.2
+1164,Sri Lanka,1994,0.3
+1165,Sudan,1994,0.1
+1166,Suriname,1994,5
+1167,Sweden,1994,6.4
+1168,Switzerland,1994,5.9
+1169,Syria,1994,3.4
+1170,Taiwan,1994,8
+1171,Tajikistan,1994,0.4
+1172,Tanzania,1994,0.1
+1173,Thailand,1994,2.7
+1174,Togo,1994,0.2
+1175,Tonga,1994,1
+1176,Trinidad and Tobago,1994,15.8
+1177,Tunisia,1994,1.8
+1178,Turkey,1994,2.7
+1179,Turkmenistan,1994,8.2
+1180,Turks and Caicos Islands,1994,-
+1181,Uganda,1994,0
+1182,Ukraine,1994,8.3
+1183,United Arab Emirates,1994,33.1
+1184,United Kingdom,1994,9.7
+1185,United States,1994,19.5
+1186,Uruguay,1994,1.3
+1187,Uzbekistan,1994,4.4
+1188,Vanuatu,1994,0.4
+1189,Venezuela,1994,6
+1190,Vietnam,1994,0.4
+1191,Yemen,1994,0.8
+1192,Zambia,1994,0.3
+1193,Zimbabwe,1994,1.5
+1194,Afghanistan,1995,0.1
+1195,Albania,1995,0.7
+1196,Algeria,1995,3.3
+1197,Angola,1995,0.9
+1198,Antigua and Barbuda,1995,4.7
+1199,Argentina,1995,3.5
+1200,Armenia,1995,1.1
+1201,Aruba,1995,22.5
+1202,Australia,1995,17.1
+1203,Austria,1995,7.6
+1204,Azerbaijan,1995,4.3
+1205,Bahamas,1995,6
+1206,Bahrain,1995,27.7
+1207,Bangladesh,1995,0.2
+1208,Barbados,1995,3.2
+1209,Belarus,1995,6.3
+1210,Belgium,1995,11.3
+1211,Belize,1995,1.7
+1212,Benin,1995,0.2
+1213,Bermuda,1995,7.6
+1214,Bhutan,1995,0.5
+1215,Bolivia,1995,1.3
+1216,Bosnia and Herzegovina,1995,0.9
+1217,Botswana,1995,2.3
+1218,Brazil,1995,1.7
+1219,British Virgin Islands,1995,4.6
+1220,Brunei,1995,18.7
+1221,Bulgaria,1995,7
+1222,Burkina Faso,1995,0.1
+1223,Burundi,1995,0.1
+1224,Cambodia,1995,0.1
+1225,Cameroon,1995,0.3
+1226,Canada,1995,15.7
+1227,Cape Verde,1995,0.3
+1228,Cayman Islands,1995,8.8
+1229,Central African Republic,1995,0.1
+1230,Chad,1995,0
+1231,Chile,1995,3
+1232,China,1995,2.7
+1233,Colombia,1995,1.6
+1234,Comoros,1995,0.2
+1235,Cook Islands,1995,1.2
+1236,Costa Rica,1995,1.4
+1237,Croatia,1995,3.9
+1238,Cuba,1995,2.4
+1239,Cyprus,1995,7.8
+1240,Czech Republic,1995,12.5
+1241,Democratic Republic of the Congo,1995,0.1
+1242,Denmark,1995,10.7
+1243,Djibouti,1995,0.7
+1244,Dominica,1995,1.2
+1245,Dominican Republic,1995,2
+1246,Ecuador,1995,2
+1247,Egypt,1995,1.5
+1248,El Salvador,1995,0.9
+1249,Equatorial Guinea,1995,0.3
+1250,Eritrea,1995,0.1
+1251,Estonia,1995,12.6
+1252,Eswatini,1995,0.5
+1253,Ethiopia,1995,0
+1254,Falkland Islands,1995,16.3
+1255,Faroe Islands,1995,14.7
+1256,Fiji,1995,1.2
+1257,Finland,1995,10.2
+1258,France,1995,6.8
+1259,French Guiana,1995,6.6
+1260,French Polynesia,1995,2.7
+1261,Gabon,1995,3.6
+1262,Georgia,1995,0.5
+1263,Germany,1995,11
+1264,Ghana,1995,0.3
+1265,Gibraltar,1995,12.1
+1266,Greece,1995,7.4
+1267,Greenland,1995,9.1
+1268,Grenada,1995,1.7
+1269,Guadeloupe,1995,3.8
+1270,Guatemala,1995,0.7
+1271,Guinea,1995,0.2
+1272,Guinea-Bissau,1995,0.2
+1273,Guyana,1995,2
+1274,Haiti,1995,0.1
+1275,Honduras,1995,0.7
+1276,Hong Kong,1995,5.1
+1277,Hungary,1995,6
+1278,Iceland,1995,7.3
+1279,India,1995,1
+1280,Indonesia,1995,1.2
+1281,Iran,1995,4.6
+1282,Iraq,1995,3.7
+1283,Ireland,1995,9.1
+1284,Palestina,1995,9.3
+1285,Italy,1995,7.7
+1286,Ivory Coast,1995,0.5
+1287,Jamaica,1995,3.9
+1288,Japan,1995,9.9
+1289,Jordan,1995,3.1
+1290,Kazakhstan,1995,10.5
+1291,Kenya,1995,0.3
+1292,Kiribati,1995,0.3
+1293,Kuwait,1995,30.8
+1294,Kyrgyzstan,1995,1
+1295,Laos,1995,0.1
+1296,Latvia,1995,3.8
+1297,Lebanon,1995,3.9
+1298,Liberia,1995,0.2
+1299,Libya,1995,9.6
+1300,Lithuania,1995,4.3
+1301,Luxembourg,1995,20.4
+1302,Macau,1995,3
+1303,Madagascar,1995,0.1
+1304,Malawi,1995,0.1
+1305,Malaysia,1995,5.9
+1306,Maldives,1995,1.1
+1307,Mali,1995,0
+1308,Malta,1995,7.1
+1309,Martinique,1995,5.5
+1310,Mauritania,1995,1.3
+1311,Mauritius,1995,1.6
+1312,Mexico,1995,3.8
+1313,Moldova,1995,2.6
+1314,Mongolia,1995,3.5
+1315,Morocco,1995,1.1
+1316,Mozambique,1995,0.1
+1317,Myanmar,1995,0.2
+1318,Namibia,1995,1
+1319,Nepal,1995,0.1
+1320,Netherlands,1995,11.4
+1321,New Caledonia,1995,9
+1322,New Zealand,1995,7.3
+1323,Nicaragua,1995,0.6
+1324,Niger,1995,0.1
+1325,Nigeria,1995,0.3
+1326,North Korea,1995,11.9
+1327,North Macedonia,1995,5.5
+1328,Norway,1995,7.6
+1329,Oman,1995,7.3
+1330,Pakistan,1995,0.6
+1331,Palau,1995,6.7
+1332,Panama,1995,1.3
+1333,Papua New Guinea,1995,0.4
+1334,Paraguay,1995,0.8
+1335,Peru,1995,1
+1336,Philippines,1995,0.9
+1337,Poland,1995,9
+1338,Portugal,1995,5.3
+1339,Qatar,1995,58.6
+1340,Réunion,1995,3.2
+1341,Romania,1995,5.7
+1342,Russia,1995,10.5
+1343,Rwanda,1995,0.1
+1344,"Saint Helena, Ascension and Tristan da Cunha",1995,2.1
+1345,Saint Kitts and Nevis,1995,2.2
+1346,Saint Lucia,1995,2.1
+1347,Saint Pierre and Miquelon,1995,11.1
+1348,Saint Vincent and the Grenadines,1995,1.2
+1349,Samoa,1995,0.8
+1350,São Tomé and Príncipe,1995,0.4
+1351,Saudi Arabia,1995,12.9
+1352,Senegal,1995,0.4
+1353,Seychelles,1995,2.5
+1354,Sierra Leone,1995,0.1
+1355,Singapore,1995,13.5
+1356,Slovakia,1995,8.1
+1357,Slovenia,1995,7.1
+1358,Solomon Islands,1995,0.4
+1359,Somalia,1995,0
+1360,South Africa,1995,8.5
+1361,South Korea,1995,8.3
+1362,Spain,1995,6.5
+1363,Sri Lanka,1995,0.3
+1364,Sudan,1995,0.1
+1365,Suriname,1995,5
+1366,Sweden,1995,6.1
+1367,Switzerland,1995,5.6
+1368,Syria,1995,3.5
+1369,Taiwan,1995,8.4
+1370,Tajikistan,1995,0.4
+1371,Tanzania,1995,0.1
+1372,Thailand,1995,3
+1373,Togo,1995,0.2
+1374,Tonga,1995,1
+1375,Trinidad and Tobago,1995,16.6
+1376,Tunisia,1995,1.8
+1377,Turkey,1995,2.9
+1378,Turkmenistan,1995,8.3
+1379,Turks and Caicos Islands,1995,0.7
+1380,Uganda,1995,0
+1381,Ukraine,1995,8.4
+1382,United Arab Emirates,1995,30.3
+1383,United Kingdom,1995,9.7
+1384,United States,1995,19.3
+1385,Uruguay,1995,1.4
+1386,Uzbekistan,1995,4.3
+1387,Vanuatu,1995,0.4
+1388,Venezuela,1995,6
+1389,Vietnam,1995,0.4
+1390,Yemen,1995,0.7
+1391,Zambia,1995,0.2
+1392,Zimbabwe,1995,1.3
+1393,Afghanistan,1996,0.1
+1394,Albania,1996,0.6
+1395,Algeria,1996,3.3
+1396,Angola,1996,0.8
+1397,Antigua and Barbuda,1996,4.6
+1398,Argentina,1996,3.7
+1399,Armenia,1996,0.8
+1400,Aruba,1996,22.1
+1401,Australia,1996,18.1
+1402,Austria,1996,7.7
+1403,Azerbaijan,1996,4
+1404,Bahamas,1996,5.9
+1405,Bahrain,1996,26.3
+1406,Bangladesh,1996,0.2
+1407,Barbados,1996,3.3
+1408,Belarus,1996,6.3
+1409,Belgium,1996,11.9
+1410,Belize,1996,1.4
+1411,Benin,1996,0.2
+1412,Bermuda,1996,7.7
+1413,Bhutan,1996,0.6
+1414,Bolivia,1996,1.1
+1415,Bosnia and Herzegovina,1996,1.1
+1416,Botswana,1996,2
+1417,Brazil,1996,1.8
+1418,British Virgin Islands,1996,5.1
+1419,Brunei,1996,18.5
+1420,Bulgaria,1996,6.7
+1421,Burkina Faso,1996,0.1
+1422,Burundi,1996,0.1
+1423,Cambodia,1996,0.1
+1424,Cameroon,1996,0.3
+1425,Canada,1996,15.8
+1426,Cape Verde,1996,0.3
+1427,Cayman Islands,1996,8.4
+1428,Central African Republic,1996,0.1
+1429,Chad,1996,0
+1430,Chile,1996,3.4
+1431,China,1996,2.8
+1432,Colombia,1996,1.6
+1433,Comoros,1996,0.1
+1434,Cook Islands,1996,1.2
+1435,Costa Rica,1996,1.3
+1436,Croatia,1996,4.1
+1437,Cuba,1996,2.5
+1438,Cyprus,1996,8
+1439,Czech Republic,1996,12.9
+1440,Democratic Republic of the Congo,1996,0.1
+1441,Denmark,1996,13
+1442,Djibouti,1996,0.7
+1443,Dominica,1996,1.1
+1444,Dominican Republic,1996,2.1
+1445,Ecuador,1996,2.1
+1446,Egypt,1996,1.6
+1447,El Salvador,1996,0.8
+1448,Equatorial Guinea,1996,0.3
+1449,Eritrea,1996,0.1
+1450,Estonia,1996,13.5
+1451,Eswatini,1996,0.3
+1452,Ethiopia,1996,0.1
+1453,Falkland Islands,1996,17.2
+1454,Faroe Islands,1996,15.1
+1455,Fiji,1996,1.2
+1456,Finland,1996,12
+1457,France,1996,7
+1458,French Guiana,1996,6.3
+1459,French Polynesia,1996,2.5
+1460,Gabon,1996,3.2
+1461,Georgia,1996,0.9
+1462,Germany,1996,11.3
+1463,Ghana,1996,0.3
+1464,Gibraltar,1996,6.7
+1465,Greece,1996,7.5
+1466,Greenland,1996,9.3
+1467,Grenada,1996,1.7
+1468,Guadeloupe,1996,3.7
+1469,Guatemala,1996,0.6
+1470,Guinea,1996,0.2
+1471,Guinea-Bissau,1996,0.2
+1472,Guyana,1996,2.1
+1473,Haiti,1996,0.1
+1474,Honduras,1996,0.7
+1475,Hong Kong,1996,4.6
+1476,Hungary,1996,6.2
+1477,Iceland,1996,8.2
+1478,India,1996,1
+1479,Indonesia,1996,1.3
+1480,Iran,1996,4.5
+1481,Iraq,1996,3.2
+1482,Ireland,1996,9.6
+1483,Palestina,1996,9.4
+1484,Italy,1996,7.5
+1485,Ivory Coast,1996,0.5
+1486,Jamaica,1996,4.1
+1487,Japan,1996,10.1
+1488,Jordan,1996,3.2
+1489,Kazakhstan,1996,9
+1490,Kenya,1996,0.3
+1491,Kiribati,1996,0.5
+1492,Kuwait,1996,28.5
+1493,Kyrgyzstan,1996,1.2
+1494,Laos,1996,0.1
+1495,Latvia,1996,3.8
+1496,Lebanon,1996,3.9
+1497,Liberia,1996,0.2
+1498,Libya,1996,8.7
+1499,Lithuania,1996,4.6
+1500,Luxembourg,1996,20.4
+1501,Macau,1996,3.4
+1502,Madagascar,1996,0.1
+1503,Malawi,1996,0.1
+1504,Malaysia,1996,5.9
+1505,Maldives,1996,1.3
+1506,Mali,1996,0
+1507,Malta,1996,7.8
+1508,Martinique,1996,5.5
+1509,Mauritania,1996,1.3
+1510,Mauritius,1996,1.7
+1511,Mexico,1996,3.9
+1512,Moldova,1996,2.7
+1513,Mongolia,1996,3.5
+1514,Morocco,1996,1.1
+1515,Mozambique,1996,0.1
+1516,Myanmar,1996,0.2
+1517,Namibia,1996,1
+1518,Nepal,1996,0.1
+1519,Netherlands,1996,12
+1520,New Caledonia,1996,8.9
+1521,New Zealand,1996,8
+1522,Nicaragua,1996,0.6
+1523,Niger,1996,0.1
+1524,Nigeria,1996,0.4
+1525,North Korea,1996,11.7
+1526,North Macedonia,1996,5.9
+1527,Norway,1996,7.6
+1528,Oman,1996,6.8
+1529,Pakistan,1996,0.7
+1530,Palau,1996,6.7
+1531,Panama,1996,1.8
+1532,Papua New Guinea,1996,0.5
+1533,Paraguay,1996,0.8
+1534,Peru,1996,1
+1535,Philippines,1996,0.9
+1536,Poland,1996,9.3
+1537,Portugal,1996,5
+1538,Qatar,1996,59.2
+1539,Réunion,1996,3.3
+1540,Romania,1996,5.7
+1541,Russia,1996,10.4
+1542,Rwanda,1996,0.1
+1543,"Saint Helena, Ascension and Tristan da Cunha",1996,2.9
+1544,Saint Kitts and Nevis,1996,2.4
+1545,Saint Lucia,1996,2.2
+1546,Saint Pierre and Miquelon,1996,11.1
+1547,Saint Vincent and the Grenadines,1996,1.3
+1548,Samoa,1996,0.8
+1549,São Tomé and Príncipe,1996,0.4
+1550,Saudi Arabia,1996,13.8
+1551,Senegal,1996,0.4
+1552,Seychelles,1996,2.6
+1553,Sierra Leone,1996,0.2
+1554,Singapore,1996,15.4
+1555,Slovakia,1996,8
+1556,Slovenia,1996,7.6
+1557,Solomon Islands,1996,0.4
+1558,Somalia,1996,-
+1559,South Africa,1996,8.5
+1560,South Korea,1996,9
+1561,Spain,1996,6.4
+1562,Sri Lanka,1996,0.4
+1563,Sudan,1996,0.1
+1564,Suriname,1996,4.8
+1565,Sweden,1996,6.8
+1566,Switzerland,1996,5.7
+1567,Syria,1996,3.4
+1568,Taiwan,1996,8.7
+1569,Tajikistan,1996,0.5
+1570,Tanzania,1996,0.1
+1571,Thailand,1996,3.3
+1572,Togo,1996,0.2
+1573,Tonga,1996,0.8
+1574,Trinidad and Tobago,1996,17.1
+1575,Tunisia,1996,1.9
+1576,Turkey,1996,3.1
+1577,Turkmenistan,1996,7.4
+1578,Turks and Caicos Islands,1996,0.7
+1579,Uganda,1996,0
+1580,Ukraine,1996,7.8
+1581,United Arab Emirates,1996,16.9
+1582,United Kingdom,1996,10
+1583,United States,1996,19.4
+1584,Uruguay,1996,1.7
+1585,Uzbekistan,1996,4.9
+1586,Vanuatu,1996,0.5
+1587,Venezuela,1996,5.4
+1588,Vietnam,1996,0.5
+1589,Yemen,1996,0.9
+1590,Zambia,1996,0.2
+1591,Zimbabwe,1996,1.3
+1592,Afghanistan,1997,0.1
+1593,Albania,1997,0.5
+1594,Algeria,1997,3
+1595,Angola,1997,0.6
+1596,Antigua and Barbuda,1997,4.7
+1597,Argentina,1997,3.8
+1598,Armenia,1997,1
+1599,Aruba,1997,22
+1600,Australia,1997,18
+1601,Austria,1997,7.7
+1602,Azerbaijan,1997,3.8
+1603,Bahamas,1997,4.8
+1604,Bahrain,1997,28.5
+1605,Bangladesh,1997,0.2
+1606,Barbados,1997,3.5
+1607,Belarus,1997,6.1
+1608,Belgium,1997,11.5
+1609,Belize,1997,1.7
+1610,Benin,1997,0.2
+1611,Bermuda,1997,7.7
+1612,Bhutan,1997,0.8
+1613,Bolivia,1997,1.3
+1614,Bosnia and Herzegovina,1997,2.2
+1615,Botswana,1997,2
+1616,Brazil,1997,1.9
+1617,British Virgin Islands,1997,5.1
+1618,Brunei,1997,18.7
+1619,Bulgaria,1997,6.4
+1620,Burkina Faso,1997,0.1
+1621,Burundi,1997,0.1
+1622,Cambodia,1997,0.2
+1623,Cameroon,1997,0.2
+1624,Canada,1997,16.2
+1625,Cape Verde,1997,0.3
+1626,Cayman Islands,1997,8.1
+1627,Central African Republic,1997,0.1
+1628,Chad,1997,0
+1629,Chile,1997,3.8
+1630,China,1997,2.8
+1631,Colombia,1997,1.7
+1632,Comoros,1997,0.1
+1633,Cook Islands,1997,1.2
+1634,Costa Rica,1997,1.4
+1635,Croatia,1997,4.3
+1636,Cuba,1997,2.2
+1637,Cyprus,1997,8.1
+1638,Czech Republic,1997,12.9
+1639,Democratic Republic of the Congo,1997,0.1
+1640,Denmark,1997,11
+1641,Djibouti,1997,0.7
+1642,Dominica,1997,1.2
+1643,Dominican Republic,1997,2.2
+1644,Ecuador,1997,1.5
+1645,Egypt,1997,1.6
+1646,El Salvador,1997,1
+1647,Equatorial Guinea,1997,0.6
+1648,Eritrea,1997,0.2
+1649,Estonia,1997,13.7
+1650,Eswatini,1997,1.2
+1651,Ethiopia,1997,0.1
+1652,Falkland Islands,1997,18.1
+1653,Faroe Islands,1997,15.1
+1654,Fiji,1997,1
+1655,Finland,1997,11.7
+1656,France,1997,6.5
+1657,French Guiana,1997,6.1
+1658,French Polynesia,1997,2.6
+1659,Gabon,1997,3.1
+1660,Georgia,1997,1
+1661,Germany,1997,11
+1662,Ghana,1997,0.4
+1663,Gibraltar,1997,4.2
+1664,Greece,1997,7.8
+1665,Greenland,1997,9.4
+1666,Grenada,1997,2
+1667,Guadeloupe,1997,3.7
+1668,Guatemala,1997,0.7
+1669,Guinea,1997,0.2
+1670,Guinea-Bissau,1997,0.3
+1671,Guyana,1997,2.2
+1672,Haiti,1997,0.2
+1673,Honduras,1997,0.7
+1674,Hong Kong,1997,4.8
+1675,Hungary,1997,6.1
+1676,Iceland,1997,7.7
+1677,India,1997,1.1
+1678,Indonesia,1997,1.4
+1679,Iran,1997,4.5
+1680,Iraq,1997,3.1
+1681,Ireland,1997,10
+1682,Palestina,1997,9.6
+1683,Italy,1997,7.6
+1684,Ivory Coast,1997,0.5
+1685,Jamaica,1997,4.2
+1686,Japan,1997,10.1
+1687,Jordan,1997,3.2
+1688,Kazakhstan,1997,8.4
+1689,Kenya,1997,0.3
+1690,Kiribati,1997,0.4
+1691,Kuwait,1997,33.8
+1692,Kyrgyzstan,1997,1.2
+1693,Laos,1997,0.1
+1694,Latvia,1997,3.4
+1695,Lebanon,1997,4.3
+1696,Liberia,1997,0.2
+1697,Libya,1997,10.2
+1698,Lithuania,1997,3.9
+1699,Luxembourg,1997,18.8
+1700,Macau,1997,3.5
+1701,Madagascar,1997,0.1
+1702,Malawi,1997,0.1
+1703,Malaysia,1997,5.8
+1704,Maldives,1997,1.4
+1705,Mali,1997,0.1
+1706,Malta,1997,8.5
+1707,Martinique,1997,5.4
+1708,Mauritania,1997,1.3
+1709,Mauritius,1997,1.7
+1710,Mexico,1997,4
+1711,Moldova,1997,1.7
+1712,Mongolia,1997,3.3
+1713,Morocco,1997,1.1
+1714,Mozambique,1997,0.1
+1715,Myanmar,1997,0.2
+1716,Namibia,1997,1
+1717,Nepal,1997,0.1
+1718,Netherlands,1997,11.6
+1719,New Caledonia,1997,9
+1720,New Zealand,1997,8.3
+1721,Nicaragua,1997,0.6
+1722,Niger,1997,0.1
+1723,Nigeria,1997,0.3
+1724,North Korea,1997,10.6
+1725,North Macedonia,1997,5.4
+1726,Norway,1997,7.7
+1727,Oman,1997,6.9
+1728,Pakistan,1997,0.7
+1729,Palau,1997,6.5
+1730,Panama,1997,2.1
+1731,Papua New Guinea,1997,0.5
+1732,Paraguay,1997,0.8
+1733,Peru,1997,1.1
+1734,Philippines,1997,1.1
+1735,Poland,1997,9.1
+1736,Portugal,1997,5.3
+1737,Qatar,1997,65.8
+1738,Réunion,1997,3.4
+1739,Romania,1997,5.2
+1740,Russia,1997,10
+1741,Rwanda,1997,0.1
+1742,"Saint Helena, Ascension and Tristan da Cunha",1997,2.9
+1743,Saint Kitts and Nevis,1997,2.3
+1744,Saint Lucia,1997,2.1
+1745,Saint Pierre and Miquelon,1997,7.6
+1746,Saint Vincent and the Grenadines,1997,1.3
+1747,Samoa,1997,0.8
+1748,São Tomé and Príncipe,1997,0.4
+1749,Saudi Arabia,1997,11.3
+1750,Senegal,1997,0.4
+1751,Seychelles,1997,5.3
+1752,Sierra Leone,1997,0.2
+1753,Singapore,1997,18.7
+1754,Slovakia,1997,7.8
+1755,Slovenia,1997,8
+1756,Solomon Islands,1997,0.4
+1757,Somalia,1997,-
+1758,South Africa,1997,8.7
+1759,South Korea,1997,9.4
+1760,Spain,1997,6.7
+1761,Sri Lanka,1997,0.4
+1762,Sudan,1997,0.2
+1763,Suriname,1997,4.8
+1764,Sweden,1997,6.2
+1765,Switzerland,1997,5.9
+1766,Syria,1997,3.4
+1767,Taiwan,1997,9.3
+1768,Tajikistan,1997,0.4
+1769,Tanzania,1997,0.1
+1770,Thailand,1997,3.4
+1771,Togo,1997,0.2
+1772,Tonga,1997,1
+1773,Trinidad and Tobago,1997,15
+1774,Tunisia,1997,1.8
+1775,Turkey,1997,3.2
+1776,Turkmenistan,1997,6.9
+1777,Turks and Caicos Islands,1997,0.7
+1778,Uganda,1997,0.1
+1779,Ukraine,1997,6.5
+1780,United Arab Emirates,1997,16.4
+1781,United Kingdom,1997,9.5
+1782,United States,1997,19.7
+1783,Uruguay,1997,1.7
+1784,Uzbekistan,1997,4.8
+1785,Vanuatu,1997,0.5
+1786,Venezuela,1997,5.8
+1787,Vietnam,1997,0.6
+1788,Yemen,1997,0.9
+1789,Zambia,1997,0.2
+1790,Zimbabwe,1997,1.2
+1791,Afghanistan,1998,0.1
+1792,Albania,1998,0.6
+1793,Algeria,1998,3.5
+1794,Angola,1998,0.5
+1795,Antigua and Barbuda,1998,4.5
+1796,Argentina,1998,3.8
+1797,Armenia,1998,1.1
+1798,Aruba,1998,19.5
+1799,Australia,1998,18.7
+1800,Austria,1998,7.9
+1801,Azerbaijan,1998,3.9
+1802,Bahamas,1998,5.8
+1803,Bahrain,1998,29.6
+1804,Bangladesh,1998,0.2
+1805,Barbados,1998,4.5
+1806,Belarus,1998,5.9
+1807,Belgium,1998,11.8
+1808,Belize,1998,1.5
+1809,Benin,1998,0.2
+1810,Bermuda,1998,7.4
+1811,Bhutan,1998,0.7
+1812,Bolivia,1998,1.3
+1813,Bosnia and Herzegovina,1998,2.8
+1814,Botswana,1998,2.3
+1815,Brazil,1998,1.9
+1816,British Virgin Islands,1998,5.2
+1817,Brunei,1998,18.8
+1818,Bulgaria,1998,6.2
+1819,Burkina Faso,1998,0.1
+1820,Burundi,1998,0
+1821,Cambodia,1998,0.2
+1822,Cameroon,1998,0.2
+1823,Canada,1998,15.9
+1824,Cape Verde,1998,0.4
+1825,Cayman Islands,1998,7.8
+1826,Central African Republic,1998,0.1
+1827,Chad,1998,0
+1828,Chile,1998,3.9
+1829,China,1998,2.7
+1830,Colombia,1998,1.7
+1831,Comoros,1998,0.1
+1832,Cook Islands,1998,1.2
+1833,Costa Rica,1998,1.4
+1834,Croatia,1998,4.6
+1835,Cuba,1998,2.2
+1836,Cyprus,1998,8.7
+1837,Czech Republic,1998,12.5
+1838,Democratic Republic of the Congo,1998,0.1
+1839,Denmark,1998,10.5
+1840,Djibouti,1998,0.6
+1841,Dominica,1998,1.1
+1842,Dominican Republic,1998,2.2
+1843,Ecuador,1998,1.9
+1844,Egypt,1998,1.8
+1845,El Salvador,1998,1
+1846,Equatorial Guinea,1998,0.3
+1847,Eritrea,1998,0.2
+1848,Estonia,1998,12.7
+1849,Eswatini,1998,1.2
+1850,Ethiopia,1998,0.1
+1851,Falkland Islands,1998,13.4
+1852,Faroe Islands,1998,15.1
+1853,Fiji,1998,0.9
+1854,Finland,1998,11.1
+1855,France,1998,7
+1856,French Guiana,1998,6.3
+1857,French Polynesia,1998,2.5
+1858,Gabon,1998,1.4
+1859,Georgia,1998,1.1
+1860,Germany,1998,10.9
+1861,Ghana,1998,0.3
+1862,Gibraltar,1998,10.9
+1863,Greece,1998,8.1
+1864,Greenland,1998,9.5
+1865,Grenada,1998,1.9
+1866,Guadeloupe,1998,3.6
+1867,Guatemala,1998,0.8
+1868,Guinea,1998,0.2
+1869,Guinea-Bissau,1998,0.2
+1870,Guyana,1998,2.2
+1871,Haiti,1998,0.1
+1872,Honduras,1998,0.8
+1873,Hong Kong,1998,6
+1874,Hungary,1998,5.9
+1875,Iceland,1998,7.6
+1876,India,1998,1.1
+1877,Indonesia,1998,1.1
+1878,Iran,1998,4.9
+1879,Iraq,1998,3.1
+1880,Ireland,1998,10.3
+1881,Palestina,1998,9.6
+1882,Italy,1998,7.7
+1883,Ivory Coast,1998,0.4
+1884,Jamaica,1998,3.9
+1885,Japan,1998,9.7
+1886,Jordan,1998,3.1
+1887,Kazakhstan,1998,8.2
+1888,Kenya,1998,0.3
+1889,Kiribati,1998,0.4
+1890,Kuwait,1998,32.3
+1891,Kyrgyzstan,1998,1.2
+1892,Laos,1998,0.1
+1893,Latvia,1998,3.3
+1894,Lebanon,1998,4.4
+1895,Liberia,1998,0.2
+1896,Libya,1998,9.4
+1897,Lithuania,1998,3.5
+1898,Luxembourg,1998,17.3
+1899,Macau,1998,3.7
+1900,Madagascar,1998,0.1
+1901,Malawi,1998,0.1
+1902,Malaysia,1998,5.1
+1903,Maldives,1998,1.3
+1904,Mali,1998,0.1
+1905,Malta,1998,5.6
+1906,Martinique,1998,5.4
+1907,Mauritania,1998,0.5
+1908,Mauritius,1998,1.9
+1909,Mexico,1998,4
+1910,Moldova,1998,1.5
+1911,Mongolia,1998,3.3
+1912,Morocco,1998,1.1
+1913,Mozambique,1998,0.1
+1914,Myanmar,1998,0.2
+1915,Namibia,1998,1
+1916,Nepal,1998,0.1
+1917,Netherlands,1998,11.2
+1918,New Caledonia,1998,8.7
+1919,New Zealand,1998,7.9
+1920,Nicaragua,1998,0.7
+1921,Niger,1998,0.1
+1922,Nigeria,1998,0.3
+1923,North Korea,1998,2.9
+1924,North Macedonia,1998,6.3
+1925,Norway,1998,7.8
+1926,Oman,1998,7.2
+1927,Pakistan,1998,0.7
+1928,Palau,1998,6.3
+1929,Panama,1998,2.1
+1930,Papua New Guinea,1998,0.6
+1931,Paraguay,1998,0.9
+1932,Peru,1998,1.1
+1933,Philippines,1998,1
+1934,Poland,1998,8.5
+1935,Portugal,1998,5.7
+1936,Qatar,1998,57
+1937,Réunion,1998,3.6
+1938,Romania,1998,4.6
+1939,Russia,1998,9.6
+1940,Rwanda,1998,0.1
+1941,"Saint Helena, Ascension and Tristan da Cunha",1998,3.5
+1942,Saint Kitts and Nevis,1998,2.3
+1943,Saint Lucia,1998,2
+1944,Saint Pierre and Miquelon,1998,8.7
+1945,Saint Vincent and the Grenadines,1998,1.5
+1946,Samoa,1998,0.8
+1947,São Tomé and Príncipe,1998,0.4
+1948,Saudi Arabia,1998,10.5
+1949,Senegal,1998,0.4
+1950,Seychelles,1998,5.6
+1951,Sierra Leone,1998,0.1
+1952,Singapore,1998,16.2
+1953,Slovakia,1998,8
+1954,Slovenia,1998,7.7
+1955,Solomon Islands,1998,0.4
+1956,Somalia,1998,-
+1957,South Africa,1998,8.5
+1958,South Korea,1998,8
+1959,Spain,1998,6.9
+1960,Sri Lanka,1998,0.4
+1961,Sudan,1998,0.1
+1962,Suriname,1998,4.8
+1963,Sweden,1998,6.2
+1964,Switzerland,1998,5.9
+1965,Syria,1998,4
+1966,Taiwan,1998,9.7
+1967,Tajikistan,1998,0.4
+1968,Tanzania,1998,0.1
+1969,Thailand,1998,3
+1970,Togo,1998,0.2
+1971,Tonga,1998,0.9
+1972,Trinidad and Tobago,1998,15
+1973,Tunisia,1998,1.9
+1974,Turkey,1998,3.2
+1975,Turkmenistan,1998,5.9
+1976,Turks and Caicos Islands,1998,0.9
+1977,Uganda,1998,0.1
+1978,Ukraine,1998,6.3
+1979,United Arab Emirates,1998,34.2
+1980,United Kingdom,1998,9.5
+1981,United States,1998,19.5
+1982,Uruguay,1998,1.7
+1983,Uzbekistan,1998,4.8
+1984,Vanuatu,1998,0.5
+1985,Venezuela,1998,7.1
+1986,Vietnam,1998,0.6
+1987,Yemen,1998,0.7
+1988,Zambia,1998,0.2
+1989,Zimbabwe,1998,1.2
+1990,Afghanistan,1999,0
+1991,Albania,1999,1
+1992,Algeria,1999,3
+1993,Angola,1999,0.7
+1994,Antigua and Barbuda,1999,4.6
+1995,Argentina,1999,4
+1996,Armenia,1999,1
+1997,Aruba,1999,19.3
+1998,Australia,1999,17.3
+1999,Austria,1999,7.7
+2000,Azerbaijan,1999,3.6
+2001,Bahamas,1999,5.7
+2002,Bahrain,1999,28.4
+2003,Bangladesh,1999,0.2
+2004,Barbados,1999,4.8
+2005,Belarus,1999,5.8
+2006,Belgium,1999,11.4
+2007,Belize,1999,2.5
+2008,Benin,1999,0.2
+2009,Bermuda,1999,7.9
+2010,Bhutan,1999,0.7
+2011,Bolivia,1999,1.2
+2012,Bosnia and Herzegovina,1999,2.7
+2013,Botswana,1999,2.1
+2014,Brazil,1999,1.9
+2015,British Virgin Islands,1999,5.1
+2016,Brunei,1999,14.1
+2017,Bulgaria,1999,5.3
+2018,Burkina Faso,1999,0.1
+2019,Burundi,1999,0
+2020,Cambodia,1999,0.2
+2021,Cameroon,1999,0.2
+2022,Canada,1999,15.7
+2023,Cape Verde,1999,0.4
+2024,Cayman Islands,1999,7.3
+2025,Central African Republic,1999,0.1
+2026,Chad,1999,0
+2027,Chile,1999,4.1
+2028,China,1999,2.6
+2029,Colombia,1999,1.4
+2030,Comoros,1999,0.2
+2031,Cook Islands,1999,1.6
+2032,Costa Rica,1999,1.4
+2033,Croatia,1999,4.7
+2034,Cuba,1999,2.3
+2035,Cyprus,1999,8.7
+2036,Czech Republic,1999,11
+2037,Democratic Republic of the Congo,1999,0
+2038,Denmark,1999,9.5
+2039,Djibouti,1999,0.6
+2040,Dominica,1999,1.2
+2041,Dominican Republic,1999,2.2
+2042,Ecuador,1999,1.8
+2043,Egypt,1999,1.8
+2044,El Salvador,1999,1
+2045,Equatorial Guinea,1999,0.9
+2046,Eritrea,1999,0.2
+2047,Estonia,1999,11.6
+2048,Eswatini,1999,1.2
+2049,Ethiopia,1999,0.1
+2050,Falkland Islands,1999,13
+2051,Faroe Islands,1999,15
+2052,Fiji,1999,1
+2053,Finland,1999,10.7
+2054,France,1999,6.3
+2055,French Guiana,1999,5.9
+2056,French Polynesia,1999,2.5
+2057,Gabon,1999,1.2
+2058,Georgia,1999,1
+2059,Germany,1999,10.1
+2060,Ghana,1999,0.3
+2061,Gibraltar,1999,11.2
+2062,Greece,1999,7.9
+2063,Greenland,1999,9.7
+2064,Grenada,1999,2
+2065,Guadeloupe,1999,3.7
+2066,Guatemala,1999,0.8
+2067,Guinea,1999,0.2
+2068,Guinea-Bissau,1999,0.2
+2069,Guyana,1999,2.3
+2070,Haiti,1999,0.2
+2071,Honduras,1999,0.8
+2072,Hong Kong,1999,6.5
+2073,Hungary,1999,5.9
+2074,Iceland,1999,7.4
+2075,India,1999,1.1
+2076,Indonesia,1999,1.2
+2077,Iran,1999,4.8
+2078,Iraq,1999,3
+2079,Ireland,1999,10.7
+2080,Palestina,1999,9.2
+2081,Italy,1999,7.7
+2082,Ivory Coast,1999,0.4
+2083,Jamaica,1999,3.8
+2084,Japan,1999,9.5
+2085,Jordan,1999,3.1
+2086,Kazakhstan,1999,7.7
+2087,Kenya,1999,0.3
+2088,Kiribati,1999,0.4
+2089,Kuwait,1999,31.4
+2090,Kyrgyzstan,1999,1
+2091,Laos,1999,0.2
+2092,Latvia,1999,2.8
+2093,Lebanon,1999,4.5
+2094,Liberia,1999,0.2
+2095,Libya,1999,9
+2096,Lithuania,1999,3.6
+2097,Luxembourg,1999,17.8
+2098,Macau,1999,3.5
+2099,Madagascar,1999,0.1
+2100,Malawi,1999,0.1
+2101,Malaysia,1999,4.7
+2102,Maldives,1999,1.7
+2103,Mali,1999,0.1
+2104,Malta,1999,6.1
+2105,Martinique,1999,5.3
+2106,Mauritania,1999,0.5
+2107,Mauritius,1999,2.1
+2108,Mexico,1999,4
+2109,Moldova,1999,1.1
+2110,Mongolia,1999,3.2
+2111,Morocco,1999,1.2
+2112,Mozambique,1999,0.1
+2113,Myanmar,1999,0.2
+2114,Namibia,1999,0.9
+2115,Nepal,1999,0.1
+2116,Netherlands,1999,10.3
+2117,New Caledonia,1999,9.6
+2118,New Zealand,1999,8.3
+2119,Nicaragua,1999,0.7
+2120,Niger,1999,0.1
+2121,Nigeria,1999,0.4
+2122,North Korea,1999,3.1
+2123,North Macedonia,1999,5.9
+2124,Norway,1999,9.2
+2125,Oman,1999,8.8
+2126,Pakistan,1999,0.7
+2127,Palau,1999,6.2
+2128,Panama,1999,2
+2129,Papua New Guinea,1999,0.5
+2130,Paraguay,1999,0.9
+2131,Peru,1999,1.1
+2132,Philippines,1999,1
+2133,Poland,1999,8.2
+2134,Portugal,1999,6.4
+2135,Qatar,1999,53.3
+2136,Réunion,1999,3.3
+2137,Romania,1999,3.9
+2138,Russia,1999,9.7
+2139,Rwanda,1999,0.1
+2140,"Saint Helena, Ascension and Tristan da Cunha",1999,4.3
+2141,Saint Kitts and Nevis,1999,2.3
+2142,Saint Lucia,1999,2.1
+2143,Saint Pierre and Miquelon,1999,8.7
+2144,Saint Vincent and the Grenadines,1999,1.6
+2145,Samoa,1999,0.8
+2146,São Tomé and Príncipe,1999,0.4
+2147,Saudi Arabia,1999,11.2
+2148,Senegal,1999,0.4
+2149,Seychelles,1999,6.4
+2150,Sierra Leone,1999,0.1
+2151,Singapore,1999,13.3
+2152,Slovakia,1999,7.4
+2153,Slovenia,1999,7.6
+2154,Solomon Islands,1999,0.4
+2155,Somalia,1999,-
+2156,South Africa,1999,8.4
+2157,South Korea,1999,8.8
+2158,Spain,1999,7.1
+2159,Sri Lanka,1999,0.5
+2160,Sudan,1999,0.1
+2161,Suriname,1999,4.7
+2162,Sweden,1999,5.8
+2163,Switzerland,1999,5.7
+2164,Syria,1999,4
+2165,Taiwan,1999,9.4
+2166,Tajikistan,1999,0.4
+2167,Tanzania,1999,0.1
+2168,Thailand,1999,3.2
+2169,Togo,1999,0.3
+2170,Tonga,1999,1.1
+2171,Trinidad and Tobago,1999,17.7
+2172,Tunisia,1999,2
+2173,Turkey,1999,3
+2174,Turkmenistan,1999,7.9
+2175,Turks and Caicos Islands,1999,0.9
+2176,Uganda,1999,0.1
+2177,Ukraine,1999,6.4
+2178,United Arab Emirates,1999,29
+2179,United Kingdom,1999,9.1
+2180,United States,1999,19.5
+2181,Uruguay,1999,2
+2182,Uzbekistan,1999,4.8
+2183,Vanuatu,1999,0.5
+2184,Venezuela,1999,7.2
+2185,Vietnam,1999,0.6
+2186,Yemen,1999,0.8
+2187,Zambia,1999,0.2
+2188,Zimbabwe,1999,1.3
+2189,Afghanistan,2000,0
+2190,Albania,2000,1
+2191,Algeria,2000,2.8
+2192,Angola,2000,0.7
+2193,Antigua and Barbuda,2000,4.5
+2194,Argentina,2000,3.8
+2195,Armenia,2000,1.1
+2196,Aruba,2000,24.9
+2197,Australia,2000,17.2
+2198,Austria,2000,7.7
+2199,Azerbaijan,2000,3.8
+2200,Bahamas,2000,5.6
+2201,Bahrain,2000,30.4
+2202,Bangladesh,2000,0.2
+2203,Barbados,2000,4.7
+2204,Belarus,2000,5.9
+2205,Belgium,2000,11.3
+2206,Belize,2000,2.7
+2207,Benin,2000,0.2
+2208,Bermuda,2000,7.9
+2209,Bhutan,2000,0.7
+2210,Bolivia,2000,1.1
+2211,Bosnia and Herzegovina,2000,3.6
+2212,Botswana,2000,2.5
+2213,Brazil,2000,1.9
+2214,British Virgin Islands,2000,5
+2215,Brunei,2000,19.6
+2216,Bulgaria,2000,5.4
+2217,Burkina Faso,2000,0.1
+2218,Burundi,2000,0
+2219,Cambodia,2000,0.2
+2220,Cameroon,2000,0.2
+2221,Canada,2000,17.5
+2222,Cape Verde,2000,0.4
+2223,Cayman Islands,2000,11.3
+2224,Central African Republic,2000,0.1
+2225,Chad,2000,0
+2226,Chile,2000,3.9
+2227,China,2000,2.7
+2228,Colombia,2000,1.5
+2229,Comoros,2000,0.2
+2230,Cook Islands,2000,1.7
+2231,Costa Rica,2000,1.4
+2232,Croatia,2000,4.5
+2233,Cuba,2000,2.3
+2234,Cyprus,2000,8.7
+2235,Czech Republic,2000,12.3
+2236,Democratic Republic of the Congo,2000,0
+2237,Denmark,2000,8.8
+2238,Djibouti,2000,0.6
+2239,Dominica,2000,1.5
+2240,Dominican Republic,2000,2.3
+2241,Ecuador,2000,1.7
+2242,Egypt,2000,2
+2243,El Salvador,2000,1
+2244,Equatorial Guinea,2000,0.9
+2245,Eritrea,2000,0.2
+2246,Estonia,2000,11.7
+2247,Eswatini,2000,1.1
+2248,Ethiopia,2000,0.1
+2249,Falkland Islands,2000,12.8
+2250,Faroe Islands,2000,14.4
+2251,Fiji,2000,1.1
+2252,Finland,2000,10.1
+2253,France,2000,6.2
+2254,French Guiana,2000,5.1
+2255,French Polynesia,2000,2.8
+2256,Gabon,2000,0.9
+2257,Georgia,2000,1
+2258,Germany,2000,10.1
+2259,Ghana,2000,0.3
+2260,Gibraltar,2000,11.6
+2261,Greece,2000,8.4
+2262,Greenland,2000,9.5
+2263,Grenada,2000,2
+2264,Guadeloupe,2000,4.8
+2265,Guatemala,2000,0.9
+2266,Guinea,2000,0.2
+2267,Guinea-Bissau,2000,0.2
+2268,Guyana,2000,2.2
+2269,Haiti,2000,0.2
+2270,Honduras,2000,0.8
+2271,Hong Kong,2000,6.1
+2272,Hungary,2000,5.6
+2273,Iceland,2000,7.7
+2274,India,2000,1.1
+2275,Indonesia,2000,1.3
+2276,Iran,2000,5.1
+2277,Iraq,2000,3
+2278,Ireland,2000,10.7
+2279,Palestina,2000,9.6
+2280,Italy,2000,7.8
+2281,Ivory Coast,2000,0.4
+2282,Jamaica,2000,4
+2283,Japan,2000,9.7
+2284,Jordan,2000,3.2
+2285,Kazakhstan,2000,8.5
+2286,Kenya,2000,0.3
+2287,Kiribati,2000,0.4
+2288,Kuwait,2000,31.9
+2289,Kyrgyzstan,2000,0.9
+2290,Laos,2000,0.2
+2291,Latvia,2000,2.6
+2292,Lebanon,2000,4.1
+2293,Liberia,2000,0.2
+2294,Libya,2000,9.3
+2295,Lithuania,2000,3.7
+2296,Luxembourg,2000,18.9
+2297,Macau,2000,3.7
+2298,Madagascar,2000,0.2
+2299,Malawi,2000,0.1
+2300,Malaysia,2000,5.4
+2301,Maldives,2000,1.7
+2302,Mali,2000,0.1
+2303,Malta,2000,5.3
+2304,Martinique,2000,5.3
+2305,Mauritania,2000,0.5
+2306,Mauritius,2000,2.3
+2307,Mexico,2000,3.9
+2308,Moldova,2000,0.9
+2309,Mongolia,2000,3.1
+2310,Morocco,2000,1.2
+2311,Mozambique,2000,0.1
+2312,Myanmar,2000,0.2
+2313,Namibia,2000,0.9
+2314,Nepal,2000,0.1
+2315,Netherlands,2000,10.4
+2316,New Caledonia,2000,10.7
+2317,New Zealand,2000,8.5
+2318,Nicaragua,2000,0.8
+2319,Niger,2000,0.1
+2320,Nigeria,2000,0.6
+2321,North Korea,2000,3.4
+2322,North Macedonia,2000,6
+2323,Norway,2000,8.7
+2324,Oman,2000,9.2
+2325,Pakistan,2000,0.7
+2326,Palau,2000,6.1
+2327,Panama,2000,2
+2328,Papua New Guinea,2000,0.5
+2329,Paraguay,2000,0.7
+2330,Peru,2000,1.2
+2331,Philippines,2000,1
+2332,Poland,2000,7.8
+2333,Portugal,2000,6.2
+2334,Qatar,2000,56.3
+2335,Réunion,2000,3.4
+2336,Romania,2000,4
+2337,Russia,2000,9.8
+2338,Rwanda,2000,0.1
+2339,"Saint Helena, Ascension and Tristan da Cunha",2000,2.2
+2340,Saint Kitts and Nevis,2000,2.2
+2341,Saint Lucia,2000,2.1
+2342,Saint Pierre and Miquelon,2000,8.8
+2343,Saint Vincent and the Grenadines,2000,1.5
+2344,Samoa,2000,0.8
+2345,São Tomé and Príncipe,2000,0.3
+2346,Saudi Arabia,2000,14.3
+2347,Senegal,2000,0.4
+2348,Seychelles,2000,7
+2349,Sierra Leone,2000,0.1
+2350,Singapore,2000,13
+2351,Slovakia,2000,6.8
+2352,Slovenia,2000,7.3
+2353,Solomon Islands,2000,0.4
+2354,Somalia,2000,0.1
+2355,South Africa,2000,8.2
+2356,South Korea,2000,9.5
+2357,Spain,2000,7.3
+2358,Sri Lanka,2000,0.5
+2359,Sudan,2000,0.2
+2360,Suriname,2000,4.6
+2361,Sweden,2000,5.7
+2362,Switzerland,2000,5.4
+2363,Syria,2000,3.8
+2364,Taiwan,2000,9.8
+2365,Tajikistan,2000,0.4
+2366,Tanzania,2000,0.1
+2367,Thailand,2000,3.2
+2368,Togo,2000,0.3
+2369,Tonga,2000,1
+2370,Trinidad and Tobago,2000,18.9
+2371,Tunisia,2000,2.1
+2372,Turkey,2000,3.3
+2373,Turkmenistan,2000,7.9
+2374,Turks and Caicos Islands,2000,0.8
+2375,Uganda,2000,0.1
+2376,Ukraine,2000,6.2
+2377,United Arab Emirates,2000,39.1
+2378,United Kingdom,2000,9.2
+2379,United States,2000,20
+2380,Uruguay,2000,1.6
+2381,Uzbekistan,2000,5
+2382,Vanuatu,2000,0.4
+2383,Venezuela,2000,6.2
+2384,Vietnam,2000,0.7
+2385,Yemen,2000,0.8
+2386,Zambia,2000,0.2
+2387,Zimbabwe,2000,1.1
+2388,Afghanistan,2001,0
+2389,Albania,2001,1.1
+2390,Algeria,2001,2.7
+2391,Angola,2001,0.7
+2392,Antigua and Barbuda,2001,4.4
+2393,Argentina,2001,3.8
+2394,Armenia,2001,1.2
+2395,Aruba,2001,24.4
+2396,Australia,2001,16.6
+2397,Austria,2001,7.9
+2398,Azerbaijan,2001,3.6
+2399,Bahamas,2001,5.2
+2400,Bahrain,2001,22.7
+2401,Bangladesh,2001,0.2
+2402,Barbados,2001,4.9
+2403,Belarus,2001,5.9
+2404,Belgium,2001,11.3
+2405,Belize,2001,2.8
+2406,Benin,2001,0.3
+2407,Bermuda,2001,7.8
+2408,Bhutan,2001,0.7
+2409,Bolivia,2001,1
+2410,Bosnia and Herzegovina,2001,3.5
+2411,Botswana,2001,2.5
+2412,Brazil,2001,1.9
+2413,British Virgin Islands,2001,5
+2414,Brunei,2001,18.2
+2415,Bulgaria,2001,5.7
+2416,Burkina Faso,2001,0.1
+2417,Burundi,2001,0
+2418,Cambodia,2001,0.2
+2419,Cameroon,2001,0.2
+2420,Canada,2001,17
+2421,Cape Verde,2001,0.5
+2422,Cayman Islands,2001,10.6
+2423,Central African Republic,2001,0.1
+2424,Chad,2001,0
+2425,Chile,2001,3.5
+2426,China,2001,2.7
+2427,Colombia,2001,1.4
+2428,Comoros,2001,0.2
+2429,Cook Islands,2001,1.9
+2430,Costa Rica,2001,1.4
+2431,Croatia,2001,4.7
+2432,Cuba,2001,2.3
+2433,Cyprus,2001,8.6
+2434,Czech Republic,2001,12.3
+2435,Democratic Republic of the Congo,2001,0
+2436,Denmark,2001,9.2
+2437,Djibouti,2001,0.5
+2438,Dominica,2001,1.7
+2439,Dominican Republic,2001,2.3
+2440,Ecuador,2001,1.9
+2441,Egypt,2001,1.8
+2442,El Salvador,2001,1
+2443,Equatorial Guinea,2001,5.7
+2444,Eritrea,2001,0.2
+2445,Estonia,2001,12
+2446,Eswatini,2001,1
+2447,Ethiopia,2001,0.1
+2448,Falkland Islands,2001,15
+2449,Faroe Islands,2001,14.3
+2450,Fiji,2001,1.4
+2451,Finland,2001,10.9
+2452,France,2001,6.5
+2453,French Guiana,2001,4.9
+2454,French Polynesia,2001,3.1
+2455,Gabon,2001,1.4
+2456,Georgia,2001,0.9
+2457,Germany,2001,10.4
+2458,Ghana,2001,0.3
+2459,Gibraltar,2001,11.8
+2460,Greece,2001,8.5
+2461,Greenland,2001,9.6
+2462,Grenada,2001,2.2
+2463,Guadeloupe,2001,4.8
+2464,Guatemala,2001,0.9
+2465,Guinea,2001,0.2
+2466,Guinea-Bissau,2001,0.1
+2467,Guyana,2001,2.1
+2468,Haiti,2001,0.2
+2469,Honduras,2001,0.9
+2470,Hong Kong,2001,5.6
+2471,Hungary,2001,5.6
+2472,Iceland,2001,7.4
+2473,India,2001,1.1
+2474,Indonesia,2001,1.4
+2475,Iran,2001,5.3
+2476,Iraq,2001,3.4
+2477,Ireland,2001,11.3
+2478,Palestina,2001,9.9
+2479,Italy,2001,7.8
+2480,Ivory Coast,2001,0.4
+2481,Jamaica,2001,4.1
+2482,Japan,2001,9.6
+2483,Jordan,2001,3.2
+2484,Kazakhstan,2001,9.9
+2485,Kenya,2001,0.3
+2486,Kiribati,2001,0.3
+2487,Kuwait,2001,28.8
+2488,Kyrgyzstan,2001,0.8
+2489,Laos,2001,0.2
+2490,Latvia,2001,2.9
+2491,Lebanon,2001,4.2
+2492,Liberia,2001,0.2
+2493,Libya,2001,9.4
+2494,Lithuania,2001,3.8
+2495,Luxembourg,2001,19.4
+2496,Macau,2001,3.8
+2497,Madagascar,2001,0.1
+2498,Malawi,2001,0.1
+2499,Malaysia,2001,5.8
+2500,Maldives,2001,2
+2501,Mali,2001,0.1
+2502,Malta,2001,6.3
+2503,Martinique,2001,4.1
+2504,Mauritania,2001,0.5
+2505,Mauritius,2001,2.5
+2506,Mexico,2001,4
+2507,Moldova,2001,0.9
+2508,Mongolia,2001,3.3
+2509,Morocco,2001,1.3
+2510,Mozambique,2001,0.1
+2511,Myanmar,2001,0.2
+2512,Namibia,2001,1
+2513,Nepal,2001,0.1
+2514,Netherlands,2001,10.5
+2515,New Caledonia,2001,9.7
+2516,New Zealand,2001,8.7
+2517,Nicaragua,2001,0.8
+2518,Niger,2001,0.1
+2519,Nigeria,2001,0.7
+2520,North Korea,2001,3.5
+2521,North Macedonia,2001,5.9
+2522,Norway,2001,9.1
+2523,Oman,2001,8.4
+2524,Pakistan,2001,0.7
+2525,Palau,2001,9.4
+2526,Panama,2001,2.3
+2527,Papua New Guinea,2001,0.6
+2528,Paraguay,2001,0.7
+2529,Peru,2001,1
+2530,Philippines,2001,1
+2531,Poland,2001,7.9
+2532,Portugal,2001,6.1
+2533,Qatar,2001,43.2
+2534,Réunion,2001,3.7
+2535,Romania,2001,4.2
+2536,Russia,2001,9.9
+2537,Rwanda,2001,0.1
+2538,"Saint Helena, Ascension and Tristan da Cunha",2001,2.2
+2539,Saint Kitts and Nevis,2001,3.9
+2540,Saint Lucia,2001,2.3
+2541,Saint Pierre and Miquelon,2001,8.8
+2542,Saint Vincent and the Grenadines,2001,1.7
+2543,Samoa,2001,0.8
+2544,São Tomé and Príncipe,2001,0.4
+2545,Saudi Arabia,2001,13.8
+2546,Senegal,2001,0.4
+2547,Seychelles,2001,7.9
+2548,Sierra Leone,2001,0.1
+2549,Singapore,2001,12.9
+2550,Slovakia,2001,7.3
+2551,Slovenia,2001,7.3
+2552,Solomon Islands,2001,0.4
+2553,Somalia,2001,0.1
+2554,South Africa,2001,8
+2555,South Korea,2001,9.6
+2556,Spain,2001,7.3
+2557,Sri Lanka,2001,0.5
+2558,Sudan,2001,0.2
+2559,Suriname,2001,4.8
+2560,Sweden,2001,5.7
+2561,Switzerland,2001,5.9
+2562,Syria,2001,3.6
+2563,Taiwan,2001,10.2
+2564,Tajikistan,2001,0.4
+2565,Tanzania,2001,0.1
+2566,Thailand,2001,3.4
+2567,Togo,2001,0.2
+2568,Tonga,2001,0.9
+2569,Trinidad and Tobago,2001,19.2
+2570,Tunisia,2001,2.2
+2571,Turkey,2001,2.9
+2572,Turkmenistan,2001,8.7
+2573,Turks and Caicos Islands,2001,0.7
+2574,Uganda,2001,0.1
+2575,Ukraine,2001,6.3
+2576,United Arab Emirates,2001,33.3
+2577,United Kingdom,2001,9.3
+2578,United States,2001,19.3
+2579,Uruguay,2001,1.5
+2580,Uzbekistan,2001,4.7
+2581,Vanuatu,2001,0.4
+2582,Venezuela,2001,6.9
+2583,Vietnam,2001,0.8
+2584,Yemen,2001,0.9
+2585,Zambia,2001,0.2
+2586,Zimbabwe,2001,1
+2587,Afghanistan,2002,0
+2588,Albania,2002,1.2
+2589,Algeria,2002,2.8
+2590,Angola,2002,0.8
+2591,Antigua and Barbuda,2002,4.5
+2592,Argentina,2002,3.5
+2593,Armenia,2002,1
+2594,Aruba,2002,24.1
+2595,Australia,2002,17.1
+2596,Austria,2002,8.1
+2597,Azerbaijan,2002,3.6
+2598,Bahamas,2002,5.1
+2599,Bahrain,2002,24.7
+2600,Bangladesh,2002,0.2
+2601,Barbados,2002,4.9
+2602,Belarus,2002,6
+2603,Belgium,2002,10.5
+2604,Belize,2002,1.4
+2605,Benin,2002,0.3
+2606,Bermuda,2002,8.3
+2607,Bhutan,2002,0.6
+2608,Bolivia,2002,1
+2609,Bosnia and Herzegovina,2002,3.8
+2610,Botswana,2002,2.5
+2611,Brazil,2002,1.9
+2612,British Virgin Islands,2002,5.3
+2613,Brunei,2002,17.1
+2614,Bulgaria,2002,5.5
+2615,Burkina Faso,2002,0.1
+2616,Burundi,2002,0
+2617,Cambodia,2002,0.2
+2618,Cameroon,2002,0.2
+2619,Canada,2002,16.7
+2620,Cape Verde,2002,0.5
+2621,Cayman Islands,2002,10.3
+2622,Central African Republic,2002,0.1
+2623,Chad,2002,0
+2624,Chile,2002,3.6
+2625,China,2002,2.9
+2626,Colombia,2002,1.4
+2627,Comoros,2002,0.2
+2628,Cook Islands,2002,1.6
+2629,Costa Rica,2002,1.5
+2630,Croatia,2002,5
+2631,Cuba,2002,2.3
+2632,Cyprus,2002,8.7
+2633,Czech Republic,2002,12
+2634,Democratic Republic of the Congo,2002,0
+2635,Denmark,2002,9.6
+2636,Djibouti,2002,0.5
+2637,Dominica,2002,1.5
+2638,Dominican Republic,2002,2.4
+2639,Ecuador,2002,2
+2640,Egypt,2002,1.7
+2641,El Salvador,2002,1
+2642,Equatorial Guinea,2002,8.9
+2643,Eritrea,2002,0.2
+2644,Estonia,2002,11.8
+2645,Eswatini,2002,1
+2646,Ethiopia,2002,0.1
+2647,Falkland Islands,2002,14.9
+2648,Faroe Islands,2002,14.2
+2649,Fiji,2002,1.1
+2650,Finland,2002,11.7
+2651,France,2002,6.4
+2652,French Guiana,2002,4.7
+2653,French Polynesia,2002,3.1
+2654,Gabon,2002,1.4
+2655,Georgia,2002,0.8
+2656,Germany,2002,10.1
+2657,Ghana,2002,0.4
+2658,Gibraltar,2002,11.7
+2659,Greece,2002,8.5
+2660,Greenland,2002,9.5
+2661,Grenada,2002,2.1
+2662,Guadeloupe,2002,4.6
+2663,Guatemala,2002,0.9
+2664,Guinea,2002,0.2
+2665,Guinea-Bissau,2002,0.2
+2666,Guyana,2002,2.1
+2667,Haiti,2002,0.2
+2668,Honduras,2002,0.9
+2669,Hong Kong,2002,5.5
+2670,Hungary,2002,5.6
+2671,Iceland,2002,7.6
+2672,India,2002,1.1
+2673,Indonesia,2002,1.4
+2674,Iran,2002,5.5
+2675,Iraq,2002,3.4
+2676,Ireland,2002,11
+2677,Palestina,2002,9.1
+2678,Italy,2002,7.8
+2679,Ivory Coast,2002,0.4
+2680,Jamaica,2002,3.9
+2681,Japan,2002,9.7
+2682,Jordan,2002,3.3
+2683,Kazakhstan,2002,10.2
+2684,Kenya,2002,0.2
+2685,Kiribati,2002,0.5
+2686,Kuwait,2002,26.2
+2687,Kyrgyzstan,2002,1
+2688,Laos,2002,0.2
+2689,Latvia,2002,2.8
+2690,Lebanon,2002,4.1
+2691,Liberia,2002,0.2
+2692,Libya,2002,9.3
+2693,Lithuania,2002,3.9
+2694,Luxembourg,2002,21
+2695,Macau,2002,3.3
+2696,Madagascar,2002,0.1
+2697,Malawi,2002,0.1
+2698,Malaysia,2002,5.6
+2699,Maldives,2002,2.3
+2700,Mali,2002,0.1
+2701,Malta,2002,5.8
+2702,Martinique,2002,4
+2703,Mauritania,2002,0.5
+2704,Mauritius,2002,2.4
+2705,Mexico,2002,3.9
+2706,Moldova,2002,1
+2707,Mongolia,2002,3.4
+2708,Morocco,2002,1.3
+2709,Mozambique,2002,0.1
+2710,Myanmar,2002,0.2
+2711,Namibia,2002,0.9
+2712,Nepal,2002,0.1
+2713,Netherlands,2002,10.7
+2714,New Caledonia,2002,10.9
+2715,New Zealand,2002,8.5
+2716,Nicaragua,2002,0.7
+2717,Niger,2002,0.1
+2718,Nigeria,2002,0.7
+2719,North Korea,2002,3.3
+2720,North Macedonia,2002,5.4
+2721,Norway,2002,8.2
+2722,Oman,2002,10.3
+2723,Pakistan,2002,0.7
+2724,Palau,2002,9.3
+2725,Panama,2002,1.9
+2726,Papua New Guinea,2002,0.6
+2727,Paraguay,2002,0.7
+2728,Peru,2002,1
+2729,Philippines,2002,0.9
+2730,Poland,2002,7.7
+2731,Portugal,2002,6.5
+2732,Qatar,2002,40.9
+2733,Réunion,2002,3.6
+2734,Romania,2002,4.1
+2735,Russia,2002,9.9
+2736,Rwanda,2002,0.1
+2737,"Saint Helena, Ascension and Tristan da Cunha",2002,2.2
+2738,Saint Kitts and Nevis,2002,4.2
+2739,Saint Lucia,2002,2
+2740,Saint Pierre and Miquelon,2002,9.5
+2741,Saint Vincent and the Grenadines,2002,1.7
+2742,Samoa,2002,0.8
+2743,São Tomé and Príncipe,2002,0.4
+2744,Saudi Arabia,2002,14.8
+2745,Senegal,2002,0.4
+2746,Seychelles,2002,6.6
+2747,Sierra Leone,2002,0.1
+2748,Singapore,2002,12.4
+2749,Slovakia,2002,7.3
+2750,Slovenia,2002,7.4
+2751,Solomon Islands,2002,0.4
+2752,Somalia,2002,0.1
+2753,South Africa,2002,7.5
+2754,South Korea,2002,10.1
+2755,Spain,2002,7.6
+2756,Sri Lanka,2002,0.6
+2757,Sudan,2002,0.2
+2758,Suriname,2002,4.7
+2759,Sweden,2002,6.4
+2760,Switzerland,2002,5.6
+2761,Syria,2002,4.1
+2762,Taiwan,2002,10.6
+2763,Tajikistan,2002,0.3
+2764,Tanzania,2002,0.1
+2765,Thailand,2002,3.6
+2766,Togo,2002,0.2
+2767,Tonga,2002,1
+2768,Trinidad and Tobago,2002,20.6
+2769,Tunisia,2002,2.2
+2770,Turkey,2002,3
+2771,Turkmenistan,2002,8.9
+2772,Turks and Caicos Islands,2002,4.2
+2773,Uganda,2002,0.1
+2774,Ukraine,2002,6.3
+2775,United Arab Emirates,2002,23.3
+2776,United Kingdom,2002,9
+2777,United States,2002,19.4
+2778,Uruguay,2002,1.4
+2779,Uzbekistan,2002,4.6
+2780,Vanuatu,2002,0.4
+2781,Venezuela,2002,7.6
+2782,Vietnam,2002,0.9
+2783,Yemen,2002,0.8
+2784,Zambia,2002,0.2
+2785,Zimbabwe,2002,1
+2786,Afghanistan,2003,0
+2787,Albania,2003,1.4
+2788,Algeria,2003,2.9
+2789,Angola,2003,0.6
+2790,Antigua and Barbuda,2003,4.8
+2791,Argentina,2003,3.8
+2792,Armenia,2003,1.1
+2793,Aruba,2003,23.6
+2794,Australia,2003,17.1
+2795,Austria,2003,8.6
+2796,Azerbaijan,2003,3.8
+2797,Bahamas,2003,4.8
+2798,Bahrain,2003,25.3
+2799,Bangladesh,2003,0.2
+2800,Barbados,2003,4.7
+2801,Belarus,2003,6.3
+2802,Belgium,2003,11.2
+2803,Belize,2003,1.4
+2804,Benin,2003,0.3
+2805,Bermuda,2003,8
+2806,Bhutan,2003,0.5
+2807,Bolivia,2003,1.4
+2808,Bosnia and Herzegovina,2003,3.8
+2809,Botswana,2003,2.4
+2810,Brazil,2003,1.8
+2811,British Virgin Islands,2003,5.5
+2812,Brunei,2003,16.4
+2813,Bulgaria,2003,6
+2814,Burkina Faso,2003,0.1
+2815,Burundi,2003,0
+2816,Cambodia,2003,0.2
+2817,Cameroon,2003,0.3
+2818,Canada,2003,17.5
+2819,Cape Verde,2003,0.5
+2820,Cayman Islands,2003,10
+2821,Central African Republic,2003,0.1
+2822,Chad,2003,0
+2823,Chile,2003,3.5
+2824,China,2003,3.4
+2825,Colombia,2003,1.4
+2826,Comoros,2003,0.2
+2827,Cook Islands,2003,1.8
+2828,Costa Rica,2003,1.6
+2829,Croatia,2003,5.4
+2830,Cuba,2003,2.3
+2831,Cyprus,2003,9.5
+2832,Czech Republic,2003,12.2
+2833,Democratic Republic of the Congo,2003,0
+2834,Denmark,2003,10.4
+2835,Djibouti,2003,0.5
+2836,Dominica,2003,1.7
+2837,Dominican Republic,2003,2.3
+2838,Ecuador,2003,2
+2839,Egypt,2003,1.8
+2840,El Salvador,2003,1.1
+2841,Equatorial Guinea,2003,10.4
+2842,Eritrea,2003,0.2
+2843,Estonia,2003,13.6
+2844,Eswatini,2003,0.9
+2845,Ethiopia,2003,0.1
+2846,Falkland Islands,2003,16.2
+2847,Faroe Islands,2003,14.2
+2848,Fiji,2003,2
+2849,Finland,2003,13.2
+2850,France,2003,6.4
+2851,French Guiana,2003,4.5
+2852,French Polynesia,2003,3.3
+2853,Gabon,2003,1.1
+2854,Georgia,2003,0.9
+2855,Germany,2003,10.2
+2856,Ghana,2003,0.4
+2857,Gibraltar,2003,11.9
+2858,Greece,2003,8.7
+2859,Greenland,2003,9.4
+2860,Grenada,2003,2.2
+2861,Guadeloupe,2003,4.6
+2862,Guatemala,2003,0.9
+2863,Guinea,2003,0.2
+2864,Guinea-Bissau,2003,0.2
+2865,Guyana,2003,2.1
+2866,Haiti,2003,0.2
+2867,Honduras,2003,1
+2868,Hong Kong,2003,5.9
+2869,Hungary,2003,5.9
+2870,Iceland,2003,7.5
+2871,India,2003,1.2
+2872,Indonesia,2003,1.4
+2873,Iran,2003,5.8
+2874,Iraq,2003,3.1
+2875,Ireland,2003,10.7
+2876,Palestina,2003,9.4
+2877,Italy,2003,8
+2878,Ivory Coast,2003,0.3
+2879,Jamaica,2003,4.1
+2880,Japan,2003,9.9
+2881,Jordan,2003,3.3
+2882,Kazakhstan,2003,10.3
+2883,Kenya,2003,0.3
+2884,Kiribati,2003,0.5
+2885,Kuwait,2003,28.9
+2886,Kyrgyzstan,2003,1.1
+2887,Laos,2003,0.2
+2888,Latvia,2003,3
+2889,Lebanon,2003,4.8
+2890,Liberia,2003,0.2
+2891,Libya,2003,9.3
+2892,Lithuania,2003,4.2
+2893,Luxembourg,2003,21.9
+2894,Macau,2003,3.3
+2895,Madagascar,2003,0.1
+2896,Malawi,2003,0.1
+2897,Malaysia,2003,6.5
+2898,Maldives,2003,2
+2899,Mali,2003,0.1
+2900,Malta,2003,6.5
+2901,Martinique,2003,4.2
+2902,Mauritania,2003,0.5
+2903,Mauritius,2003,2.6
+2904,Mexico,2003,4
+2905,Moldova,2003,1.1
+2906,Mongolia,2003,3.2
+2907,Morocco,2003,1.3
+2908,Mozambique,2003,0.1
+2909,Myanmar,2003,0.2
+2910,Namibia,2003,0.9
+2911,Nepal,2003,0.1
+2912,Netherlands,2003,10.9
+2913,New Caledonia,2003,12.1
+2914,New Zealand,2003,8.4
+2915,Nicaragua,2003,0.8
+2916,Niger,2003,0.1
+2917,Nigeria,2003,0.7
+2918,North Korea,2003,3.4
+2919,North Macedonia,2003,5.6
+2920,Norway,2003,9.3
+2921,Oman,2003,12.6
+2922,Pakistan,2003,0.7
+2923,Palau,2003,9.6
+2924,Panama,2003,2
+2925,Papua New Guinea,2003,0.7
+2926,Paraguay,2003,0.7
+2927,Peru,2003,1
+2928,Philippines,2003,0.9
+2929,Poland,2003,8
+2930,Portugal,2003,5.9
+2931,Qatar,2003,41.8
+2932,Réunion,2003,3.6
+2933,Romania,2003,4.3
+2934,Russia,2003,10.2
+2935,Rwanda,2003,0.1
+2936,"Saint Helena, Ascension and Tristan da Cunha",2003,2.3
+2937,Saint Kitts and Nevis,2003,4.6
+2938,Saint Lucia,2003,2.2
+2939,Saint Pierre and Miquelon,2003,10.6
+2940,Saint Vincent and the Grenadines,2003,1.8
+2941,Samoa,2003,0.8
+2942,São Tomé and Príncipe,2003,0.5
+2943,Saudi Arabia,2003,14.4
+2944,Senegal,2003,0.5
+2945,Seychelles,2003,6.8
+2946,Sierra Leone,2003,0.1
+2947,Singapore,2003,11.8
+2948,Slovakia,2003,7.3
+2949,Slovenia,2003,7.5
+2950,Solomon Islands,2003,0.4
+2951,Somalia,2003,0.1
+2952,South Africa,2003,8.1
+2953,South Korea,2003,10.1
+2954,Spain,2003,7.7
+2955,Sri Lanka,2003,0.6
+2956,Sudan,2003,0.2
+2957,Suriname,2003,4.6
+2958,Sweden,2003,6.1
+2959,Switzerland,2003,5.5
+2960,Syria,2003,3.9
+2961,Taiwan,2003,10.9
+2962,Tajikistan,2003,0.3
+2963,Tanzania,2003,0.1
+2964,Thailand,2003,3.8
+2965,Togo,2003,0.3
+2966,Tonga,2003,1.2
+2967,Trinidad and Tobago,2003,21.2
+2968,Tunisia,2003,2.2
+2969,Turkey,2003,3.2
+2970,Turkmenistan,2003,9.2
+2971,Turks and Caicos Islands,2003,3.9
+2972,Uganda,2003,0.1
+2973,Ukraine,2003,7.1
+2974,United Arab Emirates,2003,28.2
+2975,United Kingdom,2003,9.1
+2976,United States,2003,19.2
+2977,Uruguay,2003,1.4
+2978,Uzbekistan,2003,4.3
+2979,Vanuatu,2003,0.4
+2980,Venezuela,2003,7.4
+2981,Vietnam,2003,1
+2982,Yemen,2003,0.9
+2983,Zambia,2003,0.2
+2984,Zimbabwe,2003,0.9
+2985,Afghanistan,2004,0
+2986,Albania,2004,1.6
+2987,Algeria,2004,2.7
+2988,Angola,2004,1.1
+2989,Antigua and Barbuda,2004,4.9
+2990,Argentina,2004,4.1
+2991,Armenia,2004,1.2
+2992,Aruba,2004,23.1
+2993,Australia,2004,16.9
+2994,Austria,2004,8.5
+2995,Azerbaijan,2004,4
+2996,Bahamas,2004,5.3
+2997,Bahrain,2004,25.4
+2998,Bangladesh,2004,0.2
+2999,Barbados,2004,5
+3000,Belarus,2004,6.6
+3001,Belgium,2004,10.8
+3002,Belize,2004,1.4
+3003,Benin,2004,0.3
+3004,Bermuda,2004,10.5
+3005,Bhutan,2004,0.6
+3006,Bolivia,2004,1.3
+3007,Bosnia and Herzegovina,2004,4
+3008,Botswana,2004,2.4
+3009,Brazil,2004,1.9
+3010,British Virgin Islands,2004,5.5
+3011,Brunei,2004,16.7
+3012,Bulgaria,2004,5.8
+3013,Burkina Faso,2004,0.1
+3014,Burundi,2004,0
+3015,Cambodia,2004,0.3
+3016,Cameroon,2004,0.2
+3017,Canada,2004,17.3
+3018,Cape Verde,2004,0.6
+3019,Cayman Islands,2004,9.8
+3020,Central African Republic,2004,0.1
+3021,Chad,2004,0
+3022,Chile,2004,4
+3023,China,2004,3.9
+3024,Colombia,2004,1.3
+3025,Comoros,2004,0.2
+3026,Cook Islands,2004,2.9
+3027,Costa Rica,2004,1.6
+3028,Croatia,2004,5.3
+3029,Cuba,2004,2.2
+3030,Cyprus,2004,8.9
+3031,Czech Republic,2004,12.2
+3032,Democratic Republic of the Congo,2004,0
+3033,Denmark,2004,9.4
+3034,Djibouti,2004,0.6
+3035,Dominica,2004,1.6
+3036,Dominican Republic,2004,2.1
+3037,Ecuador,2004,2
+3038,Egypt,2004,1.9
+3039,El Salvador,2004,1
+3040,Equatorial Guinea,2004,7.9
+3041,Eritrea,2004,0.2
+3042,Estonia,2004,13.9
+3043,Eswatini,2004,0.9
+3044,Ethiopia,2004,0.1
+3045,Falkland Islands,2004,17.2
+3046,Faroe Islands,2004,14
+3047,Fiji,2004,2.3
+3048,Finland,2004,12.8
+3049,France,2004,6.4
+3050,French Guiana,2004,4.4
+3051,French Polynesia,2004,3.1
+3052,Gabon,2004,1.4
+3053,Georgia,2004,1
+3054,Germany,2004,10.1
+3055,Ghana,2004,0.3
+3056,Gibraltar,2004,12.1
+3057,Greece,2004,8.8
+3058,Greenland,2004,7.5
+3059,Grenada,2004,2.1
+3060,Guadeloupe,2004,4.6
+3061,Guatemala,2004,0.9
+3062,Guinea,2004,0.1
+3063,Guinea-Bissau,2004,0.2
+3064,Guyana,2004,2.2
+3065,Haiti,2004,0.2
+3066,Honduras,2004,1.1
+3067,Hong Kong,2004,5.6
+3068,Hungary,2004,5.8
+3069,Iceland,2004,7.7
+3070,India,2004,1.2
+3071,Indonesia,2004,1.5
+3072,Iran,2004,6.1
+3073,Iraq,2004,3.3
+3074,Ireland,2004,10.5
+3075,Palestina,2004,8.7
+3076,Italy,2004,8
+3077,Ivory Coast,2004,0.4
+3078,Jamaica,2004,4
+3079,Japan,2004,9.9
+3080,Jordan,2004,3.6
+3081,Kazakhstan,2004,11.4
+3082,Kenya,2004,0.3
+3083,Kiribati,2004,0.5
+3084,Kuwait,2004,31.1
+3085,Kyrgyzstan,2004,1.1
+3086,Laos,2004,0.3
+3087,Latvia,2004,3.1
+3088,Lebanon,2004,4.2
+3089,Liberia,2004,0.2
+3090,Libya,2004,9.4
+3091,Lithuania,2004,4.3
+3092,Luxembourg,2004,24.1
+3093,Macau,2004,3.6
+3094,Madagascar,2004,0.1
+3095,Malawi,2004,0.1
+3096,Malaysia,2004,6.7
+3097,Maldives,2004,2.5
+3098,Mali,2004,0.1
+3099,Malta,2004,6.4
+3100,Martinique,2004,4.4
+3101,Mauritania,2004,0.6
+3102,Mauritius,2004,2.6
+3103,Mexico,2004,4
+3104,Moldova,2004,1.2
+3105,Mongolia,2004,3.4
+3106,Morocco,2004,1.3
+3107,Mozambique,2004,0.1
+3108,Myanmar,2004,0.3
+3109,Namibia,2004,1
+3110,Nepal,2004,0.1
+3111,Netherlands,2004,10.9
+3112,New Caledonia,2004,11
+3113,New Zealand,2004,8.3
+3114,Nicaragua,2004,0.8
+3115,Niger,2004,0.1
+3116,Nigeria,2004,0.7
+3117,North Korea,2004,3.4
+3118,North Macedonia,2004,5.5
+3119,Norway,2004,10.1
+3120,Oman,2004,12.1
+3121,Pakistan,2004,0.8
+3122,Palau,2004,9.5
+3123,Panama,2004,1.8
+3124,Papua New Guinea,2004,0.8
+3125,Paraguay,2004,0.7
+3126,Peru,2004,1.2
+3127,Philippines,2004,0.9
+3128,Poland,2004,8
+3129,Portugal,2004,6
+3130,Qatar,2004,50.5
+3131,Réunion,2004,3.6
+3132,Romania,2004,4.3
+3133,Russia,2004,10.4
+3134,Rwanda,2004,0.1
+3135,"Saint Helena, Ascension and Tristan da Cunha",2004,2.3
+3136,Saint Kitts and Nevis,2004,4.7
+3137,Saint Lucia,2004,2.2
+3138,Saint Pierre and Miquelon,2004,10
+3139,Saint Vincent and the Grenadines,2004,2
+3140,Samoa,2004,0.9
+3141,São Tomé and Príncipe,2004,0.5
+3142,Saudi Arabia,2004,15
+3143,Senegal,2004,0.5
+3144,Seychelles,2004,9.4
+3145,Sierra Leone,2004,0.1
+3146,Singapore,2004,12.1
+3147,Slovakia,2004,7.2
+3148,Slovenia,2004,7.5
+3149,Solomon Islands,2004,0.4
+3150,Somalia,2004,0.1
+3151,South Africa,2004,8.7
+3152,South Korea,2004,10.4
+3153,Spain,2004,8
+3154,Sri Lanka,2004,0.6
+3155,Sudan,2004,0.3
+3156,Suriname,2004,4.6
+3157,Sweden,2004,6
+3158,Switzerland,2004,5.5
+3159,Syria,2004,3.9
+3160,Taiwan,2004,11.5
+3161,Tajikistan,2004,0.4
+3162,Tanzania,2004,0.1
+3163,Thailand,2004,4
+3164,Togo,2004,0.2
+3165,Tonga,2004,1.1
+3166,Trinidad and Tobago,2004,24
+3167,Tunisia,2004,2.3
+3168,Turkey,2004,3.2
+3169,Turkmenistan,2004,8.3
+3170,Turks and Caicos Islands,2004,3.6
+3171,Uganda,2004,0.1
+3172,Ukraine,2004,7
+3173,United Arab Emirates,2004,28.7
+3174,United Kingdom,2004,9.1
+3175,United States,2004,19.3
+3176,Uruguay,2004,1.7
+3177,Uzbekistan,2004,4.3
+3178,Vanuatu,2004,0.4
+3179,Venezuela,2004,6.6
+3180,Vietnam,2004,1.2
+3181,Yemen,2004,0.9
+3182,Zambia,2004,0.2
+3183,Zimbabwe,2004,0.8
+3184,Afghanistan,2005,0.1
+3185,Albania,2005,1.4
+3186,Algeria,2005,3.2
+3187,Angola,2005,1.2
+3188,Antigua and Barbuda,2005,4.9
+3189,Argentina,2005,4.1
+3190,Armenia,2005,1.4
+3191,Aruba,2005,22.9
+3192,Australia,2005,17.9
+3193,Austria,2005,8.8
+3194,Azerbaijan,2005,4.2
+3195,Bahamas,2005,4.9
+3196,Bahrain,2005,27.1
+3197,Bangladesh,2005,0.3
+3198,Barbados,2005,5.2
+3199,Belarus,2005,6.6
+3200,Belgium,2005,10.3
+3201,Belize,2005,1.4
+3202,Benin,2005,0.3
+3203,Bermuda,2005,6.9
+3204,Bhutan,2005,0.6
+3205,Bolivia,2005,1.2
+3206,Bosnia and Herzegovina,2005,4.2
+3207,Botswana,2005,2.5
+3208,Brazil,2005,1.9
+3209,British Virgin Islands,2005,5.7
+3210,Brunei,2005,15.4
+3211,Bulgaria,2005,6.1
+3212,Burkina Faso,2005,0.1
+3213,Burundi,2005,0
+3214,Cambodia,2005,0.3
+3215,Cameroon,2005,0.2
+3216,Canada,2005,17.3
+3217,Cape Verde,2005,0.6
+3218,Cayman Islands,2005,9.8
+3219,Central African Republic,2005,0.1
+3220,Chad,2005,0
+3221,Chile,2005,4
+3222,China,2005,4.3
+3223,Colombia,2005,1.4
+3224,Comoros,2005,0.2
+3225,Cook Islands,2005,3.2
+3226,Costa Rica,2005,1.6
+3227,Croatia,2005,5.3
+3228,Cuba,2005,2.2
+3229,Cyprus,2005,9
+3230,Czech Republic,2005,12
+3231,Democratic Republic of the Congo,2005,0
+3232,Denmark,2005,8.6
+3233,Djibouti,2005,0.6
+3234,Dominica,2005,1.7
+3235,Dominican Republic,2005,2.1
+3236,Ecuador,2005,2
+3237,Egypt,2005,2.1
+3238,El Salvador,2005,1
+3239,Equatorial Guinea,2005,7.7
+3240,Eritrea,2005,0.2
+3241,Estonia,2005,13.6
+3242,Eswatini,2005,0.9
+3243,Ethiopia,2005,0.1
+3244,Falkland Islands,2005,17.1
+3245,Faroe Islands,2005,14
+3246,Fiji,2005,2
+3247,Finland,2005,10.4
+3248,France,2005,6.4
+3249,French Guiana,2005,4.2
+3250,French Polynesia,2005,3.3
+3251,Gabon,2005,1.6
+3252,Georgia,2005,1.2
+3253,Germany,2005,9.8
+3254,Ghana,2005,0.3
+3255,Gibraltar,2005,12.3
+3256,Greece,2005,8.9
+3257,Greenland,2005,9.4
+3258,Grenada,2005,2.3
+3259,Guadeloupe,2005,4.7
+3260,Guatemala,2005,1
+3261,Guinea,2005,0.1
+3262,Guinea-Bissau,2005,0.2
+3263,Guyana,2005,2
+3264,Haiti,2005,0.2
+3265,Honduras,2005,1.1
+3266,Hong Kong,2005,5.9
+3267,Hungary,2005,5.9
+3268,Iceland,2005,7.5
+3269,India,2005,1.2
+3270,Indonesia,2005,1.6
+3271,Iran,2005,6
+3272,Iraq,2005,3.4
+3273,Ireland,2005,10.3
+3274,Palestina,2005,8.2
+3275,Italy,2005,8
+3276,Ivory Coast,2005,0.4
+3277,Jamaica,2005,3.8
+3278,Japan,2005,9.7
+3279,Jordan,2005,3.8
+3280,Kazakhstan,2005,11.7
+3281,Kenya,2005,0.3
+3282,Kiribati,2005,0.7
+3283,Kuwait,2005,33.3
+3284,Kyrgyzstan,2005,1.1
+3285,Laos,2005,0.2
+3286,Latvia,2005,3.1
+3287,Lebanon,2005,4.3
+3288,Liberia,2005,0.2
+3289,Libya,2005,9.5
+3290,Lithuania,2005,4.6
+3291,Luxembourg,2005,24.4
+3292,Macau,2005,3.8
+3293,Madagascar,2005,0.1
+3294,Malawi,2005,0.1
+3295,Malaysia,2005,7.2
+3296,Maldives,2005,2.2
+3297,Mali,2005,0.1
+3298,Malta,2005,6.7
+3299,Martinique,2005,4.5
+3300,Mauritania,2005,0.6
+3301,Mauritius,2005,2.7
+3302,Mexico,2005,4.2
+3303,Moldova,2005,1.3
+3304,Mongolia,2005,3.5
+3305,Morocco,2005,1.4
+3306,Mozambique,2005,0.1
+3307,Myanmar,2005,0.2
+3308,Namibia,2005,1.1
+3309,Nepal,2005,0.1
+3310,Netherlands,2005,10.6
+3311,New Caledonia,2005,11.9
+3312,New Zealand,2005,8.1
+3313,Nicaragua,2005,0.7
+3314,Niger,2005,0.1
+3315,Nigeria,2005,0.8
+3316,North Korea,2005,3.5
+3317,North Macedonia,2005,5.5
+3318,Norway,2005,10
+3319,Oman,2005,13.1
+3320,Pakistan,2005,0.8
+3321,Palau,2005,9.6
+3322,Panama,2005,1.9
+3323,Papua New Guinea,2005,0.7
+3324,Paraguay,2005,0.6
+3325,Peru,2005,1.3
+3326,Philippines,2005,0.9
+3327,Poland,2005,7.9
+3328,Portugal,2005,6.2
+3329,Qatar,2005,64.2
+3330,Réunion,2005,3.5
+3331,Romania,2005,4.2
+3332,Russia,2005,10.6
+3333,Rwanda,2005,0.1
+3334,"Saint Helena, Ascension and Tristan da Cunha",2005,2.3
+3335,Saint Kitts and Nevis,2005,4.8
+3336,Saint Lucia,2005,2.2
+3337,Saint Pierre and Miquelon,2005,10.7
+3338,Saint Vincent and the Grenadines,2005,2
+3339,Samoa,2005,0.9
+3340,São Tomé and Príncipe,2005,0.5
+3341,Saudi Arabia,2005,15.5
+3342,Senegal,2005,0.5
+3343,Seychelles,2005,8.4
+3344,Sierra Leone,2005,0.1
+3345,Singapore,2005,11.8
+3346,Slovakia,2005,7.3
+3347,Slovenia,2005,7.5
+3348,Solomon Islands,2005,0.4
+3349,Somalia,2005,0.1
+3350,South Africa,2005,8.5
+3351,South Korea,2005,9.7
+3352,Spain,2005,8.2
+3353,Sri Lanka,2005,0.6
+3354,Sudan,2005,0.3
+3355,Suriname,2005,4.8
+3356,Sweden,2005,5.7
+3357,Switzerland,2005,5.6
+3358,Syria,2005,3.8
+3359,Taiwan,2005,11.6
+3360,Tajikistan,2005,0.4
+3361,Tanzania,2005,0.1
+3362,Thailand,2005,4.1
+3363,Togo,2005,0.2
+3364,Tonga,2005,1.1
+3365,Trinidad and Tobago,2005,23.5
+3366,Tunisia,2005,2.3
+3367,Turkey,2005,3.3
+3368,Turkmenistan,2005,8.6
+3369,Turks and Caicos Islands,2005,4
+3370,Uganda,2005,0.1
+3371,Ukraine,2005,7
+3372,United Arab Emirates,2005,28.3
+3373,United Kingdom,2005,9
+3374,United States,2005,19.3
+3375,Uruguay,2005,1.7
+3376,Uzbekistan,2005,4.3
+3377,Vanuatu,2005,0.4
+3378,Venezuela,2005,6.1
+3379,Vietnam,2005,1.2
+3380,Yemen,2005,1
+3381,Zambia,2005,0.2
+3382,Zimbabwe,2005,0.9
+3383,Afghanistan,2006,0.1
+3384,Albania,2006,1.3
+3385,Algeria,2006,3
+3386,Angola,2006,1.2
+3387,Antigua and Barbuda,2006,5
+3388,Argentina,2006,4.4
+3389,Armenia,2006,1.5
+3390,Aruba,2006,22.5
+3391,Australia,2006,18
+3392,Austria,2006,8.7
+3393,Azerbaijan,2006,4.1
+3394,Bahamas,2006,4.5
+3395,Bahrain,2006,28.6
+3396,Bangladesh,2006,0.3
+3397,Barbados,2006,5.3
+3398,Belarus,2006,6.4
+3399,Belgium,2006,10.2
+3400,Belize,2006,1.4
+3401,Benin,2006,0.5
+3402,Bermuda,2006,8.1
+3403,Bhutan,2006,0.6
+3404,Bolivia,2006,1.2
+3405,Bosnia and Herzegovina,2006,4.6
+3406,Botswana,2006,2.5
+3407,Brazil,2006,1.9
+3408,British Virgin Islands,2006,6
+3409,Brunei,2006,14.5
+3410,Bulgaria,2006,6.3
+3411,Burkina Faso,2006,0.1
+3412,Burundi,2006,0
+3413,Cambodia,2006,0.3
+3414,Cameroon,2006,0.2
+3415,Canada,2006,16.8
+3416,Cape Verde,2006,0.6
+3417,Cayman Islands,2006,9.9
+3418,Central African Republic,2006,0.1
+3419,Chad,2006,0
+3420,Chile,2006,4.1
+3421,China,2006,4.6
+3422,Colombia,2006,1.4
+3423,Comoros,2006,0.2
+3424,Cook Islands,2006,3.4
+3425,Costa Rica,2006,1.7
+3426,Croatia,2006,5.3
+3427,Cuba,2006,2.3
+3428,Cyprus,2006,9.2
+3429,Czech Republic,2006,12.1
+3430,Democratic Republic of the Congo,2006,0
+3431,Denmark,2006,9.9
+3432,Djibouti,2006,0.6
+3433,Dominica,2006,1.7
+3434,Dominican Republic,2006,2.1
+3435,Ecuador,2006,2.2
+3436,Egypt,2006,2.3
+3437,El Salvador,2006,1.1
+3438,Equatorial Guinea,2006,7.6
+3439,Eritrea,2006,0.1
+3440,Estonia,2006,13.1
+3441,Eswatini,2006,0.9
+3442,Ethiopia,2006,0.1
+3443,Falkland Islands,2006,19.8
+3444,Faroe Islands,2006,14.1
+3445,Fiji,2006,1.9
+3446,Finland,2006,12.6
+3447,France,2006,6.2
+3448,French Guiana,2006,4.2
+3449,French Polynesia,2006,3.2
+3450,Gabon,2006,1.5
+3451,Georgia,2006,1.5
+3452,Germany,2006,9.9
+3453,Ghana,2006,0.4
+3454,Gibraltar,2006,12.7
+3455,Greece,2006,8.8
+3456,Greenland,2006,8.3
+3457,Grenada,2006,2.4
+3458,Guadeloupe,2006,4.7
+3459,Guatemala,2006,0.9
+3460,Guinea,2006,0.1
+3461,Guinea-Bissau,2006,0.2
+3462,Guyana,2006,1.7
+3463,Haiti,2006,0.2
+3464,Honduras,2006,1
+3465,Hong Kong,2006,5.6
+3466,Hungary,2006,5.7
+3467,Iceland,2006,7.4
+3468,India,2006,1.3
+3469,Indonesia,2006,1.5
+3470,Iran,2006,6.7
+3471,Iraq,2006,3.6
+3472,Ireland,2006,10.1
+3473,Palestina,2006,8.9
+3474,Italy,2006,7.9
+3475,Ivory Coast,2006,0.3
+3476,Jamaica,2006,4.5
+3477,Japan,2006,9.7
+3478,Jordan,2006,3.6
+3479,Kazakhstan,2006,12.6
+3480,Kenya,2006,0.3
+3481,Kiribati,2006,0.7
+3482,Kuwait,2006,31.1
+3483,Kyrgyzstan,2006,1.1
+3484,Laos,2006,0.3
+3485,Latvia,2006,3.3
+3486,Lebanon,2006,3.6
+3487,Liberia,2006,0.2
+3488,Libya,2006,9.4
+3489,Lithuania,2006,4.6
+3490,Luxembourg,2006,24.1
+3491,Macau,2006,3.3
+3492,Madagascar,2006,0.1
+3493,Malawi,2006,0.1
+3494,Malaysia,2006,7.1
+3495,Maldives,2006,2.7
+3496,Mali,2006,0.1
+3497,Malta,2006,6.4
+3498,Martinique,2006,4.7
+3499,Mauritania,2006,0.5
+3500,Mauritius,2006,3
+3501,Mexico,2006,4.2
+3502,Moldova,2006,1.4
+3503,Mongolia,2006,3.7
+3504,Morocco,2006,1.5
+3505,Mozambique,2006,0.1
+3506,Myanmar,2006,0.3
+3507,Namibia,2006,1.1
+3508,Nepal,2006,0.1
+3509,Netherlands,2006,10.1
+3510,New Caledonia,2006,11.6
+3511,New Zealand,2006,8
+3512,Nicaragua,2006,0.8
+3513,Niger,2006,0.1
+3514,Nigeria,2006,0.7
+3515,North Korea,2006,3.6
+3516,North Macedonia,2006,5.3
+3517,Norway,2006,10.6
+3518,Oman,2006,14.9
+3519,Pakistan,2006,0.9
+3520,Palau,2006,10.1
+3521,Panama,2006,2.1
+3522,Papua New Guinea,2006,0.7
+3523,Paraguay,2006,0.7
+3524,Peru,2006,1.2
+3525,Philippines,2006,0.8
+3526,Poland,2006,8.4
+3527,Portugal,2006,5.6
+3528,Qatar,2006,49.5
+3529,Réunion,2006,3.5
+3530,Romania,2006,4.6
+3531,Russia,2006,11.7
+3532,Rwanda,2006,0.1
+3533,"Saint Helena, Ascension and Tristan da Cunha",2006,2.4
+3534,Saint Kitts and Nevis,2006,4.7
+3535,Saint Lucia,2006,2.1
+3536,Saint Pierre and Miquelon,2006,10.8
+3537,Saint Vincent and the Grenadines,2006,2
+3538,Samoa,2006,1
+3539,São Tomé and Príncipe,2006,0.5
+3540,Saudi Arabia,2006,15.9
+3541,Senegal,2006,0.4
+3542,Seychelles,2006,9
+3543,Sierra Leone,2006,0.1
+3544,Singapore,2006,11
+3545,Slovakia,2006,7.2
+3546,Slovenia,2006,7.6
+3547,Solomon Islands,2006,0.4
+3548,Somalia,2006,0.1
+3549,South Africa,2006,8.3
+3550,South Korea,2006,9.9
+3551,Spain,2006,8
+3552,Sri Lanka,2006,0.6
+3553,Sudan,2006,0.3
+3554,Suriname,2006,4.8
+3555,Sweden,2006,5.4
+3556,Switzerland,2006,5.6
+3557,Syria,2006,3.3
+3558,Taiwan,2006,11.8
+3559,Tajikistan,2006,0.4
+3560,Tanzania,2006,0.1
+3561,Thailand,2006,4.2
+3562,Togo,2006,0.2
+3563,Tonga,2006,1.3
+3564,Trinidad and Tobago,2006,26.1
+3565,Tunisia,2006,2.3
+3566,Turkey,2006,3.6
+3567,Turkmenistan,2006,8.9
+3568,Turks and Caicos Islands,2006,4.5
+3569,Uganda,2006,0.1
+3570,Ukraine,2006,6.8
+3571,United Arab Emirates,2006,28.7
+3572,United Kingdom,2006,9.1
+3573,United States,2006,18.8
+3574,Uruguay,2006,2
+3575,Uzbekistan,2006,4.6
+3576,Vanuatu,2006,0.4
+3577,Venezuela,2006,5.9
+3578,Vietnam,2006,1.2
+3579,Yemen,2006,1
+3580,Zambia,2006,0.2
+3581,Zimbabwe,2006,0.8
+3582,Afghanistan,2007,0.1
+3583,Albania,2007,1.5
+3584,Algeria,2007,3.2
+3585,Angola,2007,1.4
+3586,Antigua and Barbuda,2007,5.1
+3587,Argentina,2007,4.7
+3588,Armenia,2007,1.7
+3589,Aruba,2007,23
+3590,Australia,2007,18.1
+3591,Austria,2007,8.3
+3592,Azerbaijan,2007,4.9
+3593,Bahamas,2007,4.5
+3594,Bahrain,2007,24.2
+3595,Bangladesh,2007,0.3
+3596,Barbados,2007,5.3
+3597,Belarus,2007,6.2
+3598,Belgium,2007,9.8
+3599,Belize,2007,1.4
+3600,Benin,2007,0.5
+3601,Bermuda,2007,8
+3602,Bhutan,2007,0.6
+3603,Bolivia,2007,1.4
+3604,Bosnia and Herzegovina,2007,4.6
+3605,Botswana,2007,2.4
+3606,Brazil,2007,1.9
+3607,British Virgin Islands,2007,6.1
+3608,Brunei,2007,25.3
+3609,Bulgaria,2007,6.8
+3610,Burkina Faso,2007,0.1
+3611,Burundi,2007,0
+3612,Cambodia,2007,0.3
+3613,Cameroon,2007,0.3
+3614,Canada,2007,16.5
+3615,Cape Verde,2007,0.7
+3616,Cayman Islands,2007,9.8
+3617,Central African Republic,2007,0.1
+3618,Chad,2007,0
+3619,Chile,2007,4.3
+3620,China,2007,4.9
+3621,Colombia,2007,1.4
+3622,Comoros,2007,0.2
+3623,Cook Islands,2007,3.4
+3624,Costa Rica,2007,1.8
+3625,Croatia,2007,5.6
+3626,Cuba,2007,2.4
+3627,Cyprus,2007,9.6
+3628,Czech Republic,2007,12.1
+3629,Democratic Republic of the Congo,2007,0
+3630,Denmark,2007,9.2
+3631,Djibouti,2007,0.6
+3632,Dominica,2007,1.8
+3633,Dominican Republic,2007,2.1
+3634,Ecuador,2007,2.2
+3635,Egypt,2007,2.5
+3636,El Salvador,2007,1.1
+3637,Equatorial Guinea,2007,7.5
+3638,Eritrea,2007,0.1
+3639,Estonia,2007,14.9
+3640,Eswatini,2007,0.9
+3641,Ethiopia,2007,0.1
+3642,Falkland Islands,2007,19.8
+3643,Faroe Islands,2007,14.3
+3644,Fiji,2007,1.7
+3645,Finland,2007,12.1
+3646,France,2007,6.1
+3647,French Guiana,2007,4.2
+3648,French Polynesia,2007,3.1
+3649,Gabon,2007,1.4
+3650,Georgia,2007,1.6
+3651,Germany,2007,9.6
+3652,Ghana,2007,0.4
+3653,Gibraltar,2007,13.9
+3654,Greece,2007,8.8
+3655,Greenland,2007,11.1
+3656,Grenada,2007,2.3
+3657,Guadeloupe,2007,4.7
+3658,Guatemala,2007,0.9
+3659,Guinea,2007,0.1
+3660,Guinea-Bissau,2007,0.2
+3661,Guyana,2007,2.1
+3662,Haiti,2007,0.3
+3663,Honduras,2007,1.2
+3664,Hong Kong,2007,5.8
+3665,Hungary,2007,5.6
+3666,Iceland,2007,7.6
+3667,India,2007,1.4
+3668,Indonesia,2007,1.8
+3669,Iran,2007,6.8
+3670,Iraq,2007,2.2
+3671,Ireland,2007,10.2
+3672,Palestina,2007,8.6
+3673,Italy,2007,7.7
+3674,Ivory Coast,2007,0.3
+3675,Jamaica,2007,5.2
+3676,Japan,2007,9.8
+3677,Jordan,2007,3.6
+3678,Kazakhstan,2007,14.2
+3679,Kenya,2007,0.3
+3680,Kiribati,2007,0.5
+3681,Kuwait,2007,30.7
+3682,Kyrgyzstan,2007,1.1
+3683,Laos,2007,0.2
+3684,Latvia,2007,3.4
+3685,Lebanon,2007,3.3
+3686,Liberia,2007,0.2
+3687,Libya,2007,9
+3688,Lithuania,2007,3.9
+3689,Luxembourg,2007,22.8
+3690,Macau,2007,3.1
+3691,Madagascar,2007,0.1
+3692,Malawi,2007,0.1
+3693,Malaysia,2007,7.3
+3694,Maldives,2007,2.6
+3695,Mali,2007,0.1
+3696,Malta,2007,6.7
+3697,Martinique,2007,4.8
+3698,Mauritania,2007,0.6
+3699,Mauritius,2007,3.1
+3700,Mexico,2007,4.4
+3701,Moldova,2007,1.3
+3702,Mongolia,2007,4.1
+3703,Morocco,2007,1.6
+3704,Mozambique,2007,0.1
+3705,Myanmar,2007,0.2
+3706,Namibia,2007,1.1
+3707,Nepal,2007,0.1
+3708,Netherlands,2007,10.5
+3709,New Caledonia,2007,12.4
+3710,New Zealand,2007,7.8
+3711,Nicaragua,2007,0.8
+3712,Niger,2007,0.1
+3713,Nigeria,2007,0.6
+3714,North Korea,2007,3
+3715,North Macedonia,2007,5.6
+3716,Norway,2007,9.5
+3717,Oman,2007,17.7
+3718,Pakistan,2007,0.9
+3719,Palau,2007,10.5
+3720,Panama,2007,2.2
+3721,Papua New Guinea,2007,1
+3722,Paraguay,2007,0.7
+3723,Peru,2007,1.5
+3724,Philippines,2007,0.8
+3725,Poland,2007,8.3
+3726,Portugal,2007,5.5
+3727,Qatar,2007,55.4
+3728,Réunion,2007,3.5
+3729,Romania,2007,4.4
+3730,Russia,2007,11.6
+3731,Rwanda,2007,0.1
+3732,"Saint Helena, Ascension and Tristan da Cunha",2007,2.4
+3733,Saint Kitts and Nevis,2007,4.9
+3734,Saint Lucia,2007,2.3
+3735,Saint Pierre and Miquelon,2007,10.8
+3736,Saint Vincent and the Grenadines,2007,2.1
+3737,Samoa,2007,1
+3738,São Tomé and Príncipe,2007,0.5
+3739,Saudi Arabia,2007,15.4
+3740,Senegal,2007,0.5
+3741,Seychelles,2007,7.5
+3742,Sierra Leone,2007,0.1
+3743,Singapore,2007,8
+3744,Slovakia,2007,6.9
+3745,Slovenia,2007,8.1
+3746,Solomon Islands,2007,0.4
+3747,Somalia,2007,0.1
+3748,South Africa,2007,8.8
+3749,South Korea,2007,10.5
+3750,Spain,2007,8.1
+3751,Sri Lanka,2007,0.6
+3752,Sudan,2007,0.3
+3753,Suriname,2007,4.8
+3754,Sweden,2007,5.4
+3755,Switzerland,2007,5.1
+3756,Syria,2007,3.4
+3757,Taiwan,2007,12.1
+3758,Tajikistan,2007,0.5
+3759,Tanzania,2007,0.1
+3760,Thailand,2007,4.1
+3761,Togo,2007,0.2
+3762,Tonga,2007,1.1
+3763,Trinidad and Tobago,2007,27.9
+3764,Tunisia,2007,2.4
+3765,Turkey,2007,4.1
+3766,Turkmenistan,2007,9.2
+3767,Turks and Caicos Islands,2007,4.9
+3768,Uganda,2007,0.1
+3769,Ukraine,2007,6.9
+3770,United Arab Emirates,2007,25.3
+3771,United Kingdom,2007,8.9
+3772,United States,2007,19.3
+3773,Uruguay,2007,1.8
+3774,Uzbekistan,2007,3.9
+3775,Vanuatu,2007,0.5
+3776,Venezuela,2007,5.9
+3777,Vietnam,2007,1.4
+3778,Yemen,2007,1
+3779,Zambia,2007,0.2
+3780,Zimbabwe,2007,0.7
+3781,Afghanistan,2008,0.2
+3782,Albania,2008,1.6
+3783,Algeria,2008,3.2
+3784,Angola,2008,1.4
+3785,Antigua and Barbuda,2008,5.2
+3786,Argentina,2008,4.8
+3787,Armenia,2008,1.9
+3788,Aruba,2008,21.7
+3789,Australia,2008,18.3
+3790,Austria,2008,8.1
+3791,Azerbaijan,2008,5.4
+3792,Bahamas,2008,3
+3793,Bahrain,2008,23.1
+3794,Bangladesh,2008,0.3
+3795,Barbados,2008,5.3
+3796,Belarus,2008,6.5
+3797,Belgium,2008,9.9
+3798,Belize,2008,1.5
+3799,Benin,2008,0.5
+3800,Bermuda,2008,6
+3801,Bhutan,2008,0.6
+3802,Bolivia,2008,1.4
+3803,Bosnia and Herzegovina,2008,5.2
+3804,Botswana,2008,2.5
+3805,Brazil,2008,2
+3806,British Virgin Islands,2008,6.3
+3807,Brunei,2008,27.6
+3808,Bulgaria,2008,6.7
+3809,Burkina Faso,2008,0.1
+3810,Burundi,2008,0
+3811,Cambodia,2008,0.3
+3812,Cameroon,2008,0.3
+3813,Canada,2008,16.4
+3814,Cape Verde,2008,0.6
+3815,Cayman Islands,2008,10
+3816,Central African Republic,2008,0.1
+3817,Chad,2008,0
+3818,Chile,2008,4.3
+3819,China,2008,5.3
+3820,Colombia,2008,1.5
+3821,Comoros,2008,0.2
+3822,Cook Islands,2008,-
+3823,Costa Rica,2008,1.9
+3824,Croatia,2008,5.3
+3825,Cuba,2008,2.7
+3826,Cyprus,2008,9.9
+3827,Czech Republic,2008,11.3
+3828,Democratic Republic of the Congo,2008,0
+3829,Denmark,2008,8.4
+3830,Djibouti,2008,0.6
+3831,Dominica,2008,1.8
+3832,Dominican Republic,2008,2.2
+3833,Ecuador,2008,2.1
+3834,Egypt,2008,2.5
+3835,El Salvador,2008,1.1
+3836,Equatorial Guinea,2008,7.3
+3837,Eritrea,2008,0.1
+3838,Estonia,2008,13.7
+3839,Eswatini,2008,1
+3840,Ethiopia,2008,0.1
+3841,Falkland Islands,2008,19.7
+3842,Faroe Islands,2008,14.6
+3843,Fiji,2008,1.3
+3844,Finland,2008,10.7
+3845,France,2008,6.1
+3846,French Guiana,2008,-
+3847,French Polynesia,2008,3.3
+3848,Gabon,2008,1.4
+3849,Georgia,2008,1.6
+3850,Germany,2008,9.6
+3851,Ghana,2008,0.4
+3852,Gibraltar,2008,14.4
+3853,Greece,2008,8.8
+3854,Greenland,2008,10
+3855,Grenada,2008,2.5
+3856,Guadeloupe,2008,4.7
+3857,Guatemala,2008,0.8
+3858,Guinea,2008,0.2
+3859,Guinea-Bissau,2008,0.1
+3860,Guyana,2008,2.1
+3861,Haiti,2008,0.3
+3862,Honduras,2008,1.2
+3863,Hong Kong,2008,5.5
+3864,Hungary,2008,5.5
+3865,Iceland,2008,7.1
+3866,India,2008,1.4
+3867,Indonesia,2008,1.8
+3868,Iran,2008,7.3
+3869,Iraq,2008,3.2
+3870,Ireland,2008,9.8
+3871,Palestina,2008,9.3
+3872,Italy,2008,7.5
+3873,Ivory Coast,2008,-
+3874,Jamaica,2008,4.5
+3875,Japan,2008,9.5
+3876,Jordan,2008,3.6
+3877,Kazakhstan,2008,14.7
+3878,Kenya,2008,0.3
+3879,Kiribati,2008,0.6
+3880,Kuwait,2008,31.3
+3881,Kyrgyzstan,2008,1.1
+3882,Laos,2008,0.2
+3883,Latvia,2008,3.6
+3884,Lebanon,2008,4.2
+3885,Liberia,2008,0.2
+3886,Libya,2008,9.8
+3887,Lithuania,2008,4.3
+3888,Luxembourg,2008,21.9
+3889,Macau,2008,2.6
+3890,Madagascar,2008,0.1
+3891,Malawi,2008,0.1
+3892,Malaysia,2008,7.7
+3893,Maldives,2008,2.8
+3894,Mali,2008,0.1
+3895,Malta,2008,6.3
+3896,Martinique,2008,4.8
+3897,Mauritania,2008,0.6
+3898,Mauritius,2008,3
+3899,Mexico,2008,4.1
+3900,Moldova,2008,1.3
+3901,Mongolia,2008,3.8
+3902,Morocco,2008,1.7
+3903,Mozambique,2008,0.1
+3904,Myanmar,2008,0.2
+3905,Namibia,2008,1.7
+3906,Nepal,2008,0.1
+3907,Netherlands,2008,10.5
+3908,New Caledonia,2008,13.7
+3909,New Zealand,2008,7.8
+3910,Nicaragua,2008,0.8
+3911,Niger,2008,0.1
+3912,Nigeria,2008,0.6
+3913,North Korea,2008,3.2
+3914,North Macedonia,2008,5.8
+3915,Norway,2008,9.4
+3916,Oman,2008,16
+3917,Pakistan,2008,1
+3918,Palau,2008,10.4
+3919,Panama,2008,2.1
+3920,Papua New Guinea,2008,0.7
+3921,Paraguay,2008,0.7
+3922,Peru,2008,1.4
+3923,Philippines,2008,0.8
+3924,Poland,2008,8.3
+3925,Portugal,2008,5.3
+3926,Qatar,2008,48.6
+3927,Réunion,2008,-
+3928,Romania,2008,4.7
+3929,Russia,2008,12
+3930,Rwanda,2008,0.1
+3931,"Saint Helena, Ascension and Tristan da Cunha",2008,-
+3932,Saint Kitts and Nevis,2008,4.9
+3933,Saint Lucia,2008,2.3
+3934,Saint Pierre and Miquelon,2008,10.9
+3935,Saint Vincent and the Grenadines,2008,2.1
+3936,Samoa,2008,1
+3937,São Tomé and Príncipe,2008,0.5
+3938,Saudi Arabia,2008,16
+3939,Senegal,2008,0.4
+3940,Seychelles,2008,8.1
+3941,Sierra Leone,2008,0.1
+3942,Singapore,2008,7
+3943,Slovakia,2008,7
+3944,Slovenia,2008,8.5
+3945,Solomon Islands,2008,0.4
+3946,Somalia,2008,0.1
+3947,South Africa,2008,8.8
+3948,South Korea,2008,10.6
+3949,Spain,2008,7.4
+3950,Sri Lanka,2008,0.6
+3951,Sudan,2008,0.3
+3952,Suriname,2008,4.7
+3953,Sweden,2008,5.3
+3954,Switzerland,2008,5.4
+3955,Syria,2008,3.4
+3956,Taiwan,2008,11.2
+3957,Tajikistan,2008,0.4
+3958,Tanzania,2008,0.1
+3959,Thailand,2008,4
+3960,Togo,2008,0.3
+3961,Tonga,2008,1.2
+3962,Trinidad and Tobago,2008,37.3
+3963,Tunisia,2008,2.4
+3964,Turkey,2008,4.1
+3965,Turkmenistan,2008,9.5
+3966,Turks and Caicos Islands,2008,4.8
+3967,Uganda,2008,0.1
+3968,Ukraine,2008,7
+3969,United Arab Emirates,2008,24.7
+3970,United Kingdom,2008,8.5
+3971,United States,2008,18.5
+3972,Uruguay,2008,2.5
+3973,Uzbekistan,2008,3.7
+3974,Vanuatu,2008,0.4
+3975,Venezuela,2008,6
+3976,Vietnam,2008,1.5
+3977,Yemen,2008,1
+3978,Zambia,2008,0.2
+3979,Zimbabwe,2008,0.6
+3980,Afghanistan,2009,0.2
+3981,Albania,2009,1.5
+3982,Algeria,2009,3.4
+3983,Angola,2009,1.4
+3984,Antigua and Barbuda,2009,5.9
+3985,Argentina,2009,4.4
+3986,Armenia,2009,1.5
+3987,Aruba,2009,21.5
+3988,Australia,2009,18.3
+3989,Austria,2009,7.6
+3990,Azerbaijan,2009,3.6
+3991,Bahamas,2009,4.6
+3992,Bahrain,2009,20.7
+3993,Bangladesh,2009,0.4
+3994,Barbados,2009,5.8
+3995,Belarus,2009,6.3
+3996,Belgium,2009,9.6
+3997,Belize,2009,1.5
+3998,Benin,2009,0.5
+3999,Bermuda,2009,7.1
+4000,Bhutan,2009,0.5
+4001,Bolivia,2009,1.5
+4002,Bosnia and Herzegovina,2009,5.4
+4003,Botswana,2009,2.2
+4004,Brazil,2009,1.9
+4005,British Virgin Islands,2009,6.2
+4006,Brunei,2009,23.7
+4007,Bulgaria,2009,5.7
+4008,Burkina Faso,2009,0.1
+4009,Burundi,2009,0
+4010,Cambodia,2009,0.3
+4011,Cameroon,2009,0.3
+4012,Canada,2009,15.3
+4013,Cape Verde,2009,0.6
+4014,Cayman Islands,2009,10.3
+4015,Central African Republic,2009,0.1
+4016,Chad,2009,0
+4017,Chile,2009,4
+4018,China,2009,6.2
+4019,Colombia,2009,1.5
+4020,Comoros,2009,0.2
+4021,Cook Islands,2009,-
+4022,Costa Rica,2009,1.7
+4023,Croatia,2009,4.9
+4024,Cuba,2009,2.6
+4025,Cyprus,2009,7.4
+4026,Czech Republic,2009,10.4
+4027,Democratic Republic of the Congo,2009,0
+4028,Denmark,2009,8.1
+4029,Djibouti,2009,0.6
+4030,Dominica,2009,1.8
+4031,Dominican Republic,2009,2.1
+4032,Ecuador,2009,2.4
+4033,Egypt,2009,2.5
+4034,El Salvador,2009,1.1
+4035,Equatorial Guinea,2009,6.5
+4036,Eritrea,2009,0.1
+4037,Estonia,2009,11.9
+4038,Eswatini,2009,0.9
+4039,Ethiopia,2009,0.1
+4040,Falkland Islands,2009,19.6
+4041,Faroe Islands,2009,14.6
+4042,Fiji,2009,1
+4043,Finland,2009,10
+4044,France,2009,5.5
+4045,French Guiana,2009,-
+4046,French Polynesia,2009,3.3
+4047,Gabon,2009,1.4
+4048,Georgia,2009,1.6
+4049,Germany,2009,8.8
+4050,Ghana,2009,0.3
+4051,Gibraltar,2009,14.8
+4052,Greece,2009,8.5
+4053,Greenland,2009,10.1
+4054,Grenada,2009,2.4
+4055,Guadeloupe,2009,-
+4056,Guatemala,2009,0.9
+4057,Guinea,2009,0.2
+4058,Guinea-Bissau,2009,0.1
+4059,Guyana,2009,2.1
+4060,Haiti,2009,0.2
+4061,Honduras,2009,1
+4062,Hong Kong,2009,5.3
+4063,Hungary,2009,4.9
+4064,Iceland,2009,6.4
+4065,India,2009,1.5
+4066,Indonesia,2009,1.9
+4067,Iran,2009,7.6
+4068,Iraq,2009,3.5
+4069,Ireland,2009,8.9
+4070,Palestina,2009,8.6
+4071,Italy,2009,6.8
+4072,Ivory Coast,2009,-
+4073,Jamaica,2009,3.2
+4074,Japan,2009,8.6
+4075,Jordan,2009,3.5
+4076,Kazakhstan,2009,14.3
+4077,Kenya,2009,0.3
+4078,Kiribati,2009,0.4
+4079,Kuwait,2009,30.3
+4080,Kyrgyzstan,2009,1.2
+4081,Laos,2009,0.2
+4082,Latvia,2009,3.4
+4083,Lebanon,2009,5
+4084,Liberia,2009,0.1
+4085,Libya,2009,10
+4086,Lithuania,2009,4.5
+4087,Luxembourg,2009,20.4
+4088,Macau,2009,2.8
+4089,Madagascar,2009,0.1
+4090,Malawi,2009,0.1
+4091,Malaysia,2009,7.4
+4092,Maldives,2009,3
+4093,Mali,2009,0.1
+4094,Malta,2009,5.8
+4095,Martinique,2009,-
+4096,Mauritania,2009,0.6
+4097,Mauritius,2009,3
+4098,Mexico,2009,3.9
+4099,Moldova,2009,1.3
+4100,Mongolia,2009,4.1
+4101,Morocco,2009,1.7
+4102,Mozambique,2009,0.1
+4103,Myanmar,2009,0.2
+4104,Namibia,2009,1.5
+4105,Nepal,2009,0.1
+4106,Netherlands,2009,10.2
+4107,New Caledonia,2009,12
+4108,New Zealand,2009,7.5
+4109,Nicaragua,2009,0.8
+4110,Niger,2009,0.1
+4111,Nigeria,2009,0.5
+4112,North Korea,2009,3.1
+4113,North Macedonia,2009,4.2
+4114,Norway,2009,8.9
+4115,Oman,2009,15.2
+4116,Pakistan,2009,1
+4117,Palau,2009,10.3
+4118,Panama,2009,2.4
+4119,Papua New Guinea,2009,0.8
+4120,Paraguay,2009,0.7
+4121,Peru,2009,1.8
+4122,Philippines,2009,0.8
+4123,Poland,2009,7.8
+4124,Portugal,2009,5.2
+4125,Qatar,2009,44
+4126,Réunion,2009,-
+4127,Romania,2009,4
+4128,Russia,2009,11
+4129,Rwanda,2009,0.1
+4130,"Saint Helena, Ascension and Tristan da Cunha",2009,-
+4131,Saint Kitts and Nevis,2009,5
+4132,Saint Lucia,2009,2.2
+4133,Saint Pierre and Miquelon,2009,10.9
+4134,Saint Vincent and the Grenadines,2009,2.1
+4135,Samoa,2009,1
+4136,São Tomé and Príncipe,2009,0.5
+4137,Saudi Arabia,2009,16.1
+4138,Senegal,2009,0.5
+4139,Seychelles,2009,8.5
+4140,Sierra Leone,2009,0.1
+4141,Singapore,2009,4.8
+4142,Slovakia,2009,6.3
+4143,Slovenia,2009,7.5
+4144,Solomon Islands,2009,0.4
+4145,Somalia,2009,0.1
+4146,South Africa,2009,9.6
+4147,South Korea,2009,10.6
+4148,Spain,2009,6.2
+4149,Sri Lanka,2009,0.7
+4150,Sudan,2009,0.3
+4151,Suriname,2009,4.8
+4152,Sweden,2009,4.7
+4153,Switzerland,2009,5.4
+4154,Syria,2009,3
+4155,Taiwan,2009,10.3
+4156,Tajikistan,2009,0.4
+4157,Tanzania,2009,0.1
+4158,Thailand,2009,4.2
+4159,Togo,2009,0.3
+4160,Tonga,2009,1.3
+4161,Trinidad and Tobago,2009,35.8
+4162,Tunisia,2009,2.4
+4163,Turkey,2009,3.9
+4164,Turkmenistan,2009,10.1
+4165,Turks and Caicos Islands,2009,5.9
+4166,Uganda,2009,0.1
+4167,Ukraine,2009,5.6
+4168,United Arab Emirates,2009,22.6
+4169,United Kingdom,2009,7.6
+4170,United States,2009,17.2
+4171,Uruguay,2009,2.4
+4172,Uzbekistan,2009,3.9
+4173,Vanuatu,2009,0.5
+4174,Venezuela,2009,6.5
+4175,Vietnam,2009,1.6
+4176,Yemen,2009,1
+4177,Zambia,2009,0.2
+4178,Zimbabwe,2009,0.6
+4179,Afghanistan,2010,0.3
+4180,Albania,2010,1.5
+4181,Algeria,2010,3.3
+4182,Angola,2010,1.4
+4183,Antigua and Barbuda,2010,6
+4184,Argentina,2010,4.3
+4185,Armenia,2010,1.4
+4186,Aruba,2010,24.2
+4187,Australia,2010,16.7
+4188,Austria,2010,8.1
+4189,Azerbaijan,2010,3.4
+4190,Bahamas,2010,6.8
+4191,Bahrain,2010,18.4
+4192,Bangladesh,2010,0.4
+4193,Barbados,2010,5.4
+4194,Belarus,2010,6.6
+4195,Belgium,2010,10
+4196,Belize,2010,1.7
+4197,Benin,2010,0.5
+4198,Bermuda,2010,7.3
+4199,Bhutan,2010,0.7
+4200,Bolivia,2010,1.5
+4201,Bosnia and Herzegovina,2010,5.5
+4202,Botswana,2010,2.6
+4203,Brazil,2010,2.1
+4204,British Virgin Islands,2010,6.3
+4205,Brunei,2010,21.9
+4206,Bulgaria,2010,6
+4207,Burkina Faso,2010,0.1
+4208,Burundi,2010,0
+4209,Cambodia,2010,0.3
+4210,Cameroon,2010,0.3
+4211,Canada,2010,14.6
+4212,Cape Verde,2010,0.6
+4213,Cayman Islands,2010,10.1
+4214,Central African Republic,2010,0.1
+4215,Chad,2010,0
+4216,Chile,2010,4.2
+4217,China,2010,6.6
+4218,Colombia,2010,1.7
+4219,Comoros,2010,0.2
+4220,Cook Islands,2010,-
+4221,Costa Rica,2010,1.7
+4222,Croatia,2010,4.7
+4223,Cuba,2010,3.4
+4224,Cyprus,2010,7
+4225,Czech Republic,2010,10.6
+4226,Democratic Republic of the Congo,2010,0
+4227,Denmark,2010,8.4
+4228,Djibouti,2010,0.6
+4229,Dominica,2010,1.9
+4230,Dominican Republic,2010,2.2
+4231,Ecuador,2010,2.3
+4232,Egypt,2010,2.5
+4233,El Salvador,2010,1
+4234,Equatorial Guinea,2010,6.4
+4235,Eritrea,2010,0.1
+4236,Estonia,2010,13.8
+4237,Eswatini,2010,0.9
+4238,Ethiopia,2010,0.1
+4239,Falkland Islands,2010,-
+4240,Faroe Islands,2010,13
+4241,Fiji,2010,1.5
+4242,Finland,2010,11.5
+4243,France,2010,5.5
+4244,French Guiana,2010,-
+4245,French Polynesia,2010,3.3
+4246,Gabon,2010,1.5
+4247,Georgia,2010,1.7
+4248,Germany,2010,9.2
+4249,Ghana,2010,0.4
+4250,Gibraltar,2010,15.4
+4251,Greece,2010,7.8
+4252,Greenland,2010,11.7
+4253,Grenada,2010,2.5
+4254,Guadeloupe,2010,-
+4255,Guatemala,2010,0.8
+4256,Guinea,2010,0.2
+4257,Guinea-Bissau,2010,0.1
+4258,Guyana,2010,2.3
+4259,Haiti,2010,0.2
+4260,Honduras,2010,1.1
+4261,Hong Kong,2010,5.2
+4262,Hungary,2010,5.1
+4263,Iceland,2010,6.2
+4264,India,2010,1.6
+4265,Indonesia,2010,1.8
+4266,Iran,2010,7.7
+4267,Iraq,2010,3.6
+4268,Ireland,2010,8.8
+4269,Palestina,2010,9
+4270,Italy,2010,6.8
+4271,Ivory Coast,2010,-
+4272,Jamaica,2010,2.7
+4273,Japan,2010,9.1
+4274,Jordan,2010,3.2
+4275,Kazakhstan,2010,15.1
+4276,Kenya,2010,0.3
+4277,Kiribati,2010,0.6
+4278,Kuwait,2010,29.7
+4279,Kyrgyzstan,2010,1.1
+4280,Laos,2010,0.2
+4281,Latvia,2010,4
+4282,Lebanon,2010,4.6
+4283,Liberia,2010,0.2
+4284,Libya,2010,10.5
+4285,Lithuania,2010,-
+4286,Luxembourg,2010,21.6
+4287,Macau,2010,2.2
+4288,Madagascar,2010,0.1
+4289,Malawi,2010,0.1
+4290,Malaysia,2010,8
+4291,Maldives,2010,3
+4292,Mali,2010,0.1
+4293,Malta,2010,6.3
+4294,Martinique,2010,-
+4295,Mauritania,2010,0.6
+4296,Mauritius,2010,3.1
+4297,Mexico,2010,3.8
+4298,Moldova,2010,1.4
+4299,Mongolia,2010,4.2
+4300,Morocco,2010,1.7
+4301,Mozambique,2010,0.1
+4302,Myanmar,2010,0.2
+4303,Namibia,2010,1.4
+4304,Nepal,2010,0.2
+4305,Netherlands,2010,10.9
+4306,New Caledonia,2010,15.7
+4307,New Zealand,2010,7.3
+4308,Nicaragua,2010,0.8
+4309,Niger,2010,0.1
+4310,Nigeria,2010,0.5
+4311,North Korea,2010,3
+4312,North Macedonia,2010,4.2
+4313,Norway,2010,9.4
+4314,Oman,2010,19.1
+4315,Pakistan,2010,1
+4316,Palau,2010,10.6
+4317,Panama,2010,2.5
+4318,Papua New Guinea,2010,0.7
+4319,Paraguay,2010,0.8
+4320,Peru,2010,2
+4321,Philippines,2010,0.9
+4322,Poland,2010,8.3
+4323,Portugal,2010,4.7
+4324,Qatar,2010,42.6
+4325,Réunion,2010,-
+4326,Romania,2010,3.9
+4327,Russia,2010,12.2
+4328,Rwanda,2010,0.1
+4329,"Saint Helena, Ascension and Tristan da Cunha",2010,-
+4330,Saint Kitts and Nevis,2010,5
+4331,Saint Lucia,2010,2.3
+4332,Saint Pierre and Miquelon,2010,-
+4333,Saint Vincent and the Grenadines,2010,2.1
+4334,Samoa,2010,1.1
+4335,São Tomé and Príncipe,2010,0.6
+4336,Saudi Arabia,2010,19
+4337,Senegal,2010,0.6
+4338,Seychelles,2010,7.7
+4339,Sierra Leone,2010,0.1
+4340,Singapore,2010,2.7
+4341,Slovakia,2010,6.7
+4342,Slovenia,2010,7.5
+4343,Solomon Islands,2010,0.4
+4344,Somalia,2010,0.1
+4345,South Africa,2010,9
+4346,South Korea,2010,11.5
+4347,Spain,2010,5.8
+4348,Sri Lanka,2010,0.7
+4349,Sudan,2010,0.3
+4350,Suriname,2010,4.6
+4351,Sweden,2010,5.6
+4352,Switzerland,2010,5
+4353,Syria,2010,3
+4354,Taiwan,2010,-
+4355,Tajikistan,2010,0.4
+4356,Tanzania,2010,0.2
+4357,Thailand,2010,4.5
+4358,Togo,2010,0.3
+4359,Tonga,2010,1.1
+4360,Trinidad and Tobago,2010,38.3
+4361,Tunisia,2010,2.5
+4362,Turkey,2010,4.1
+4363,Turkmenistan,2010,11.4
+4364,Turks and Caicos Islands,2010,6.2
+4365,Uganda,2010,0.1
+4366,Ukraine,2010,6.6
+4367,United Arab Emirates,2010,20.1
+4368,United Kingdom,2010,7.8
+4369,United States,2010,17.5
+4370,Uruguay,2010,1.9
+4371,Uzbekistan,2010,-
+4372,Vanuatu,2010,0.5
+4373,Venezuela,2010,6.8
+4374,Vietnam,2010,1.8
+4375,Yemen,2010,1.1
+4376,Zambia,2010,0.2
+4377,Zimbabwe,2010,0.6
+4378,Afghanistan,2011,0.4
+4379,Albania,2011,1.6
+4380,Algeria,2011,3.3
+4381,Angola,2011,1.4
+4382,Antigua and Barbuda,2011,5.8
+4383,Argentina,2011,4.6
+4384,Armenia,2011,1.7
+4385,Aruba,2011,23.9
+4386,Australia,2011,16.5
+4387,Austria,2011,7.8
+4388,Azerbaijan,2011,3.6
+4389,Bahamas,2011,5.2
+4390,Bahrain,2011,17.9
+4391,Bangladesh,2011,0.4
+4392,Barbados,2011,5.6
+4393,Belarus,2011,6.7
+4394,Belgium,2011,8.8
+4395,Belize,2011,1.7
+4396,Benin,2011,0.5
+4397,Bermuda,2011,6.1
+4398,Bhutan,2011,0.8
+4399,Bolivia,2011,1.6
+4400,Bosnia and Herzegovina,2011,6.2
+4401,Botswana,2011,2.3
+4402,Brazil,2011,2.2
+4403,British Virgin Islands,2011,6.3
+4404,Brunei,2011,24.4
+4405,Bulgaria,2011,6.7
+4406,Burkina Faso,2011,0.1
+4407,Burundi,2011,0
+4408,Cambodia,2011,0.3
+4409,Cameroon,2011,0.3
+4410,Canada,2011,14.1
+4411,Cape Verde,2011,0.9
+4412,Cayman Islands,2011,10.3
+4413,Central African Republic,2011,0.1
+4414,Chad,2011,0
+4415,Chile,2011,4.6
+4416,China,2011,7.2
+4417,Colombia,2011,1.6
+4418,Comoros,2011,0.2
+4419,Cook Islands,2011,-
+4420,Costa Rica,2011,1.7
+4421,Croatia,2011,4.8
+4422,Cuba,2011,3.2
+4423,Cyprus,2011,6.7
+4424,Czech Republic,2011,10.4
+4425,Democratic Republic of the Congo,2011,0
+4426,Denmark,2011,7.2
+4427,Djibouti,2011,0.6
+4428,Dominica,2011,1.7
+4429,Dominican Republic,2011,2.2
+4430,Ecuador,2011,2.4
+4431,Egypt,2011,2.6
+4432,El Salvador,2011,1.1
+4433,Equatorial Guinea,2011,8.9
+4434,Eritrea,2011,0.1
+4435,Estonia,2011,14
+4436,Eswatini,2011,0.9
+4437,Ethiopia,2011,0.1
+4438,Falkland Islands,2011,-
+4439,Faroe Islands,2011,11.7
+4440,Fiji,2011,1.4
+4441,Finland,2011,10.2
+4442,France,2011,5.2
+4443,French Guiana,2011,-
+4444,French Polynesia,2011,3.2
+4445,Gabon,2011,1.4
+4446,Georgia,2011,2
+4447,Germany,2011,8.9
+4448,Ghana,2011,0.4
+4449,Gibraltar,2011,14.6
+4450,Greece,2011,7.6
+4451,Greenland,2011,12.4
+4452,Grenada,2011,2.4
+4453,Guadeloupe,2011,-
+4454,Guatemala,2011,0.7
+4455,Guinea,2011,0.2
+4456,Guinea-Bissau,2011,0.1
+4457,Guyana,2011,2.4
+4458,Haiti,2011,0.2
+4459,Honduras,2011,1.1
+4460,Hong Kong,2011,5.7
+4461,Hungary,2011,4.9
+4462,Iceland,2011,5.9
+4463,India,2011,1.7
+4464,Indonesia,2011,2.3
+4465,Iran,2011,7.8
+4466,Iraq,2011,4.2
+4467,Ireland,2011,7.9
+4468,Palestina,2011,9
+4469,Italy,2011,6.7
+4470,Ivory Coast,2011,-
+4471,Jamaica,2011,2.9
+4472,Japan,2011,9.3
+4473,Jordan,2011,3.3
+4474,Kazakhstan,2011,15.8
+4475,Kenya,2011,0.3
+4476,Kiribati,2011,0.6
+4477,Kuwait,2011,28.1
+4478,Kyrgyzstan,2011,1.2
+4479,Laos,2011,0.2
+4480,Latvia,2011,3.8
+4481,Lebanon,2011,4.5
+4482,Liberia,2011,0.2
+4483,Libya,2011,6.2
+4484,Lithuania,2011,-
+4485,Luxembourg,2011,20.9
+4486,Macau,2011,2.1
+4487,Madagascar,2011,0.1
+4488,Malawi,2011,0.1
+4489,Malaysia,2011,7.9
+4490,Maldives,2011,3
+4491,Mali,2011,0.1
+4492,Malta,2011,6
+4493,Martinique,2011,-
+4494,Mauritania,2011,0.6
+4495,Mauritius,2011,3.1
+4496,Mexico,2011,3.9
+4497,Moldova,2011,1.4
+4498,Mongolia,2011,6.9
+4499,Morocco,2011,1.7
+4500,Mozambique,2011,0.1
+4501,Myanmar,2011,0.2
+4502,Namibia,2011,1.2
+4503,Nepal,2011,0.2
+4504,Netherlands,2011,10.1
+4505,New Caledonia,2011,15.2
+4506,New Zealand,2011,7.1
+4507,Nicaragua,2011,0.8
+4508,Niger,2011,0.1
+4509,Nigeria,2011,0.5
+4510,North Korea,2011,3
+4511,North Macedonia,2011,4.5
+4512,Norway,2011,9.1
+4513,Oman,2011,20.2
+4514,Pakistan,2011,0.9
+4515,Palau,2011,10.9
+4516,Panama,2011,2.6
+4517,Papua New Guinea,2011,0.7
+4518,Paraguay,2011,0.8
+4519,Peru,2011,1.8
+4520,Philippines,2011,0.9
+4521,Poland,2011,8.3
+4522,Portugal,2011,4.7
+4523,Qatar,2011,44
+4524,Réunion,2011,-
+4525,Romania,2011,4.2
+4526,Russia,2011,12.6
+4527,Rwanda,2011,0.1
+4528,"Saint Helena, Ascension and Tristan da Cunha",2011,-
+4529,Saint Kitts and Nevis,2011,5.1
+4530,Saint Lucia,2011,2.3
+4531,Saint Pierre and Miquelon,2011,-
+4532,Saint Vincent and the Grenadines,2011,2.2
+4533,Samoa,2011,1.3
+4534,São Tomé and Príncipe,2011,0.6
+4535,Saudi Arabia,2011,18.1
+4536,Senegal,2011,0.6
+4537,Seychelles,2011,6.8
+4538,Sierra Leone,2011,0.2
+4539,Singapore,2011,4.3
+4540,Slovakia,2011,6.4
+4541,Slovenia,2011,7.5
+4542,Solomon Islands,2011,0.4
+4543,Somalia,2011,0.1
+4544,South Africa,2011,9.3
+4545,South Korea,2011,11.8
+4546,Spain,2011,5.8
+4547,Sri Lanka,2011,0.8
+4548,Sudan,2011,0.3
+4549,Suriname,2011,3.6
+4550,Sweden,2011,5.5
+4551,Switzerland,2011,4.6
+4552,Syria,2011,2.8
+4553,Taiwan,2011,-
+4554,Tajikistan,2011,0.4
+4555,Tanzania,2011,0.2
+4556,Thailand,2011,4.5
+4557,Togo,2011,0.3
+4558,Tonga,2011,1
+4559,Trinidad and Tobago,2011,37.1
+4560,Tunisia,2011,2.4
+4561,Turkey,2011,4.4
+4562,Turkmenistan,2011,12.2
+4563,Turks and Caicos Islands,2011,6
+4564,Uganda,2011,0.1
+4565,Ukraine,2011,6.3
+4566,United Arab Emirates,2011,20.4
+4567,United Kingdom,2011,7.1
+4568,United States,2011,17
+4569,Uruguay,2011,2.3
+4570,Uzbekistan,2011,-
+4571,Vanuatu,2011,0.6
+4572,Venezuela,2011,6.4
+4573,Vietnam,2011,2
+4574,Yemen,2011,0.9
+4575,Zambia,2011,0.2
+4576,Zimbabwe,2011,0.7
+4577,Afghanistan,2012,0.4
+4578,Albania,2012,1.7
+4579,Algeria,2012,3.5
+4580,Angola,2012,1.3
+4581,Antigua and Barbuda,2012,5.4
+4582,Argentina,2012,4.6
+4583,Armenia,2012,2
+4584,Aruba,2012,13.2
+4585,Australia,2012,17.1
+4586,Austria,2012,7.4
+4587,Azerbaijan,2012,3.8
+4588,Bahamas,2012,5.3
+4589,Bahrain,2012,20.5
+4590,Bangladesh,2012,0.4
+4591,Barbados,2012,5.2
+4592,Belarus,2012,6.7
+4593,Belgium,2012,8.5
+4594,Belize,2012,1.4
+4595,Benin,2012,0.6
+4596,Bermuda,2012,7.4
+4597,Bhutan,2012,1.1
+4598,Bolivia,2012,1.8
+4599,Bosnia and Herzegovina,2012,6.1
+4600,Botswana,2012,2
+4601,Brazil,2012,2.3
+4602,British Virgin Islands,2012,6.2
+4603,Brunei,2012,24.2
+4604,Bulgaria,2012,6.1
+4605,Burkina Faso,2012,0.2
+4606,Burundi,2012,0
+4607,Cambodia,2012,0.4
+4608,Cameroon,2012,0.3
+4609,Canada,2012,14.9
+4610,Cape Verde,2012,1
+4611,Cayman Islands,2012,9.3
+4612,Central African Republic,2012,0.1
+4613,Chad,2012,0
+4614,Chile,2012,4.7
+4615,China,2012,7.4
+4616,Colombia,2012,1.7
+4617,Comoros,2012,0.2
+4618,Cook Islands,2012,-
+4619,Costa Rica,2012,1.7
+4620,Croatia,2012,4.2
+4621,Cuba,2012,3.2
+4622,Cyprus,2012,6.1
+4623,Czech Republic,2012,9.6
+4624,Democratic Republic of the Congo,2012,0
+4625,Denmark,2012,6.5
+4626,Djibouti,2012,0.6
+4627,Dominica,2012,1.9
+4628,Dominican Republic,2012,2.2
+4629,Ecuador,2012,2.5
+4630,Egypt,2012,2.5
+4631,El Salvador,2012,1.1
+4632,Equatorial Guinea,2012,4.9
+4633,Eritrea,2012,-
+4634,Estonia,2012,13.3
+4635,Eswatini,2012,1
+4636,Ethiopia,2012,0.1
+4637,Falkland Islands,2012,-
+4638,Faroe Islands,2012,-
+4639,Fiji,2012,1.2
+4640,Finland,2012,9.1
+4641,France,2012,5.1
+4642,French Guiana,2012,-
+4643,French Polynesia,2012,3
+4644,Gabon,2012,2.9
+4645,Georgia,2012,2.2
+4646,Germany,2012,9.2
+4647,Ghana,2012,0.5
+4648,Gibraltar,2012,13.7
+4649,Greece,2012,7.2
+4650,Greenland,2012,10
+4651,Grenada,2012,2.6
+4652,Guadeloupe,2012,-
+4653,Guatemala,2012,0.8
+4654,Guinea,2012,0.2
+4655,Guinea-Bissau,2012,0.2
+4656,Guyana,2012,2.6
+4657,Haiti,2012,0.2
+4658,Honduras,2012,1.1
+4659,Hong Kong,2012,6.1
+4660,Hungary,2012,4.5
+4661,Iceland,2012,5.6
+4662,India,2012,1.6
+4663,Indonesia,2012,2.6
+4664,Iran,2012,8
+4665,Iraq,2012,4.7
+4666,Ireland,2012,7.7
+4667,Palestina,2012,9.5
+4668,Italy,2012,6.2
+4669,Ivory Coast,2012,0.4
+4670,Jamaica,2012,2.6
+4671,Japan,2012,9.6
+4672,Jordan,2012,3.1
+4673,Kazakhstan,2012,14.5
+4674,Kenya,2012,0.3
+4675,Kiribati,2012,0.6
+4676,Kuwait,2012,30.1
+4677,Kyrgyzstan,2012,1.8
+4678,Laos,2012,0.3
+4679,Latvia,2012,3.5
+4680,Lebanon,2012,4.6
+4681,Liberia,2012,0.2
+4682,Libya,2012,8.5
+4683,Lithuania,2012,4.6
+4684,Luxembourg,2012,20.1
+4685,Macau,2012,2.3
+4686,Madagascar,2012,0.1
+4687,Malawi,2012,0.1
+4688,Malaysia,2012,7.5
+4689,Maldives,2012,2.9
+4690,Mali,2012,0.1
+4691,Malta,2012,6.4
+4692,Martinique,2012,-
+4693,Mauritania,2012,0.7
+4694,Mauritius,2012,3.2
+4695,Mexico,2012,4.1
+4696,Moldova,2012,1.4
+4697,Mongolia,2012,9.3
+4698,Morocco,2012,1.9
+4699,Mozambique,2012,0.1
+4700,Myanmar,2012,0.2
+4701,Namibia,2012,1.5
+4702,Nepal,2012,0.2
+4703,Netherlands,2012,10.2
+4704,New Caledonia,2012,14
+4705,New Zealand,2012,7.7
+4706,Nicaragua,2012,0.8
+4707,Niger,2012,0.1
+4708,Nigeria,2012,0.6
+4709,North Korea,2012,2
+4710,North Macedonia,2012,4.3
+4711,Norway,2012,9.9
+4712,Oman,2012,17.1
+4713,Pakistan,2012,0.9
+4714,Palau,2012,12.2
+4715,Panama,2012,2.7
+4716,Papua New Guinea,2012,0.7
+4717,Paraguay,2012,0.8
+4718,Peru,2012,1.8
+4719,Philippines,2012,0.9
+4720,Poland,2012,7.9
+4721,Portugal,2012,4.4
+4722,Qatar,2012,44.6
+4723,Réunion,2012,-
+4724,Romania,2012,4.1
+4725,Russia,2012,12.8
+4726,Rwanda,2012,0.1
+4727,"Saint Helena, Ascension and Tristan da Cunha",2012,-
+4728,Saint Kitts and Nevis,2012,4.2
+4729,Saint Lucia,2012,2.3
+4730,Saint Pierre and Miquelon,2012,-
+4731,Saint Vincent and the Grenadines,2012,2.3
+4732,Samoa,2012,1
+4733,São Tomé and Príncipe,2012,0.6
+4734,Saudi Arabia,2012,19.4
+4735,Senegal,2012,0.6
+4736,Seychelles,2012,5
+4737,Sierra Leone,2012,0.2
+4738,Singapore,2012,6.8
+4739,Slovakia,2012,6.1
+4740,Slovenia,2012,7.2
+4741,Solomon Islands,2012,0.4
+4742,Somalia,2012,0
+4743,South Africa,2012,8.8
+4744,South Korea,2012,11.6
+4745,Spain,2012,5.7
+4746,Sri Lanka,2012,0.8
+4747,Sudan,2012,0.3
+4748,Suriname,2012,4.2
+4749,Sweden,2012,4.9
+4750,Switzerland,2012,4.7
+4751,Syria,2012,2.2
+4752,Taiwan,2012,-
+4753,Tajikistan,2012,0.4
+4754,Tanzania,2012,0.2
+4755,Thailand,2012,4.4
+4756,Togo,2012,0.4
+4757,Tonga,2012,1
+4758,Trinidad and Tobago,2012,33.9
+4759,Tunisia,2012,2.5
+4760,Turkey,2012,4.4
+4761,Turkmenistan,2012,12.3
+4762,Turks and Caicos Islands,2012,6.1
+4763,Uganda,2012,0.1
+4764,Ukraine,2012,6.5
+4765,United Arab Emirates,2012,19.8
+4766,United Kingdom,2012,7.4
+4767,United States,2012,16.3
+4768,Uruguay,2012,2.6
+4769,Uzbekistan,2012,3.9
+4770,Vanuatu,2012,0.5
+4771,Venezuela,2012,6.6
+4772,Vietnam,2012,1.6
+4773,Yemen,2012,0.7
+4774,Zambia,2012,0.2
+4775,Zimbabwe,2012,0.5
+4776,Afghanistan,2013,0.3
+4777,Albania,2013,1.7
+4778,Algeria,2013,3.5
+4779,Angola,2013,1.3
+4780,Antigua and Barbuda,2013,5.4
+4781,Argentina,2013,4.5
+4782,Armenia,2013,1.9
+4783,Aruba,2013,8.4
+4784,Australia,2013,16.1
+4785,Austria,2013,7.4
+4786,Azerbaijan,2013,3.8
+4787,Bahamas,2013,7.4
+4788,Bahrain,2013,23.8
+4789,Bangladesh,2013,0.4
+4790,Barbados,2013,5.1
+4791,Belarus,2013,6.7
+4792,Belgium,2013,8.7
+4793,Belize,2013,1.5
+4794,Benin,2013,0.6
+4795,Bermuda,2013,7.1
+4796,Bhutan,2013,1.2
+4797,Bolivia,2013,1.8
+4798,Bosnia and Herzegovina,2013,6.1
+4799,Botswana,2013,2.5
+4800,Brazil,2013,2.5
+4801,British Virgin Islands,2013,6.1
+4802,Brunei,2013,19.2
+4803,Bulgaria,2013,5.5
+4804,Burkina Faso,2013,0.2
+4805,Burundi,2013,0
+4806,Cambodia,2013,0.4
+4807,Cameroon,2013,0.3
+4808,Canada,2013,14.6
+4809,Cape Verde,2013,1
+4810,Cayman Islands,2013,9.2
+4811,Central African Republic,2013,0.1
+4812,Chad,2013,0.1
+4813,Chile,2013,4.8
+4814,China,2013,7.6
+4815,Colombia,2013,1.9
+4816,Comoros,2013,0.2
+4817,Cook Islands,2013,-
+4818,Costa Rica,2013,1.6
+4819,Croatia,2013,4.1
+4820,Cuba,2013,3
+4821,Cyprus,2013,5.2
+4822,Czech Republic,2013,9.4
+4823,Democratic Republic of the Congo,2013,0.1
+4824,Denmark,2013,6.9
+4825,Djibouti,2013,0.7
+4826,Dominica,2013,1.8
+4827,Dominican Republic,2013,2.1
+4828,Ecuador,2013,2.6
+4829,Egypt,2013,2.4
+4830,El Salvador,2013,1
+4831,Equatorial Guinea,2013,4.8
+4832,Eritrea,2013,-
+4833,Estonia,2013,15.1
+4834,Eswatini,2013,0.9
+4835,Ethiopia,2013,0.1
+4836,Falkland Islands,2013,-
+4837,Faroe Islands,2013,-
+4838,Fiji,2013,1.3
+4839,Finland,2013,8.7
+4840,France,2013,5.1
+4841,French Guiana,2013,-
+4842,French Polynesia,2013,3
+4843,Gabon,2013,2.9
+4844,Georgia,2013,2.1
+4845,Germany,2013,9.4
+4846,Ghana,2013,0.6
+4847,Gibraltar,2013,14.5
+4848,Greece,2013,6.3
+4849,Greenland,2013,9.8
+4850,Grenada,2013,2.9
+4851,Guadeloupe,2013,-
+4852,Guatemala,2013,0.9
+4853,Guinea,2013,0.2
+4854,Guinea-Bissau,2013,0.2
+4855,Guyana,2013,2.6
+4856,Haiti,2013,0.2
+4857,Honduras,2013,1
+4858,Hong Kong,2013,6.3
+4859,Hungary,2013,4.3
+4860,Iceland,2013,5.9
+4861,India,2013,1.6
+4862,Indonesia,2013,1.9
+4863,Iran,2013,8
+4864,Iraq,2013,4.9
+4865,Ireland,2013,7.5
+4866,Palestina,2013,8.3
+4867,Italy,2013,5.7
+4868,Ivory Coast,2013,0.5
+4869,Jamaica,2013,2.8
+4870,Japan,2013,9.8
+4871,Jordan,2013,2.9
+4872,Kazakhstan,2013,15.4
+4873,Kenya,2013,0.3
+4874,Kiribati,2013,0.6
+4875,Kuwait,2013,27.3
+4876,Kyrgyzstan,2013,1.7
+4877,Laos,2013,0.2
+4878,Latvia,2013,3.5
+4879,Lebanon,2013,4.3
+4880,Liberia,2013,0.2
+4881,Libya,2013,9.1
+4882,Lithuania,2013,4.3
+4883,Luxembourg,2013,18.5
+4884,Macau,2013,2.1
+4885,Madagascar,2013,0.1
+4886,Malawi,2013,0.1
+4887,Malaysia,2013,8
+4888,Maldives,2013,2.7
+4889,Mali,2013,0.1
+4890,Malta,2013,5.5
+4891,Martinique,2013,-
+4892,Mauritania,2013,0.7
+4893,Mauritius,2013,3.2
+4894,Mexico,2013,4
+4895,Moldova,2013,1.4
+4896,Mongolia,2013,13.5
+4897,Morocco,2013,1.7
+4898,Mozambique,2013,0.2
+4899,Myanmar,2013,0.2
+4900,Namibia,2013,1.1
+4901,Nepal,2013,0.2
+4902,Netherlands,2013,10.3
+4903,New Caledonia,2013,16.1
+4904,New Zealand,2013,7.5
+4905,Nicaragua,2013,0.8
+4906,Niger,2013,0.1
+4907,Nigeria,2013,0.6
+4908,North Korea,2013,1.4
+4909,North Macedonia,2013,3.8
+4910,Norway,2013,11.5
+4911,Oman,2013,16.5
+4912,Pakistan,2013,0.9
+4913,Palau,2013,12.3
+4914,Panama,2013,2.8
+4915,Papua New Guinea,2013,0.8
+4916,Paraguay,2013,0.8
+4917,Peru,2013,1.9
+4918,Philippines,2013,1
+4919,Poland,2013,7.9
+4920,Portugal,2013,4.3
+4921,Qatar,2013,37.8
+4922,Réunion,2013,-
+4923,Romania,2013,3.6
+4924,Russia,2013,12.4
+4925,Rwanda,2013,0.1
+4926,"Saint Helena, Ascension and Tristan da Cunha",2013,-
+4927,Saint Kitts and Nevis,2013,4.2
+4928,Saint Lucia,2013,2.3
+4929,Saint Pierre and Miquelon,2013,-
+4930,Saint Vincent and the Grenadines,2013,1.9
+4931,Samoa,2013,1
+4932,São Tomé and Príncipe,2013,0.6
+4933,Saudi Arabia,2013,18.1
+4934,Senegal,2013,0.6
+4935,Seychelles,2013,4.5
+4936,Sierra Leone,2013,0.2
+4937,Singapore,2013,10.3
+4938,Slovakia,2013,6.1
+4939,Slovenia,2013,6.9
+4940,Solomon Islands,2013,0.4
+4941,Somalia,2013,0
+4942,South Africa,2013,8.7
+4943,South Korea,2013,11.7
+4944,Spain,2013,5.1
+4945,Sri Lanka,2013,0.8
+4946,Sudan,2013,0.3
+4947,Suriname,2013,3.5
+4948,Sweden,2013,4.7
+4949,Switzerland,2013,5
+4950,Syria,2013,1.8
+4951,Taiwan,2013,-
+4952,Tajikistan,2013,0.4
+4953,Tanzania,2013,0.2
+4954,Thailand,2013,4.4
+4955,Togo,2013,0.4
+4956,Tonga,2013,1.1
+4957,Trinidad and Tobago,2013,34.5
+4958,Tunisia,2013,2.5
+4959,Turkey,2013,4.3
+4960,Turkmenistan,2013,12.4
+4961,Turks and Caicos Islands,2013,6
+4962,Uganda,2013,0.1
+4963,Ukraine,2013,6
+4964,United Arab Emirates,2013,19
+4965,United Kingdom,2013,7.1
+4966,United States,2013,16.3
+4967,Uruguay,2013,2.2
+4968,Uzbekistan,2013,3.4
+4969,Vanuatu,2013,0.4
+4970,Venezuela,2013,6.1
+4971,Vietnam,2013,1.6
+4972,Yemen,2013,1
+4973,Zambia,2013,0.3
+4974,Zimbabwe,2013,0.8
+4975,Afghanistan,2014,0.3
+4976,Albania,2014,2
+4977,Algeria,2014,3.7
+4978,Angola,2014,1.3
+4979,Antigua and Barbuda,2014,5.4
+4980,Argentina,2014,4.7
+4981,Armenia,2014,1.9
+4982,Aruba,2014,8.4
+4983,Australia,2014,15.4
+4984,Austria,2014,6.9
+4985,Azerbaijan,2014,3.9
+4986,Bahamas,2014,6.3
+4987,Bahrain,2014,23.4
+4988,Bangladesh,2014,0.5
+4989,Barbados,2014,4.5
+4990,Belarus,2014,6.7
+4991,Belgium,2014,8.3
+4992,Belize,2014,1.4
+4993,Benin,2014,0.6
+4994,Bermuda,2014,8.8
+4995,Bhutan,2014,1.3
+4996,Bolivia,2014,1.9
+4997,Bosnia and Herzegovina,2014,6.2
+4998,Botswana,2014,3.2
+4999,Brazil,2014,2.6
+5000,British Virgin Islands,2014,6.1
+5001,Brunei,2014,22.1
+5002,Bulgaria,2014,5.9
+5003,Burkina Faso,2014,0.2
+5004,Burundi,2014,0
+5005,Cambodia,2014,0.4
+5006,Cameroon,2014,0.3
+5007,Canada,2014,15.2
+5008,Cape Verde,2014,0.9
+5009,Cayman Islands,2014,9.2
+5010,Central African Republic,2014,0.1
+5011,Chad,2014,0.1
+5012,Chile,2014,4.7
+5013,China,2014,7.5
+5014,Colombia,2014,1.8
+5015,Comoros,2014,0.2
+5016,Cook Islands,2014,-
+5017,Costa Rica,2014,1.6
+5018,Croatia,2014,4
+5019,Cuba,2014,3
+5020,Cyprus,2014,5.3
+5021,Czech Republic,2014,9.2
+5022,Democratic Republic of the Congo,2014,0.1
+5023,Denmark,2014,5.9
+5024,Djibouti,2014,0.8
+5025,Dominica,2014,1.9
+5026,Dominican Republic,2014,2.1
+5027,Ecuador,2014,2.8
+5028,Egypt,2014,2.2
+5029,El Salvador,2014,1
+5030,Equatorial Guinea,2014,4.7
+5031,Eritrea,2014,-
+5032,Estonia,2014,14.8
+5033,Eswatini,2014,0.9
+5034,Ethiopia,2014,0.1
+5035,Falkland Islands,2014,-
+5036,Faroe Islands,2014,-
+5037,Fiji,2014,1.3
+5038,Finland,2014,8.7
+5039,France,2014,4.6
+5040,French Guiana,2014,-
+5041,French Polynesia,2014,2.9
+5042,Gabon,2014,2.8
+5043,Georgia,2014,2.4
+5044,Germany,2014,8.9
+5045,Ghana,2014,0.5
+5046,Gibraltar,2014,15.5
+5047,Greece,2014,6.2
+5048,Greenland,2014,9
+5049,Grenada,2014,2.3
+5050,Guadeloupe,2014,-
+5051,Guatemala,2014,1.2
+5052,Guinea,2014,0.2
+5053,Guinea-Bissau,2014,0.2
+5054,Guyana,2014,2.6
+5055,Haiti,2014,0.3
+5056,Honduras,2014,1.1
+5057,Hong Kong,2014,6.4
+5058,Hungary,2014,4.3
+5059,Iceland,2014,6.1
+5060,India,2014,1.6
+5061,Indonesia,2014,1.8
+5062,Iran,2014,8.3
+5063,Iraq,2014,4.8
+5064,Ireland,2014,7.3
+5065,Palestina,2014,7.9
+5066,Italy,2014,5.3
+5067,Ivory Coast,2014,0.5
+5068,Jamaica,2014,2.6
+5069,Japan,2014,9.5
+5070,Jordan,2014,3
+5071,Kazakhstan,2014,14.4
+5072,Kenya,2014,0.3
+5073,Kiribati,2014,0.6
+5074,Kuwait,2014,25.2
+5075,Kyrgyzstan,2014,1.6
+5076,Laos,2014,0.3
+5077,Latvia,2014,3.5
+5078,Lebanon,2014,4.3
+5079,Liberia,2014,0.2
+5080,Libya,2014,9.2
+5081,Lithuania,2014,4.4
+5082,Luxembourg,2014,17.4
+5083,Macau,2014,2.2
+5084,Madagascar,2014,0.1
+5085,Malawi,2014,0.1
+5086,Malaysia,2014,8
+5087,Maldives,2014,3.3
+5088,Mali,2014,0.1
+5089,Malta,2014,5.4
+5090,Martinique,2014,-
+5091,Mauritania,2014,0.7
+5092,Mauritius,2014,3.4
+5093,Mexico,2014,3.9
+5094,Moldova,2014,1.4
+5095,Mongolia,2014,7.1
+5096,Morocco,2014,1.7
+5097,Mozambique,2014,0.3
+5098,Myanmar,2014,0.4
+5099,Namibia,2014,1.6
+5100,Nepal,2014,0.3
+5101,Netherlands,2014,9.9
+5102,New Caledonia,2014,16
+5103,New Zealand,2014,7.7
+5104,Nicaragua,2014,0.8
+5105,Niger,2014,0.1
+5106,Nigeria,2014,0.5
+5107,North Korea,2014,1.6
+5108,North Macedonia,2014,3.6
+5109,Norway,2014,9.3
+5110,Oman,2014,15.4
+5111,Pakistan,2014,0.9
+5112,Palau,2014,12.3
+5113,Panama,2014,2.3
+5114,Papua New Guinea,2014,0.8
+5115,Paraguay,2014,0.9
+5116,Peru,2014,2
+5117,Philippines,2014,1.1
+5118,Poland,2014,7.5
+5119,Portugal,2014,4.3
+5120,Qatar,2014,45.4
+5121,Réunion,2014,-
+5122,Romania,2014,3.5
+5123,Russia,2014,11.9
+5124,Rwanda,2014,0.1
+5125,"Saint Helena, Ascension and Tristan da Cunha",2014,-
+5126,Saint Kitts and Nevis,2014,4.3
+5127,Saint Lucia,2014,2.3
+5128,Saint Pierre and Miquelon,2014,-
+5129,Saint Vincent and the Grenadines,2014,1.9
+5130,Samoa,2014,1
+5131,São Tomé and Príncipe,2014,0.6
+5132,Saudi Arabia,2014,19.5
+5133,Senegal,2014,0.6
+5134,Seychelles,2014,5.4
+5135,Sierra Leone,2014,0.2
+5136,Singapore,2014,10.3
+5137,Slovakia,2014,5.7
+5138,Slovenia,2014,6.2
+5139,Solomon Islands,2014,0.4
+5140,Somalia,2014,0
+5141,South Africa,2014,9
+5142,South Korea,2014,11.6
+5143,Spain,2014,5
+5144,Sri Lanka,2014,0.9
+5145,Sudan,2014,-
+5146,Suriname,2014,3.6
+5147,Sweden,2014,4.5
+5148,Switzerland,2014,4.3
+5149,Syria,2014,1.6
+5150,Taiwan,2014,-
+5151,Tajikistan,2014,0.6
+5152,Tanzania,2014,0.2
+5153,Thailand,2014,4.6
+5154,Togo,2014,0.4
+5155,Tonga,2014,1.1
+5156,Trinidad and Tobago,2014,34.2
+5157,Tunisia,2014,2.6
+5158,Turkey,2014,4.5
+5159,Turkmenistan,2014,12.5
+5160,Turks and Caicos Islands,2014,6.1
+5161,Uganda,2014,0.1
+5162,Ukraine,2014,5
+5163,United Arab Emirates,2014,23.3
+5164,United Kingdom,2014,6.5
+5165,United States,2014,16.5
+5166,Uruguay,2014,2
+5167,Uzbekistan,2014,3.4
+5168,Vanuatu,2014,0.6
+5169,Venezuela,2014,6
+5170,Vietnam,2014,1.8
+5171,Yemen,2014,0.9
+5172,Zambia,2014,0.3
+5173,Zimbabwe,2014,0.8
+5174,Afghanistan,2015,0.3
+5175,Albania,2015,1.6
+5176,Algeria,2015,3.9
+5177,Angola,2015,1.2
+5178,Antigua and Barbuda,2015,6.2
+5179,Argentina,2015,4.9
+5180,Armenia,2015,1.7
+5181,Aruba,2015,9.2
+5182,Australia,2015,16.9
+5183,Austria,2015,8
+5184,Azerbaijan,2015,3.4
+5185,Bahamas,2015,7.7
+5186,Bahrain,2015,24.6
+5187,Bangladesh,2015,0.5
+5188,Barbados,2015,11.2
+5189,Belarus,2015,6.4
+5190,Belgium,2015,9.2
+5191,Belize,2015,1.2
+5192,Benin,2015,0.6
+5193,Bermuda,2015,6.9
+5194,Bhutan,2015,1.6
+5195,Bolivia,2015,1.8
+5196,Bosnia and Herzegovina,2015,6.8
+5197,Botswana,2015,3.2
+5198,Brazil,2015,2.6
+5199,British Virgin Islands,2015,4.9
+5200,Brunei,2015,15.6
+5201,Bulgaria,2015,6.8
+5202,Burkina Faso,2015,0.2
+5203,Burundi,2015,0
+5204,Cambodia,2015,0.6
+5205,Cameroon,2015,0.6
+5206,Canada,2015,16.4
+5207,Cape Verde,2015,1.6
+5208,Cayman Islands,2015,8.2
+5209,Central African Republic,2015,0.1
+5210,Chad,2015,0
+5211,Chile,2015,4.8
+5212,China,2015,7.7
+5213,Colombia,2015,1.6
+5214,Comoros,2015,0.2
+5215,Cook Islands,2015,2.3
+5216,Costa Rica,2015,1.6
+5217,Croatia,2015,4.4
+5218,Cuba,2015,2.7
+5219,Cyprus,2015,5.5
+5220,Czech Republic,2015,10.1
+5221,Democratic Republic of the Congo,2015,0.1
+5222,Denmark,2015,6
+5223,Djibouti,2015,1
+5224,Dominica,2015,1.7
+5225,Dominican Republic,2015,2.2
+5226,Ecuador,2015,2.7
+5227,Egypt,2015,2.5
+5228,El Salvador,2015,1.2
+5229,Equatorial Guinea,2015,3
+5230,Eritrea,2015,0.1
+5231,Estonia,2015,15.1
+5232,Eswatini,2015,0.9
+5233,Ethiopia,2015,0.1
+5234,Falkland Islands,2015,13
+5235,Faroe Islands,2015,0
+5236,Fiji,2015,1.4
+5237,Finland,2015,8.4
+5238,France,2015,5
+5239,French Guiana,2015,2.7
+5240,French Polynesia,2015,1.9
+5241,Gabon,2015,3.4
+5242,Georgia,2015,2.6
+5243,Germany,2015,9.6
+5244,Ghana,2015,0.6
+5245,Gibraltar,2015,16.8
+5246,Greece,2015,6.3
+5247,Greenland,2015,9.2
+5248,Grenada,2015,2.6
+5249,Guadeloupe,2015,5
+5250,Guatemala,2015,1
+5251,Guinea,2015,0.2
+5252,Guinea-Bissau,2015,0.2
+5253,Guyana,2015,2.2
+5254,Haiti,2015,0.3
+5255,Honduras,2015,1.1
+5256,Hong Kong,2015,6.2
+5257,Hungary,2015,4.8
+5258,Iceland,2015,11.6
+5259,India,2015,1.7
+5260,Indonesia,2015,1.9
+5261,Iran,2015,7.8
+5262,Iraq,2015,4.4
+5263,Ireland,2015,8.1
+5264,Palestina,2015,8.3
+5265,Italy,2015,6
+5266,Ivory Coast,2015,0.5
+5267,Jamaica,2015,2.6
+5268,Japan,2015,9.6
+5269,Jordan,2015,2.8
+5270,Kazakhstan,2015,14.6
+5271,Kenya,2015,0.4
+5272,Kiribati,2015,0.3
+5273,Kuwait,2015,24.3
+5274,Kyrgyzstan,2015,1.8
+5275,Laos,2015,0.4
+5276,Latvia,2015,3.9
+5277,Lebanon,2015,4.3
+5278,Liberia,2015,0.2
+5279,Libya,2015,8.3
+5280,Lithuania,2015,4.6
+5281,Luxembourg,2015,16.5
+5282,Macau,2015,1.8
+5283,Madagascar,2015,0.2
+5284,Malawi,2015,0.1
+5285,Malaysia,2015,8.1
+5286,Maldives,2015,2
+5287,Mali,2015,0.1
+5288,Malta,2015,4
+5289,Martinique,2015,6.1
+5290,Mauritania,2015,0.6
+5291,Mauritius,2015,3.2
+5292,Mexico,2015,3.9
+5293,Moldova,2015,2
+5294,Mongolia,2015,5.8
+5295,Morocco,2015,1.8
+5296,Mozambique,2015,0.2
+5297,Myanmar,2015,0.5
+5298,Namibia,2015,1.7
+5299,Nepal,2015,0.2
+5300,Netherlands,2015,10
+5301,New Caledonia,2015,18.7
+5302,New Zealand,2015,7.8
+5303,Nicaragua,2015,0.9
+5304,Niger,2015,0.1
+5305,Nigeria,2015,0.5
+5306,North Korea,2015,1
+5307,North Macedonia,2015,3.8
+5308,Norway,2015,8.8
+5309,Oman,2015,18.8
+5310,Pakistan,2015,0.9
+5311,Palau,2015,56.1
+5312,Panama,2015,2.9
+5313,Papua New Guinea,2015,0.5
+5314,Paraguay,2015,1
+5315,Peru,2015,1.7
+5316,Philippines,2015,1.2
+5317,Poland,2015,8
+5318,Portugal,2015,5
+5319,Qatar,2015,39.4
+5320,Réunion,2015,3.1
+5321,Romania,2015,4
+5322,Russia,2015,11.8
+5323,Rwanda,2015,0.1
+5324,"Saint Helena, Ascension and Tristan da Cunha",2015,3.7
+5325,Saint Kitts and Nevis,2015,4.4
+5326,Saint Lucia,2015,2.1
+5327,Saint Pierre and Miquelon,2015,12
+5328,Saint Vincent and the Grenadines,2015,1.6
+5329,Samoa,2015,0.6
+5330,São Tomé and Príncipe,2015,0.7
+5331,Saudi Arabia,2015,19.3
+5332,Senegal,2015,0.6
+5333,Seychelles,2015,9.5
+5334,Sierra Leone,2015,0.2
+5335,Singapore,2015,9.3
+5336,Slovakia,2015,6.4
+5337,Slovenia,2015,6.9
+5338,Solomon Islands,2015,0.2
+5339,Somalia,2015,0.1
+5340,South Africa,2015,8.6
+5341,South Korea,2015,12.6
+5342,Spain,2015,5.9
+5343,Sri Lanka,2015,1
+5344,Sudan,2015,0.4
+5345,Suriname,2015,3.8
+5346,Sweden,2015,4.5
+5347,Switzerland,2015,4.8
+5348,Syria,2015,1.6
+5349,Taiwan,2015,11.3
+5350,Tajikistan,2015,0.6
+5351,Tanzania,2015,0.2
+5352,Thailand,2015,4
+5353,Togo,2015,0.3
+5354,Tonga,2015,1.1
+5355,Trinidad and Tobago,2015,26.7
+5356,Tunisia,2015,2.7
+5357,Turkey,2015,4.7
+5358,Turkmenistan,2015,13.4
+5359,Turks and Caicos Islands,2015,4.8
+5360,Uganda,2015,0.1
+5361,Ukraine,2015,4.8
+5362,United Arab Emirates,2015,22.1
+5363,United Kingdom,2015,6.3
+5364,United States,2015,16.3
+5365,Uruguay,2015,2
+5366,Uzbekistan,2015,3.4
+5367,Vanuatu,2015,0.3
+5368,Venezuela,2015,5.1
+5369,Vietnam,2015,2.2
+5370,Yemen,2015,0.5
+5371,Zambia,2015,0.3
+5372,Zimbabwe,2015,0.8
+5373,Afghanistan,2018,0.3
+5374,Albania,2018,1.6
+5375,Algeria,2018,3.9
+5376,Angola,2018,1
+5377,Antigua and Barbuda,2018,6.2
+5378,Argentina,2018,4.7
+5379,Armenia,2018,2
+5380,Aruba,2018,9.3
+5381,Australia,2018,16.8
+5382,Austria,2018,8.2
+5383,Azerbaijan,2018,3.5
+5384,Bahamas,2018,7.7
+5385,Bahrain,2018,21.8
+5386,Bangladesh,2018,0.6
+5387,Barbados,2018,11.6
+5388,Belarus,2018,6.8
+5389,Belgium,2018,9.2
+5390,Belize,2018,1.2
+5391,Benin,2018,0.7
+5392,Bermuda,2018,7.2
+5393,Bhutan,2018,1.9
+5394,Bolivia,2018,2
+5395,Bosnia and Herzegovina,2018,7.8
+5396,Botswana,2018,3.2
+5397,Brazil,2018,2.4
+5398,British Virgin Islands,2018,4.8
+5399,Brunei,2018,16
+5400,Bulgaria,2018,6.3
+5401,Burkina Faso,2018,0.2
+5402,Burundi,2018,0
+5403,Cambodia,2018,0.7
+5404,Cameroon,2018,0.6
+5405,Canada,2018,16.1
+5406,Cape Verde,2018,1.9
+5407,Cayman Islands,2018,8.1
+5408,Central African Republic,2018,0.1
+5409,Chad,2018,0
+5410,Chile,2018,5
+5411,China,2018,8
+5412,Colombia,2018,1.8
+5413,Comoros,2018,0.3
+5414,Cook Islands,2018,2.4
+5415,Costa Rica,2018,1.8
+5416,Croatia,2018,4.7
+5417,Cuba,2018,2.4
+5418,Cyprus,2018,6.3
+5419,Czech Republic,2018,10.4
+5420,Democratic Republic of the Congo,2018,0
+5421,Denmark,2018,5.8
+5422,Djibouti,2018,1.1
+5423,Dominica,2018,1.7
+5424,Dominican Republic,2018,2.3
+5425,Ecuador,2018,2.6
+5426,Egypt,2018,2.5
+5427,El Salvador,2018,1.2
+5428,Equatorial Guinea,2018,2.5
+5429,Eritrea,2018,0.2
+5430,Estonia,2018,18.6
+5431,Eswatini,2018,0.9
+5432,Ethiopia,2018,0.2
+5433,Falkland Islands,2018,13.6
+5434,Faroe Islands,2018,0
+5435,Fiji,2018,1.4
+5436,Finland,2018,8.8
+5437,France,2018,5
+5438,French Guiana,2018,2.6
+5439,French Polynesia,2018,2
+5440,Gabon,2018,3.2
+5441,Georgia,2018,2.8
+5442,Germany,2018,9.1
+5443,Ghana,2018,0.7
+5444,Gibraltar,2018,19.6
+5445,Greece,2018,6.5
+5446,Greenland,2018,9.4
+5447,Grenada,2018,2.7
+5448,Guadeloupe,2018,5.2
+5449,Guatemala,2018,1.2
+5450,Guinea,2018,0.2
+5451,Guinea-Bissau,2018,0.2
+5452,Guyana,2018,2.5
+5453,Haiti,2018,0.3
+5454,Honduras,2018,1.1
+5455,Hong Kong,2018,6.1
+5456,Hungary,2018,5.4
+5457,Iceland,2018,12.1
+5458,India,2018,1.9
+5459,Indonesia,2018,2.1
+5460,Iran,2018,8.9
+5461,Iraq,2018,4.8
+5462,Ireland,2018,7.7
+5463,Palestina,2018,7.9
+5464,Italy,2018,5.8
+5465,Ivory Coast,2018,0.6
+5466,Jamaica,2018,2.7
+5467,Japan,2018,9.4
+5468,Jordan,2018,2.6
+5469,Kazakhstan,2018,16.8
+5470,Kenya,2018,0.4
+5471,Kiribati,2018,0.3
+5472,Kuwait,2018,23.9
+5473,Kyrgyzstan,2018,1.7
+5474,Laos,2018,0.5
+5475,Latvia,2018,4.1
+5476,Lebanon,2018,4.2
+5477,Liberia,2018,0.3
+5478,Libya,2018,8.7
+5479,Lithuania,2018,5
+5480,Luxembourg,2018,16.9
+5481,Macau,2018,2
+5482,Madagascar,2018,0.2
+5483,Malawi,2018,0.1
+5484,Malaysia,2018,8
+5485,Maldives,2018,2
+5486,Mali,2018,0.1
+5487,Malta,2018,3.5
+5488,Martinique,2018,6.4
+5489,Mauritania,2018,0.7
+5490,Mauritius,2018,3.5
+5491,Mexico,2018,3.8
+5492,Moldova,2018,2.1
+5493,Mongolia,2018,6.3
+5494,Morocco,2018,1.9
+5495,Mozambique,2018,0.3
+5496,Myanmar,2018,0.6
+5497,Namibia,2018,1.7
+5498,Nepal,2018,0.3
+5499,Netherlands,2018,9.5
+5500,New Caledonia,2018,26.2
+5501,New Zealand,2018,7.7
+5502,Nicaragua,2018,1
+5503,Niger,2018,0.1
+5504,Nigeria,2018,0.6
+5505,North Korea,2018,1.2
+5506,North Macedonia,2018,3.9
+5507,Norway,2018,9.4
+5508,Oman,2018,17.6
+5509,Pakistan,2018,1
+5510,Palau,2018,58
+5511,Panama,2018,2.8
+5512,Papua New Guinea,2018,0.5
+5513,Paraguay,2018,1.1
+5514,Peru,2018,1.8
+5515,Philippines,2018,1.4
+5516,Poland,2018,8.8
+5517,Portugal,2018,5.1
+5518,Qatar,2018,38.2
+5519,Réunion,2018,3.4
+5520,Romania,2018,4.1
+5521,Russia,2018,12.1
+5522,Rwanda,2018,0.1
+5523,"Saint Helena, Ascension and Tristan da Cunha",2018,4.4
+5524,Saint Kitts and Nevis,2018,4.4
+5525,Saint Lucia,2018,2.1
+5526,Saint Pierre and Miquelon,2018,12.5
+5527,Saint Vincent and the Grenadines,2018,1.7
+5528,Samoa,2018,0.7
+5529,São Tomé and Príncipe,2018,0.7
+5530,Saudi Arabia,2018,18.6
+5531,Senegal,2018,0.7
+5532,Seychelles,2018,10.3
+5533,Sierra Leone,2018,0.2
+5534,Singapore,2018,9.7
+5535,Slovakia,2018,7
+5536,Slovenia,2018,7.5
+5537,Solomon Islands,2018,0.2
+5538,Somalia,2018,0.1
+5539,South Africa,2018,8.3
+5540,South Korea,2018,13.6
+5541,Spain,2018,6
+5542,Sri Lanka,2018,1.1
+5543,Sudan,2018,0.4
+5544,Suriname,2018,4
+5545,Sweden,2018,4.5
+5546,Switzerland,2018,4.8
+5547,Syria,2018,1.6
+5548,Taiwan,2018,12
+5549,Tajikistan,2018,0.7
+5550,Tanzania,2018,0.2
+5551,Thailand,2018,4.1
+5552,Togo,2018,0.4
+5553,Tonga,2018,1.1
+5554,Trinidad and Tobago,2018,26.2
+5555,Tunisia,2018,2.8
+5556,Turkey,2018,5.1
+5557,Turkmenistan,2018,14.4
+5558,Turks and Caicos Islands,2018,4.7
+5559,Uganda,2018,0.1
+5560,Ukraine,2018,4.5
+5561,United Arab Emirates,2018,22.4
+5562,United Kingdom,2018,5.6
+5563,United States,2018,16.1
+5564,Uruguay,2018,2
+5565,Uzbekistan,2018,3.1
+5566,Vanuatu,2018,0.3
+5567,Venezuela,2018,3.7
+5568,Vietnam,2018,2.8
+5569,Yemen,2018,0.4
+5570,Zambia,2018,0.3
+5571,Zimbabwe,2018,0.8
